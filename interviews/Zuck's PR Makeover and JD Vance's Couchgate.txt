@@ -1,0 +1,1901 @@
+00:00:00,300 --> 00:00:02,940 [Lulu]
+Ben Horowitz hit piece. Did you read it? 
+
+00:00:02,940 --> 00:00:18,440 [Co-host]
+I did, and I, I just reread it, uh, and I read-- But I found out about it because of his tweet. I found out because he was addressing it before it, before it broke. Um, so should we give a little bit of an overview of like exactly what happened and kind of the play-by-play just as a background? 
+
+00:00:18,440 --> 00:00:22,580 [Lulu]
+Yes. But you gotta give the overview because I did not read it. 
+
+00:00:22,580 --> 00:00:22,900 [Co-host]
+Okay. 
+
+00:00:22,900 --> 00:00:27,000 [Lulu]
+I was just going to show up and sort of concur with a lot of things. I have a couple opinions. 
+
+00:00:27,000 --> 00:00:27,020 [Co-host]
+Yeah. [laughs] 
+
+00:00:27,020 --> 00:00:28,460 [Lulu]
+I did not read the piece. 
+
+00:00:28,460 --> 00:00:57,860 [Co-host]
+So, I mean, B-Ben Horowitz, founder of Andreessen Horowitz, large venture capital firm, recently endorsed Donald Trump, uh, put out, I think, a blog post, and then they did an hour-long podcast on The Mark and Ben Show, kind of breaking down exactly why they made this decision. And so Mike Moritz, uh, former Sequoia big shot, essentially another VC, uh, he has funded a San Francisco 
+
+00:00:59,240 --> 00:01:02,070 [Co-host]
+journalism outlet. I think it's called the SF Chronicle- 
+
+00:01:02,070 --> 00:01:02,580 [Lulu]
+Chronicle 
+
+00:01:02,580 --> 00:01:05,300 [Co-host]
+...or Examiner or something. I, I don't, actually don't know. Standard? 
+
+00:01:05,300 --> 00:01:05,330 [Lulu]
+Chronicle. 
+
+00:01:05,330 --> 00:01:06,000 [Co-host]
+Is it the Standard? 
+
+00:01:06,000 --> 00:01:06,560 [Lulu]
+Yeah. No, wait. 
+
+00:01:06,560 --> 00:01:07,500 [Co-host]
+Okay. Yeah, the Standard. 
+
+00:01:07,500 --> 00:01:08,640 [Lulu]
+Yeah. Standard? Okay, fine. 
+
+00:01:08,640 --> 00:01:48,840 [Co-host]
+Yeah, SF Standard. And so, uh, Ben Horowitz figures out that, uh, the, this outlet will be writing a hit piece against him or a piece investigating why he, uh, switched sides because he, he had hosted Kamala Harris at his house before and, uh, been in league with lots of Democrats, and there's lots of photos of him with Democrats. Um, and so before the article can drop, he goes on X and posts a very long, uh, and aggressive, uh, kind of takedown of the piece and denies a bunch of things that are in there and, and just kind of like sets the record straight before the piece can publish. 
+
+00:01:49,900 --> 00:02:05,970 [Co-host]
+And then later, when the piece published, a lot of the journalists were like, "Oh," like, "his response doesn't matter because what's actually in here is groundbreaking." But I read the piece, and it, it's, it, it's really one of those like just asking questions pieces where it's like- 
+
+00:02:05,970 --> 00:02:05,970 [Lulu]
+Yeah 
+
+00:02:05,970 --> 00:02:15,450 [Co-host]
+...we don't know why he shifted. It's weird that he shifted from left to right, but he's put out an hour-long podcast on why [chuckles] he shifted left to right. 
+
+00:02:15,450 --> 00:02:15,460 [Lulu]
+Yeah. 
+
+00:02:15,460 --> 00:02:18,510 [Co-host]
+Like, clearly he likes the policies more. So I didn't- 
+
+00:02:18,510 --> 00:02:18,510 [Lulu]
+Yeah 
+
+00:02:18,510 --> 00:02:19,240 [Co-host]
+...think it was... 
+
+00:02:20,300 --> 00:02:24,760 [Co-host]
+I, yeah, I, I, I didn't see a lot of like hit in the piece. It just seemed like- 
+
+00:02:24,760 --> 00:02:25,460 [Lulu]
+Yeah 
+
+00:02:25,460 --> 00:02:33,080 [Co-host]
+...kind of reporting what happened, and everyone knows what happened, he endorsed Trump, and then asking a bunch of questions. 
+
+00:02:33,080 --> 00:02:38,780 [Lulu]
+Yeah, yeah. I think he was trying to do the, um, the Dave Portnoy front run move. 
+
+00:02:38,780 --> 00:02:38,930 [Co-host]
+Yep. 
+
+00:02:38,930 --> 00:02:40,740 [Lulu]
+'Cause he sensed a hit piece coming. 
+
+00:02:40,740 --> 00:02:40,940 [Co-host]
+Yep. 
+
+00:02:40,940 --> 00:02:48,040 [Lulu]
+And then the calculus is always, okay, so you get someone in your inbox saying, "Hey, just asking questions about this thing you did that I clearly don't like." 
+
+00:02:48,040 --> 00:02:48,200 [Co-host]
+Yeah. 
+
+00:02:48,200 --> 00:02:57,040 [Lulu]
+Then your calculus is like, number one, am I gonna Streisand effect? Great mug. Outstanding. Am I gonna... Wait, is it giving you a speech bubble right now? 
+
+00:02:57,040 --> 00:02:59,740 [Co-host]
+Yeah, it gave me a little AI thing. I don't know why that's there. 
+
+00:02:59,740 --> 00:03:01,620 [Lulu]
+You think it'll show up for people? 
+
+00:03:01,620 --> 00:03:03,140 [Co-host]
+Maybe. [laughs] Who knows? 
+
+00:03:03,140 --> 00:03:07,060 [Lulu]
+[laughs] Uh, okay, number one, um, 
+
+00:03:08,600 --> 00:03:15,100 [Lulu]
+uh, am I gonna Streisand effect this thing? Which I actually think he did. It's a separate question whether that was bad, but I think- 
+
+00:03:15,100 --> 00:03:15,200 [Co-host]
+Yeah 
+
+00:03:15,200 --> 00:03:19,080 [Lulu]
+...he clearly gave it a lot more play and intrigue than it had in the beginning. 
+
+00:03:19,080 --> 00:03:19,210 [Co-host]
+Yep. 
+
+00:03:19,210 --> 00:03:36,280 [Lulu]
+And then number two, how much of a hit is it actually? Like, am I going to make it look worse than it actually was? Um, in this case, he also did that. I think the piece was like, sounded like it was pretty bland and boring, a little bit, um, a little bit- 
+
+00:03:36,280 --> 00:03:36,680 [Co-host]
+Yeah, I mean- 
+
+00:03:36,680 --> 00:03:38,730 [Lulu]
+...casting shade. Made it sound a lot worse than it was. 
+
+00:03:38,730 --> 00:03:51,120 [Co-host]
+Yeah, they, they try and make him sound like this, like, evil billionaire, and they're talking about his $14 million mansion in Las Vegas, and I'm just like, "That's not that expensive for what billionaires usually buy." [laughs] 
+
+00:03:51,120 --> 00:03:51,820 [Lulu]
+[laughs] Look at their sparkle. 
+
+00:03:51,820 --> 00:04:10,540 [Co-host]
+But they, they make a big fuss about the fact that his house has four gates because he lives in a gated community, and there's three different gates that you go through, and then his house has a gate, so it's like behind four gates, and I mean, it, it looks like a lovely house. It looks amazing, but it doesn't... I don't know. It, it just didn't paint the picture that I thought they were trying to. Um- 
+
+00:04:10,540 --> 00:04:19,840 [Lulu]
+Also, like, nobody, nobody has a strong opinion on how many gates is too many, where you're like, "Oh, four, that's beyond the pale for me. I'm a two person max." 
+
+00:04:19,840 --> 00:04:33,820 [Co-host]
+Yeah. It was just, it was just very, very odd that they kept, like, asking this question about, like, it's so mysterious. It doesn't make any sense. Like, why would they do this? Um, and it was clearly just framed as like, you know, this is bad. Um, which- 
+
+00:04:33,820 --> 00:04:36,550 [Lulu]
+Well, it's bad, like, it's bad that he's rich, first of all. 
+
+00:04:36,550 --> 00:04:36,560 [Co-host]
+Yeah. 
+
+00:04:36,560 --> 00:04:37,840 [Lulu]
+Like, in the media- 
+
+00:04:37,840 --> 00:04:38,200 [Co-host]
+That was clear 
+
+00:04:38,200 --> 00:04:43,219 [Lulu]
+...he, he's a man, he's white, he's, like, on the paler side of white. He's not white- 
+
+00:04:43,220 --> 00:04:43,830 [Co-host]
+Yeah. [laughs] 
+
+00:04:43,830 --> 00:04:51,370 [Lulu]
+...Hispanic or anything, just straight up white, and then he's, like, super rich, and he's in tech, and he's a venture capitalist, and now he's supporting Trump. 
+
+00:04:51,370 --> 00:04:51,450 [Co-host]
+Yeah. 
+
+00:04:51,450 --> 00:05:07,340 [Lulu]
+So he's, like, the turducken plus plus of things that the media typically doesn't like. I can, I can see this having, like, a generally negative tenor. I, I didn't, um, view it as a straight up hit piece, but I think he Streisanded it, and then he kind of used it as a foil to- 
+
+00:05:07,340 --> 00:05:07,560 [Co-host]
+Yeah 
+
+00:05:07,560 --> 00:05:23,780 [Lulu]
+...get all of his boosters and supporters out, which I actually think is kind of a good move. Like, there's the rare occasion on which the Streisand effect works out in your favor, and I think he did that. Like, he did Streisand it, but it did work out in his favor. It was sort of net positive for him. 
+
+00:05:23,780 --> 00:05:37,350 [Co-host]
+Yeah, it's hard because, like, what, what is the downside risk here? Like, he is kind of invulnerable to this type of thing. I mean, I guess having, like, a hit piece about you in a, like, a local newspaper might make your life hard, like, in that town, right? Like, just like- 
+
+00:05:37,350 --> 00:05:37,350 [Lulu]
+Mm-hmm 
+
+00:05:37,350 --> 00:05:43,190 [Co-host]
+...you're going to the bakery, and more people know about you or something. I don't know what he does. Probably doesn't go to the bakery. [laughs] He doesn't need to. 
+
+00:05:43,190 --> 00:05:43,200 [Lulu]
+I- 
+
+00:05:43,200 --> 00:05:51,969 [Co-host]
+But he, i-i-i- like, I don't know. It, it, it just felt like he was, like, really, like, fighting back against something that was, like, kind of small and not that big of a deal. But the- 
+
+00:05:51,969 --> 00:05:52,090 [Lulu]
+Yeah 
+
+00:05:52,090 --> 00:06:01,039 [Co-host]
+...the bigger, the bigger issue that I had with the, with the, the front-running response was that maybe he didn't know what the tone of the piece would be, but- 
+
+00:06:01,040 --> 00:06:01,150 [Lulu]
+Yeah 
+
+00:06:01,150 --> 00:06:08,479 [Co-host]
+...what I really wanted was just, hey, like, you... It's not a secret that he supports Trump. He did an hour-long podcast about it.
+
+00:06:09,196 --> 00:06:09,576 [Lulu]
+Yeah 
+
+00:06:09,576 --> 00:06:40,906 [Co-host]
+The, the, the piece is alleging that it's, like, such a mystery why you support Trump. Just restate why you support Trump. Just actually give us the answer to the piece and be like, "This journalist doesn't get it. Here's why I support it. I believe in technology, and I want, you know, X, Y, and Z, and here, here's how I reached that conclusion," very succinctly. Instead of this kind of waffling like, like, "How dare you accuse me of supporting Trump," when that's true. Like that's-- and that's fine. Like- 
+
+00:06:40,906 --> 00:06:40,906 [Lulu]
+Yeah 
+
+00:06:40,906 --> 00:06:48,216 [Co-host]
+... you should be able to support whatever candidate you want. This is democracy. That's the whole point. And it's anti-democratic to, you know, shout someone down- 
+
+00:06:48,216 --> 00:06:48,246 [Lulu]
+Yeah 
+
+00:06:48,246 --> 00:06:55,736 [Co-host]
+... because they're supporting the wrong candidate. I, I, I, I just, I hate this. I hate it when, when it happened with Palmer Luckey, and I hate it now. But- 
+
+00:06:55,736 --> 00:06:56,176 [Lulu]
+Yeah 
+
+00:06:56,176 --> 00:07:00,096 [Co-host]
+... it, but he, it, it wasn't, it wasn't addressed that way. It was addressed as like- 
+
+00:07:00,096 --> 00:07:00,206 [Lulu]
+Yeah, you're right 
+
+00:07:00,206 --> 00:07:04,735 [Co-host]
+... this is, like, preposterous, and they're, like, digging up random stuff. 
+
+00:07:04,736 --> 00:07:09,216 [Lulu]
+But you know what happened? Yeah, but you know what happened is they got his wife involved. 
+
+00:07:09,216 --> 00:07:09,406 [Co-host]
+Yeah. 
+
+00:07:09,406 --> 00:07:12,016 [Lulu]
+And then he went, like, beast mode because he got- 
+
+00:07:12,016 --> 00:07:12,066 [Co-host]
+Sure 
+
+00:07:12,066 --> 00:07:24,536 [Lulu]
+... ticked off 'cause they involved his family, which I think is a reasonable response. And then apparently she gave my dream qu- uh, uh, she, what did she say? She was like, [laughs] "Kiss my Black ass." 
+
+00:07:24,536 --> 00:07:25,176 [Co-host]
+Something like that. 
+
+00:07:25,176 --> 00:07:26,316 [Lulu]
+"Kiss my whole Black ass." 
+
+00:07:26,316 --> 00:07:26,446 [Co-host]
+Yeah. 
+
+00:07:26,446 --> 00:07:28,326 [Lulu]
+Like, very, um, uh, 
+
+00:07:29,356 --> 00:07:30,816 [Lulu]
+succinct and, uh- 
+
+00:07:30,816 --> 00:07:30,886 [Co-host]
+Yeah 
+
+00:07:30,886 --> 00:07:35,246 [Lulu]
+... the response that I wish I could give, and maybe I will give one day. [laughs] 
+
+00:07:35,246 --> 00:07:37,106 [Co-host]
+[laughs] Yeah. The, the, I mean- 
+
+00:07:37,106 --> 00:07:37,106 [Lulu]
+You'll love it 
+
+00:07:37,106 --> 00:07:46,856 [Co-host]
+... the other, the other criticism that they had was about the, the collage or, like, the photoshopped MAGA hats on the profile photo or the, like, the header image. 
+
+00:07:46,856 --> 00:07:47,926 [Lulu]
+Uh-huh, yeah. 
+
+00:07:47,926 --> 00:07:47,935 [Co-host]
+And- 
+
+00:07:47,936 --> 00:07:48,146 [Lulu]
+Although I think- 
+
+00:07:48,146 --> 00:07:55,036 [Co-host]
+... I think there's broader discussion about... Yeah, there's definitely a broader, broader discussion about, like, those collages because they're kind of designed to go viral. But again- 
+
+00:07:55,036 --> 00:07:55,046 [Lulu]
+Yeah 
+
+00:07:55,046 --> 00:07:59,176 [Co-host]
+... like, if you support Donald Trump, I don't think it's that-- if you come out and publicly- 
+
+00:07:59,176 --> 00:07:59,266 [Lulu]
+Yeah 
+
+00:07:59,266 --> 00:07:59,776 [Co-host]
+... endorse someone- 
+
+00:07:59,776 --> 00:08:00,036 [Lulu]
+Yeah, yeah, yeah 
+
+00:08:00,036 --> 00:08:03,096 [Co-host]
+... it's not that crazy that someone might Photoshop a hat on you. Um... 
+
+00:08:03,096 --> 00:08:03,856 [Lulu]
+Yeah, yeah 
+
+00:08:03,856 --> 00:08:16,896 [Co-host]
+... that, that's not, that doesn't seem like m-like misinformation. Like, u-unless his stance is like, "Look, I, I endorse Trump. I donate to him, but I would never wear the hat." Like, I, and may-maybe- 
+
+00:08:16,896 --> 00:08:16,906 [Lulu]
+[laughs] 
+
+00:08:16,906 --> 00:08:18,276 [Co-host]
+... that's his position, but, like- 
+
+00:08:18,276 --> 00:08:18,286 [Lulu]
+Yeah 
+
+00:08:18,286 --> 00:08:20,256 [Co-host]
+... that doesn't really make sense to me. 
+
+00:08:20,256 --> 00:08:20,356 [Lulu]
+Yeah. 
+
+00:08:20,356 --> 00:08:24,456 [Co-host]
+It's like you're kind of, it's kind of a package deal, I think. I don't know. [laughs] 
+
+00:08:24,456 --> 00:08:30,166 [Lulu]
+Yeah, I agree. But this is one thing where, like, neither side has to be internally consistent. 
+
+00:08:30,166 --> 00:08:30,196 [Co-host]
+Oh, yeah. 
+
+00:08:30,196 --> 00:08:32,556 [Lulu]
+They can just be I think the other side sucks, and here's a- 
+
+00:08:32,556 --> 00:08:32,606 [Co-host]
+Yeah 
+
+00:08:32,606 --> 00:08:40,296 [Lulu]
+... bunch of things, and just mix them together and then drink the smoothie about, like, the anger smoothie about why the other side is bad. And the media does that a lot. 
+
+00:08:40,296 --> 00:08:40,365 [Co-host]
+Yeah. 
+
+00:08:40,365 --> 00:08:59,536 [Lulu]
+And I think in this case, the anti-media people were doing that too, so pretty fair. But I think in sum it's like, uh, did he Streisand effect it? Yes. Did it work out okay? Also yes. Like, kinda his tribe came out all in support. I don't think that there was anybody that previously was, like, on the fence about Ben Horowitz- 
+
+00:08:59,536 --> 00:08:59,546 [Co-host]
+[laughs] 
+
+00:08:59,546 --> 00:09:01,276 [Lulu]
+... that didn't know who he was- 
+
+00:09:01,276 --> 00:09:01,416 [Co-host]
+Yeah 
+
+00:09:01,416 --> 00:09:17,216 [Lulu]
+... and suddenly is like, "Ooh, I don't like that." And then the last thing is like, did he maybe overestimate how negative it would be and overreact? Probably also yes. But the thing is he has such, um, a, a, a, an already entrenched reputation and- 
+
+00:09:17,216 --> 00:09:17,376 [Co-host]
+Yeah 
+
+00:09:17,376 --> 00:09:31,946 [Lulu]
+... network that it didn't seem to change anything. So my, I guess my main takeaway is like, if you have decades of track record like Ben Horowitz does, you can get away with a lot. A new founder handling this for the first time would probably see more variance and more consequences. 
+
+00:09:31,946 --> 00:09:48,226 [Co-host]
+Totally. Totally. Yeah. They, they, it, it feels like the media really wants to tell this story that Ben Horowitz and Andreessen are, like, losing business over this. And the, I, I think that's just ridiculous [laughs] because it's like- 
+
+00:09:48,226 --> 00:09:48,226 [Lulu]
+It's ridiculous 
+
+00:09:48,226 --> 00:09:51,486 [Co-host]
+... you're talking about investors, like, who, like- 
+
+00:09:51,486 --> 00:09:51,676 [Lulu]
+Yeah 
+
+00:09:51,676 --> 00:09:55,756 [Co-host]
+... what, what happens when you go public? Like, who do you think runs these hedge funds? You think that they're liberals? 
+
+00:09:55,756 --> 00:09:55,776 [Lulu]
+Yeah. 
+
+00:09:55,776 --> 00:09:59,356 [Co-host]
+Like, no. Like, they have capitalist in their, in their job title. 
+
+00:09:59,356 --> 00:09:59,976 [Lulu]
+[laughs] 
+
+00:09:59,976 --> 00:10:01,246 [Co-host]
+They are capitalists. 
+
+00:10:01,246 --> 00:10:01,256 [Lulu]
+Yeah. 
+
+00:10:01,256 --> 00:10:09,096 [Co-host]
+Like, they, there's a good chance that they're gonna support the conservative party, like, the, the pro-business c- like, conservative party. This isn't- 
+
+00:10:09,096 --> 00:10:09,126 [Lulu]
+Lower taxes, yeah 
+
+00:10:09,126 --> 00:10:20,816 [Co-host]
+... like crazy. And so if, like, sure, yeah, there are gonna be people that build businesses and exclude anyone who isn't of their political party. But most of the founders that I know have both left-wing and right-wing investors. 
+
+00:10:21,946 --> 00:10:21,976 [Lulu]
+Yeah. Um- 
+
+00:10:21,976 --> 00:10:33,686 [Co-host]
+That's just the way it goes. Because you, because you're aligned about, around a mission and around a, a company and around a valuation. You're, you're not, you're, you're not thinking about this, like, abstract thing that comes up every four years and is very- 
+
+00:10:33,686 --> 00:10:33,696 [Lulu]
+Yeah 
+
+00:10:33,696 --> 00:10:37,596 [Co-host]
+... popular to talk about, but really doesn't have that much effect on the day-to-day. 
+
+00:10:37,596 --> 00:10:46,056 [Lulu]
+Yeah. And also, if you are so politically motivated and so left that Andreessen Horowitz is beyond the pale for you- 
+
+00:10:46,056 --> 00:10:46,076 [Co-host]
+[laughs] 
+
+00:10:46,076 --> 00:10:49,956 [Lulu]
+... I don't think this would've been the thing that, like, switched, you know- 
+
+00:10:49,956 --> 00:10:49,966 [Co-host]
+Yeah 
+
+00:10:49,966 --> 00:11:00,476 [Lulu]
+... switched the calculus. So you probably would've been, um, you probably would've been avoiding them a-already, just based on, uh, the 90-minute thing they did on supporting Trump. Like that- 
+
+00:11:00,476 --> 00:11:19,176 [Co-host]
+Oh, yeah, yeah. Yeah, of course, of course. It's more just, like, the journalists are trying to tell, like, the story of the fallout of that and, and, and kind of put pressure on it. But I, I, I do wonder how the journalists, uh, the, the journalist who wrote the piece thinks it went. Like, obviously, like, she got front run. 
+
+00:11:19,176 --> 00:11:20,336 [Lulu]
+I think they're happy. 
+
+00:11:20,336 --> 00:11:21,366 [Co-host]
+You think they're happy? 
+
+00:11:21,366 --> 00:11:21,376 [Lulu]
+They're happy. 
+
+00:11:21,376 --> 00:11:22,536 [Co-host]
+Because I, I, I do think- 
+
+00:11:22,536 --> 00:11:22,566 [Lulu]
+I'm pretty sure they are 
+
+00:11:22,566 --> 00:11:25,386 [Co-host]
+... they got more clicks because of it, right? And I do think it was probably one of their best- 
+
+00:11:25,386 --> 00:11:25,386 [Lulu]
+Yeah 
+
+00:11:25,386 --> 00:11:38,226 [Co-host]
+... performing things. And I think that they, they feel like they kicked, they poked the bear, and they got, you know, some attention, and they didn't get destroyed. They haven't had to, like, restate or... Because there weren't that many- 
+
+00:11:38,226 --> 00:11:38,256 [Lulu]
+Yeah 
+
+00:11:38,256 --> 00:11:40,396 [Co-host]
+... facts in the piece. The piece is opinion. It's like- 
+
+00:11:40,396 --> 00:11:40,505 [Lulu]
+Yeah 
+
+00:11:40,505 --> 00:11:45,566 [Co-host]
+... well, no one knows, but, you know, it, there isn't that much to it. So it's not like they have to issue- 
+
+00:11:45,566 --> 00:11:45,566 [Lulu]
+Yeah 
+
+00:11:45,566 --> 00:11:47,316 [Co-host]
+... corrections. They can just- 
+
+00:11:47,316 --> 00:11:47,396 [Lulu]
+Right 
+
+00:11:47,396 --> 00:11:50,015 [Co-host]
+... put that out there, and now people know what the SF- 
+
+00:11:50,016 --> 00:11:50,656 [Lulu]
+It's like no corrections 
+
+00:11:50,656 --> 00:11:52,436 [Co-host]
+... Observer is or whatever. 
+
+00:11:52,436 --> 00:11:53,436 [Lulu]
+Chronicle. [laughs] 
+
+00:11:53,436 --> 00:11:55,456 [Co-host]
+I keep getting it wrong. I'm sorry. 
+
+00:11:55,456 --> 00:11:55,686 [Lulu]
+You can make fun, but- 
+
+00:11:55,686 --> 00:11:57,996 [Co-host]
+Is it Chronicle? No, it's The Standard. 
+
+00:11:57,996 --> 00:11:58,015 [Lulu]
+Where SF was going. 
+
+00:11:58,016 --> 00:11:58,576 [Co-host]
+The Standard. 
+
+00:11:59,796 --> 00:12:00,856 [Lulu]
+Sure. Wait. 
+
+00:12:00,856 --> 00:12:01,836 [Co-host]
+Is it? I don't know. 
+
+00:12:01,836 --> 00:12:01,846 [Lulu]
+Is it? 
+
+00:12:01,846 --> 00:12:03,236 [Co-host]
+We'll have to look it up. Whatever. 
+
+00:12:03,236 --> 00:12:03,986 [Lulu]
+Okay. So do you- 
+
+00:12:03,986 --> 00:12:05,156 [Co-host]
+It's something San Francisco related 
+
+00:12:05,156 --> 00:12:07,296 [Lulu]
+... okay, anyway, San Francisco Standard. 
+
+00:12:07,296 --> 00:12:07,676 [Co-host]
+There we go. 
+
+00:12:07,676 --> 00:12:08,706 [Lulu]
+You are right. 
+
+00:12:08,706 --> 00:12:08,896 [Co-host]
+There we go. 
+
+00:12:08,896 --> 00:12:13,626 [Lulu]
+We are, we are one more step on the journey of knowing what this outlet is. 
+
+00:12:13,626 --> 00:12:13,635 [Co-host]
+[laughs] 
+
+00:12:13,636 --> 00:12:19,856 [Lulu]
+And considering that they're fairly new, like, yeah, it's part of them building their brand. I think it's honestly win-win. Like, Ben Horowitz up- 
+
+00:12:19,856 --> 00:12:19,956 [Co-host]
+Yep 
+
+00:12:19,956 --> 00:12:21,496 [Lulu]
+... net positive. SF-
+
+00:12:23,108 --> 00:12:33,798 [Co-host]
+A lot of these, yeah, a lot of these things are win-win, and people don't kind of realize that right now. Like, having... If you play a hit piece correctly, getting a hit piece can be a gift. [chuckles] 
+
+00:12:33,798 --> 00:12:35,548 [Lulu]
+Mm-hmm. Yeah, it's great. 
+
+00:12:35,548 --> 00:12:36,048 [Co-host]
+As long as it- 
+
+00:12:36,048 --> 00:12:36,098 [Lulu]
+It's great 
+
+00:12:36,098 --> 00:12:37,968 [Co-host]
+... doesn't destroy you and you handle it okay. 
+
+00:12:37,968 --> 00:12:43,148 [Lulu]
+Yeah, yeah. I know people who are so jealous that Andro got sanctioned by China. 
+
+00:12:43,148 --> 00:12:43,328 [Co-host]
+Yeah. 
+
+00:12:43,328 --> 00:12:45,828 [Lulu]
+People who are so jealous that, like- 
+
+00:12:45,828 --> 00:12:45,838 [Co-host]
+Yeah 
+
+00:12:45,838 --> 00:12:50,458 [Lulu]
+... Alex Wang had the TechCrunch, uh, hit piece where the writer got fired. It was a good- 
+
+00:12:50,458 --> 00:12:52,018 [Co-host]
+Oh, yeah, that was really good for him. [chuckles] 
+
+00:12:52,018 --> 00:12:54,448 [Lulu]
+[chuckles] That was great for him. 
+
+00:12:54,448 --> 00:12:56,388 [Co-host]
+It was amazing. 
+
+00:12:56,388 --> 00:12:57,788 [Lulu]
+It really was. 
+
+00:12:57,788 --> 00:12:57,888 [Co-host]
+It was. Yeah. 
+
+00:12:57,888 --> 00:13:01,428 [Lulu]
+Um, okay, uh, political labels. 
+
+00:13:01,428 --> 00:13:02,328 [Co-host]
+Yep. 
+
+00:13:02,388 --> 00:13:14,728 [Lulu]
+So what do we mean by political labels? I think what we're talking about is, um, Lyin' Ted, Crooked Hillary, Little Marco, Low Energy Jeb, like the label that you slap on s- or, or weird- 
+
+00:13:14,728 --> 00:13:16,248 [Co-host]
+And Weird JD Vance. 
+
+00:13:16,248 --> 00:13:18,858 [Lulu]
+Weird Couch Fetishist JD Vance or whatever. 
+
+00:13:18,858 --> 00:13:18,868 [Co-host]
+Yep. 
+
+00:13:18,868 --> 00:13:21,398 [Lulu]
+Like the, the, the label that you slap on somebody, 
+
+00:13:22,468 --> 00:13:23,928 [Lulu]
+usually negative- 
+
+00:13:23,928 --> 00:13:23,938 [Co-host]
+Yeah 
+
+00:13:23,938 --> 00:13:25,288 [Lulu]
+... to try to discredit them. 
+
+00:13:26,528 --> 00:13:27,488 [Co-host]
+Yeah. And most recently- 
+
+00:13:27,488 --> 00:13:27,528 [Lulu]
+Uh, okay. Also- 
+
+00:13:27,528 --> 00:13:30,468 [Co-host]
+... Communist Kamala or Comrade Com- 
+
+00:13:30,468 --> 00:13:30,638 [Lulu]
+That's, that's it 
+
+00:13:30,638 --> 00:13:31,188 [Co-host]
+... Kamala. 
+
+00:13:31,188 --> 00:13:33,438 [Lulu]
+Comrade, Comrade Kamala. 
+
+00:13:33,438 --> 00:13:43,868 [Co-host]
+Which honestly, I mean, it, it's better than the other stuff he was saying. It's catchier, but has he lost a step? Why not Commie-la? [chuckles] Commie-la. 
+
+00:13:43,868 --> 00:13:44,878 [Lulu]
+[chuckles] 
+
+00:13:44,878 --> 00:13:52,448 [Co-host]
+I think that just is so much t-more terse. It's so much more terse, but [chuckles] I don't know. Maybe it would be a stretch for people to, to go with. 
+
+00:13:53,608 --> 00:13:53,618 [Co-host]
+[chuckles] 
+
+00:13:53,618 --> 00:13:55,958 [Lulu]
+That's the worst thing I've ever heard. [chuckles] 
+
+00:13:55,958 --> 00:13:56,748 [Co-host]
+[chuckles] You don't like that one? 
+
+00:13:59,168 --> 00:14:00,098 [Lulu]
+[chuckles] This is the worst- 
+
+00:14:00,098 --> 00:14:03,348 [Co-host]
+Comrade Kamala. You're, you're sticking with Comrade Kamala? 
+
+00:14:03,348 --> 00:14:06,108 [Lulu]
+This is the worst idea I've heard in, like, a week. [chuckles] 
+
+00:14:06,108 --> 00:14:11,888 [Co-host]
+Oh, I, I, I think it's brilliant. It works, it works really well over text too. C-O-M-M-I-E. 
+
+00:14:11,888 --> 00:14:13,448 [Lulu]
+How would you spell it? How would you spell it? 
+
+00:14:13,448 --> 00:14:16,828 [Co-host]
+C-O-M-M-I-E, like commie, and then dash LA. 
+
+00:14:16,828 --> 00:14:18,578 [Lulu]
+With a E? 
+
+00:14:18,578 --> 00:14:19,128 [Co-host]
+Yeah, Commie. 
+
+00:14:20,588 --> 00:14:22,998 [Lulu]
+No, but you wouldn't put, at least put a K on. [chuckles] 
+
+00:14:22,998 --> 00:14:26,488 [Co-host]
+Well, maybe. Maybe. I don't know. [chuckles] Who knows? 
+
+00:14:27,568 --> 00:14:30,148 [Co-host]
+Do they spell comrade with a K? 
+
+00:14:30,148 --> 00:14:31,328 [Lulu]
+Yeah, he did because- 
+
+00:14:31,328 --> 00:14:34,057 [Co-host]
+Oh, okay. Okay. Okay, maybe he's got something. 
+
+00:14:34,057 --> 00:14:40,548 [Lulu]
+I mean, if you go with Kamala, you gotta at least do it with a K. This is the worst idea I've maybe ever heard you say out loud. 
+
+00:14:40,548 --> 00:14:41,588 [Co-host]
+[chuckles] 
+
+00:14:41,588 --> 00:14:53,497 [Lulu]
+[chuckles] He, he, he put the K, and it's... I, I think it works because, uh, obviously the, the Kamala, um, but also comrade with a K just looks so much more communist. [chuckles] 
+
+00:14:53,497 --> 00:14:53,508 [Co-host]
+Yeah. 
+
+00:14:53,508 --> 00:15:02,668 [Lulu]
+Like, it just looks more Soviet or it looks more communist. It's better than what I thought he would come out with, which is, like, cringey Kamala. I thought kind of cringe with a K 
+
+00:15:03,728 --> 00:15:04,828 [Lulu]
+might, uh, might be- 
+
+00:15:04,828 --> 00:15:04,837 [Co-host]
+Yeah 
+
+00:15:04,837 --> 00:15:10,578 [Lulu]
+... on the short list. But it felt like he was groping around for a while. There's several weeks when he didn't have a label- 
+
+00:15:10,578 --> 00:15:10,578 [Co-host]
+Yeah 
+
+00:15:10,578 --> 00:15:16,188 [Lulu]
+... where I'm sure there were, like, war room meetings every day to come up with one, and he finally did. 
+
+00:15:16,188 --> 00:15:21,548 [Co-host]
+Yeah, I mean, it seems both sides are, like, kind of auditioning these, like, all the time. You saw this during the, during the VP- 
+
+00:15:23,008 --> 00:15:23,018 [Lulu]
+Mm-hmm 
+
+00:15:23,018 --> 00:15:29,708 [Co-host]
+... uh, kind of search on the Democratic side. Like, Pete Buttigieg went on, I think, "Real Time with Bill Maher," and he delivered this- 
+
+00:15:29,708 --> 00:15:29,798 [Lulu]
+Mm-hmm 
+
+00:15:29,798 --> 00:15:32,568 [Co-host]
+... like, really great, like, soundbite that everyone was like- 
+
+00:15:32,568 --> 00:15:32,698 [Lulu]
+He was good 
+
+00:15:32,698 --> 00:15:34,988 [Co-host]
+... "Oh man, this guy's running." Did you see that? 
+
+00:15:34,988 --> 00:15:35,668 [Lulu]
+Yeah. 
+
+00:15:35,668 --> 00:15:36,668 [Co-host]
+Yeah. And- 
+
+00:15:36,668 --> 00:15:36,788 [Lulu]
+He was really good. Yeah 
+
+00:15:36,788 --> 00:15:44,148 [Co-host]
+... and I think he, he, he didn't coin, like, a phrase. So people were like, "This guy, he has the ability- 
+
+00:15:44,148 --> 00:15:44,188 [Lulu]
+Yeah 
+
+00:15:44,188 --> 00:15:53,228 [Co-host]
+... to perform on camera," and he, he's very... He has, like, a great cadence, but there was no meme that came out of it, whereas Tim Walz- 
+
+00:15:53,228 --> 00:15:53,238 [Lulu]
+Yeah 
+
+00:15:53,238 --> 00:16:03,658 [Co-host]
+... of course, had the weird meme. I think it was even before, like, like, months ago, he originally, like, brought that up. So, like, I think he's the pr- the progen- the, the progenitor of that- 
+
+00:16:03,658 --> 00:16:05,298 [Lulu]
+Wait, Tim Walz came up with weird? Like, in what- 
+
+00:16:05,298 --> 00:16:07,238 [Co-host]
+I'm pretty sure. Yeah, I'm pretty sure he's the one 
+
+00:16:07,238 --> 00:16:09,368 [Lulu]
+... did he call someone weird and it stuck, or? 
+
+00:16:09,368 --> 00:16:24,698 [Co-host]
+Yeah, yeah, yeah. I, I, I think, I think he was giving a speech and was kind of like, "The, the current right wing is weird," and, and that's where that kind of came from. And so it's almost like, you know, you, you elevate, like, the greatest meme lord, like the person who can create the- 
+
+00:16:24,698 --> 00:16:24,698 [Lulu]
+Yeah, yeah, yeah 
+
+00:16:24,698 --> 00:16:27,148 [Co-host]
+... 'cause that is extremely valuable. Like, that, that- 
+
+00:16:27,148 --> 00:16:27,158 [Lulu]
+It is 
+
+00:16:27,158 --> 00:16:39,288 [Co-host]
+... that did st-stick. And it was weird because the, the... I mean, it's, it, it's really hard to defend against. You would n- you would, you would think the response would be to lean into it and just say, like, "Yes, 
+
+00:16:40,608 --> 00:17:05,488 [Co-host]
+the status quo isn't working. We need weird people to do things and change things," and so it becomes a message of change, which is the same message Obama used and then Trump used as well. Like, the status quo isn't working. We need change. And so weird could work for that. But instead, there was just all this pushback from the right saying like, "No, no, no, we're not weird. They're the ones that are weird," and like, no, you almost never works. 
+
+00:17:05,488 --> 00:17:16,798 [Lulu]
+Yeah. Yeah. Weird is... It, it's, it's weird to me that weird stuck because the left has embraced being weird for so long. Like, queer is literally- 
+
+00:17:16,798 --> 00:17:17,128 [Co-host]
+Keep Portland Weird 
+
+00:17:17,128 --> 00:17:18,408 [Lulu]
+... a synonym for weird. 
+
+00:17:18,408 --> 00:17:20,868 [Co-host]
+Yeah, Keep Portland Weird, that's, like, a very lefty slogan. 
+
+00:17:20,868 --> 00:17:45,528 [Lulu]
+Yeah, yeah, yeah. Yeah, yeah. Yeah, exactly. So I don't know why the, the, things, things are switching in a, in, in a, a strange way, where weird is being now, um, applied to the right, and then this, like, southern trucker vibe is being adopted by the left, and then Kamala is adopting the concept of freedom for her ad campaign. And so I think, um, uh, this is one of the reasons why I think Comrade Kamala is so good. 
+
+00:17:45,528 --> 00:17:45,588 [Co-host]
+Yeah. 
+
+00:17:45,588 --> 00:17:55,268 [Lulu]
+Because the left is trying to run on this, like, American stars and stripes kinda down south vibe now. 
+
+00:17:55,268 --> 00:17:55,288 [Co-host]
+Yeah. 
+
+00:17:55,288 --> 00:17:59,868 [Lulu]
+And for him to just straight up call her a communist [chuckles] is actually a pretty good counterattack. 
+
+00:17:59,868 --> 00:18:15,248 [Co-host]
+Yeah. I mean, it seems, it, it seems brilliant and, like, a great tactic because people are trying to push them left and left and left, and so stepping into, "Oh, no, we like hunting too, and we like camo, and we like America," like, that's- 
+
+00:18:15,248 --> 00:18:15,308 [Lulu]
+Mm-hmm 
+
+00:18:15,308 --> 00:18:22,398 [Co-host]
+... th-that's a total correction that will kind of grow the-... the pie or, like, open the, open the circus tent. I, I don't know the, the- 
+
+00:18:22,398 --> 00:18:22,398 [Lulu]
+Yeah 
+
+00:18:22,398 --> 00:18:23,878 [Co-host]
+... the exact term. But, uh- 
+
+00:18:23,878 --> 00:18:23,878 [Lulu]
+Yeah 
+
+00:18:23,878 --> 00:18:44,108 [Co-host]
+... I mean, it seems, it seems like a great tactic. The other thing with weird is that I feel like the, the left at least had had, uh, you know, derogatory, pejorative language neutered for, for years and years and years. Um, I mean, obviously it started with, like, the really offensive words like the R word, which we don't even say in polite company. Um, but then- 
+
+00:18:44,108 --> 00:18:44,118 [Lulu]
+[chuckles] 
+
+00:18:44,118 --> 00:18:48,688 [Co-host]
+... th- there was a whole movement around, you know, you shouldn't call someone stupid. Um, you shouldn't say- 
+
+00:18:48,688 --> 00:18:48,758 [Lulu]
+Mm-hmm 
+
+00:18:48,758 --> 00:18:51,588 [Co-host]
+... disabled, you should say differently abled. Um- 
+
+00:18:51,588 --> 00:18:51,928 [Lulu]
+Yeah 
+
+00:18:51,928 --> 00:19:12,828 [Co-host]
+... you shouldn't say, uh, y- you know, all, all these different pejoratives that people would normally throw around. I remember you'd see it a lot within leftist circles. Um, I remember there was a leftist podcast that got canceled kind of, uh, for calling someone, who I think was on the right, they were being derogatory towards a right-winger. They called them, like, a Cro-Magnon or something like that, and that was- 
+
+00:19:12,828 --> 00:19:12,918 [Lulu]
+What? 
+
+00:19:12,918 --> 00:19:15,268 [Co-host]
+... a Mongoloid, and that was seen as like- 
+
+00:19:15,268 --> 00:19:15,458 [Lulu]
+[chuckles] 
+
+00:19:15,458 --> 00:19:20,648 [Co-host]
+... you know, crossing some sort of language barrier, and, like, you shouldn't use that word pejoratively. Um- 
+
+00:19:20,648 --> 00:19:23,387 [Lulu]
+I'm sorry, that is a hilarious insult- 
+
+00:19:23,387 --> 00:19:23,738 [Co-host]
+Oh, yeah, yeah 
+
+00:19:23,738 --> 00:19:25,308 [Lulu]
+... and we should embrace it [laughs] with, with- 
+
+00:19:25,308 --> 00:19:38,308 [Co-host]
+And I think that there's just, like, I mean, it comes, it goes back to, like, the, the school playground. Like, people want a, a phrase that has, like, a little bit of bite, a pejorative, and, and a lot of those have been kind of w- like, eliminated from polite- 
+
+00:19:38,308 --> 00:19:38,448 [Lulu]
+Yeah 
+
+00:19:38,448 --> 00:19:57,687 [Co-host]
+... society. We don't use these terms anymore broadly, and certainly the left doesn't. And so I think there was, like, this massive power vacuum for a word that could be thr- hurled at someone, and Trump has been, you know, loving this. He throw, throws so many different words. He uses them all [chuckles] basically. 
+
+00:19:57,688 --> 00:19:58,098 [Lulu]
+Yeah, yeah. [chuckles] 
+
+00:19:58,098 --> 00:20:02,718 [Co-host]
+And, and then the left finally found it with weird, and it was so unexpected because, A- 
+
+00:20:02,718 --> 00:20:02,838 [Lulu]
+Yeah 
+
+00:20:02,838 --> 00:20:07,218 [Co-host]
+... they don't hurl pejoratives generally, and B- 
+
+00:20:07,218 --> 00:20:07,218 [Lulu]
+Yeah 
+
+00:20:07,218 --> 00:20:11,208 [Co-host]
+... weird is not... It, it, it was a positive word a month ago. [laughs] 
+
+00:20:11,208 --> 00:20:11,418 [Lulu]
+Yeah, yeah, no, that's true. 
+
+00:20:11,418 --> 00:20:12,728 [Co-host]
+And now all of a sudden it's a negative word. 
+
+00:20:14,548 --> 00:20:15,648 [Co-host]
+So it was very unexpected- 
+
+00:20:15,648 --> 00:20:15,658 [Lulu]
+I love- 
+
+00:20:15,658 --> 00:20:17,308 [Co-host]
+... and very, v- v- put the right, like- 
+
+00:20:17,308 --> 00:20:17,428 [Lulu]
+It is 
+
+00:20:17,428 --> 00:20:19,868 [Co-host]
+... definitely on its back foot. 
+
+00:20:19,868 --> 00:20:36,108 [Lulu]
+It's interesting to see what sticks. So, um, on, on a related note, you and I talked like two weeks ago about, okay, we'll take a week off, and then we'll come back, and let's see if the J.D. Vance couch thing is still relevant. Maybe it's gone away. It's just not going away. [laughs] That, that charge is- 
+
+00:20:37,308 --> 00:20:37,798 [Co-host]
+People love it 
+
+00:20:37,798 --> 00:20:41,348 [Lulu]
+... sticking. People love it, and the thing is nobody cares if it's true. Like, nobody- 
+
+00:20:41,348 --> 00:20:41,358 [Co-host]
+Yeah 
+
+00:20:41,358 --> 00:20:45,228 [Lulu]
+... thinks this actually happened, where he fornicated with a piece of furniture. 
+
+00:20:45,228 --> 00:20:45,728 [Co-host]
+Yeah. 
+
+00:20:45,728 --> 00:20:55,108 [Lulu]
+But it doesn't matter. Like, the, the actual facts of the thing don't matter. It's the same with, like, the Ben Horowitz and the SF Chronicle. Standard. 
+
+00:20:55,108 --> 00:20:56,588 [Co-host]
+Standard. [laughs] 
+
+00:20:56,588 --> 00:21:31,068 [Lulu]
+[laughs] It doesn't, it doesn't matter what the actual facts of the case are. It's just that it feels correct, and the valence is either positive or negative, and I agree with it or I don't agree with it. And so the, the, the Vance couch thing feels to me like I don't like him, and it makes him look bad, so let's just go with it. We're not gonna dig into, like, whether this happened or not. It doesn't actually matter. Uh, which is interesting because the left is usually super hyper about misinformation and about e- even about, um, uh, trying to normalize fetishes. Like, if you had to choose one group in America that is always- 
+
+00:21:31,068 --> 00:21:31,078 [Co-host]
+Mm-hmm 
+
+00:21:31,078 --> 00:21:34,848 [Lulu]
+... an apologist for weird sexual fetishes, it's definitely the li- the left. 
+
+00:21:34,848 --> 00:21:35,148 [Co-host]
+Yeah. 
+
+00:21:35,148 --> 00:21:42,928 [Lulu]
+And so they're the ones here attacking, and nobody actually cares. And it, it's just sticking. It's, it's, it's crazy. 
+
+00:21:42,928 --> 00:21:44,508 [Co-host]
+Yeah. I think they, 
+
+00:21:45,548 --> 00:21:55,188 [Co-host]
+the, like, Trump and Vance have done a decent job just moving past it. Like, Trump has done a bunch of, like, just long form podcasts. He was just on Theo Von. And- 
+
+00:21:55,188 --> 00:21:56,448 [Lulu]
+Yeah, which, which was [chuckles] 
+
+00:21:56,448 --> 00:22:17,278 [Co-host]
+And, a- a- and that produced, like, more new clips, and I think there, there's a little bit of, like, the, the couch attack is so, it's so weird and, and bizarre and just, like, it, it, it doesn't track with any t- typical... It's completely unrelated to policy. It's something that you, you can't really deny 'cause it's fake, and if you call it fake, it doesn't matter. It's just like- 
+
+00:22:17,278 --> 00:22:17,278 [Lulu]
+Mm-hmm 
+
+00:22:17,278 --> 00:22:29,488 [Co-host]
+... you don't get the joke, right? So there's, there's not really much you can do to address it head on. And so it seems like your best move then is just to try and move on entirely and go talk to- 
+
+00:22:29,488 --> 00:22:29,668 [Lulu]
+Yeah 
+
+00:22:29,668 --> 00:22:33,168 [Co-host]
+... Theo Von about something new that's viral, and then that will- 
+
+00:22:33,168 --> 00:22:33,468 [Lulu]
+Yeah 
+
+00:22:33,468 --> 00:22:40,098 [Co-host]
+... take over the, the, the memetic space. People will get bored of the old meme and move on to the new thing. 
+
+00:22:40,098 --> 00:22:42,048 [Lulu]
+But they're not getting bored of the old me- so I, I agree with you- 
+
+00:22:42,048 --> 00:22:42,688 [Co-host]
+I think they are 
+
+00:22:42,688 --> 00:22:49,508 [Lulu]
+... you can't, you can't debunk it, and you can't get rid of it, but you can sort of layer stuff on top of it. I don't think people are getting bored with it. 
+
+00:22:49,508 --> 00:22:51,028 [Co-host]
+I think they are. I, I- 
+
+00:22:51,028 --> 00:22:51,098 [Lulu]
+I think it was like- 
+
+00:22:51,098 --> 00:22:54,668 [Co-host]
+I, I would be shocked if we're hearing about the couch in September. 
+
+00:22:54,668 --> 00:23:00,148 [Lulu]
+I didn't think we'd be hearing about it a few weeks ago, you know, now, and we still are. 
+
+00:23:00,148 --> 00:23:01,148 [Co-host]
+It did have a long life. It did have a long life. 
+
+00:23:01,148 --> 00:23:01,478 [Lulu]
+But- 
+
+00:23:01,478 --> 00:23:02,708 [Co-host]
+But, like, politics, I mean- 
+
+00:23:02,708 --> 00:23:02,858 [Lulu]
+At the DNC- 
+
+00:23:02,858 --> 00:23:03,868 [Co-host]
+... moves very quickly 
+
+00:23:03,868 --> 00:23:07,908 [Lulu]
+... at the DNC, there, there was, like, a J.D. Vance special couch. 
+
+00:23:07,908 --> 00:23:08,248 [Co-host]
+Really? 
+
+00:23:08,248 --> 00:23:20,348 [Lulu]
+In a, in a room. [laughs] Yeah. It's still, like, maybe people will get tired of it, but I think, I think what Trump is doing with generating new clips, like, Vance needs to generate new clips and new memes because- 
+
+00:23:20,348 --> 00:23:20,368 [Co-host]
+Yeah 
+
+00:23:20,368 --> 00:23:22,248 [Lulu]
+... right now he's still the couch guy. 
+
+00:23:22,248 --> 00:23:22,388 [Co-host]
+Yep. 
+
+00:23:22,388 --> 00:23:29,028 [Lulu]
+Trump is on, on, like, 10 different topics, and Vance is just stuck being the couch guy 'cause he hasn't found anything more powerful than that. 
+
+00:23:29,028 --> 00:23:34,548 [Co-host]
+Yeah. He went on the Nelk podcast, but I don't think I saw a single clip from it because there wasn't anything- 
+
+00:23:34,548 --> 00:23:34,798 [Lulu]
+I didn't see anything either 
+
+00:23:34,798 --> 00:23:37,838 [Co-host]
+... there that was, like, viral fuel. Uh, 
+
+00:23:39,108 --> 00:23:41,908 [Co-host]
+yeah, it's been, it's been tricky for him. I don't know. 
+
+00:23:43,408 --> 00:23:43,848 [Lulu]
+Mm. 
+
+00:23:45,168 --> 00:23:56,378 [Lulu]
+I guess what, uh, the bet here is, uh, if we, if we have, like, a two-person poly market going on, um, what would be your over-under that the couch thing is still a meme end of September? 
+
+00:23:56,378 --> 00:24:02,468 [Co-host]
+It's hard to define what, what, like, still a meme would be, but I, I just don't think, 
+
+00:24:04,008 --> 00:24:16,928 [Co-host]
+I, I, I don't think next month there will be very many memes posted. I don't, I... It'll be, like, a vibe, but I certainly don't think that they will be going viral. If I had to quantify it, I'd be like, I don't think there'll be a new couch meme that gets over 10,000 likes on X or something. 
+
+00:24:16,928 --> 00:24:16,938 [Lulu]
+Yeah. 
+
+00:24:16,938 --> 00:24:19,628 [Co-host]
+Which is, like, what they were doing, like, every day that week.
+
+00:24:20,260 --> 00:24:28,340 [Lulu]
+But imagine-- Yeah, I, I agree. I don't think that, like, uh, another photoshopped J.D. Vance couch pun will go viral on X. 
+
+00:24:28,340 --> 00:24:28,459 [Co-host]
+Yep. 
+
+00:24:28,460 --> 00:24:34,620 [Lulu]
+But imagine they're having the VP debate, and Tim Walz just drops in- 
+
+00:24:34,620 --> 00:24:34,630 [Co-host]
+Yeah 
+
+00:24:34,630 --> 00:24:36,320 [Lulu]
+... like a sofa pun- 
+
+00:24:36,320 --> 00:24:36,330 [Co-host]
+Yeah 
+
+00:24:36,330 --> 00:24:41,140 [Lulu]
+... in the middle of one of his answers. Crowd would erupt. That clip would go totally viral. 
+
+00:24:41,140 --> 00:24:41,190 [Co-host]
+Yeah. 
+
+00:24:41,190 --> 00:24:43,780 [Lulu]
+And if I were Walz, I would 100%- 
+
+00:24:43,780 --> 00:24:44,470 [Co-host]
+Be planning for it 
+
+00:24:44,470 --> 00:24:47,540 [Lulu]
+... be planting, like, at least two somewhere. Yeah. Yeah. 
+
+00:24:47,540 --> 00:24:48,120 [Co-host]
+It's a good point. 
+
+00:24:48,120 --> 00:24:48,730 [Lulu]
+And the thing about this being so ridiculous- 
+
+00:24:48,730 --> 00:24:49,320 [Co-host]
+Maybe, maybe it's got legs. 
+
+00:24:50,580 --> 00:25:01,930 [Lulu]
+It's got like what? [chuckles] It's got legs. Four legs. The thing about this being so ridiculous is that it embarrasses someone, like you said, in a way that they can't fight back against- 
+
+00:25:01,930 --> 00:25:01,930 [Co-host]
+Yep 
+
+00:25:01,930 --> 00:25:07,790 [Lulu]
+... and there's no point in fighting it. Like, it actually diminishes his stature and erodes his prestige to have- 
+
+00:25:07,790 --> 00:25:07,790 [Co-host]
+Yep 
+
+00:25:07,790 --> 00:25:10,200 [Lulu]
+... this out there in this, in this absurd way. 
+
+00:25:10,200 --> 00:25:10,520 [Co-host]
+Totally. 
+
+00:25:13,320 --> 00:25:15,919 [Lulu]
+All right. Should we go to- 
+
+00:25:15,920 --> 00:25:17,860 [Co-host]
+There's actually an interesting transition from- 
+
+00:25:17,860 --> 00:25:18,570 [Lulu]
+Yeah 
+
+00:25:18,570 --> 00:25:23,900 [Co-host]
+... the Vance couch to the, uh, Mark Zuckerberg robot allegations. 
+
+00:25:25,620 --> 00:25:27,180 [Lulu]
+Okay. You start. 
+
+00:25:27,180 --> 00:25:36,740 [Co-host]
+Because I was, I, I was thinking about how it's like when, when a meme takes hold and people start calling you something, like with, with- 
+
+00:25:36,740 --> 00:25:37,020 [Lulu]
+Mm-hmm 
+
+00:25:37,020 --> 00:25:50,070 [Co-host]
+... Vance, obviously, it's related to the couch, and with Mark Zuckerberg, for years, it was like he is a robot. He's, he's, you know, this, you know, android. He doesn't have emotions. He's too stiff. 
+
+00:25:50,070 --> 00:25:50,140 [Lulu]
+Uh-huh. 
+
+00:25:50,140 --> 00:25:50,640 [Co-host]
+And- 
+
+00:25:50,640 --> 00:25:51,520 [Lulu]
+Yeah 
+
+00:25:51,520 --> 00:26:00,700 [Co-host]
+... and there's-- And you can't address it head-on. You just have to give some people evidence of something new that they can grasp onto. And- 
+
+00:26:00,700 --> 00:26:00,820 [Lulu]
+Yeah 
+
+00:26:00,820 --> 00:26:09,360 [Co-host]
+... I don't think Vance has done that yet. We haven't seen anything from him yet. It's still really early. But obviously with Mark Zuckerberg, 
+
+00:26:10,680 --> 00:26:29,319 [Co-host]
+over the past, what, four, five years, there's been a super major rehabilitation of his image from robot android pale in front of Congress, kind of answering questions in a very stilted lawyerly way, to the cool bro that everyone wants to hang out with, including- 
+
+00:26:29,320 --> 00:26:30,040 [Lulu]
+Yeah. 
+
+00:26:30,040 --> 00:26:33,880 [Co-host]
+[chuckles] uh, including, uh, is it Emily Chang at, uh, Bloomberg- 
+
+00:26:33,880 --> 00:26:33,940 [Lulu]
+Yeah 
+
+00:26:33,940 --> 00:26:36,840 [Co-host]
+... who, who wrote a book called "Brotopia"- 
+
+00:26:36,840 --> 00:26:36,849 [Lulu]
+Mm-hmm 
+
+00:26:36,849 --> 00:26:42,790 [Co-host]
+... that was very critical of bro culture and has now been on a show literally called "The Circuit," [chuckles] going around- 
+
+00:26:42,790 --> 00:26:42,790 [Lulu]
+Mm-hmm 
+
+00:26:42,790 --> 00:26:45,200 [Co-host]
+... to all the Brotopias and hanging out with- 
+
+00:26:45,200 --> 00:26:45,280 [Lulu]
+Okay 
+
+00:26:45,280 --> 00:26:47,880 [Co-host]
+... the kings of the Brotopias. [chuckles] 
+
+00:26:47,880 --> 00:26:47,960 [Lulu]
+Very different. 
+
+00:26:47,960 --> 00:26:52,220 [Co-host]
+And all of a sudden, if you go back and look at her book, it, it seems like it's an instruction manual. 
+
+00:26:52,220 --> 00:26:52,260 [Lulu]
+Yeah. [laughs] 
+
+00:26:52,260 --> 00:27:03,510 [Co-host]
+Not, not, not, not, not critical of, of what was o-of, of that culture because those Brotopias produced things that she wants to go and make videos about now. 
+
+00:27:03,510 --> 00:27:03,600 [Lulu]
+Yeah. 
+
+00:27:03,600 --> 00:27:04,300 [Co-host]
+Um, but- 
+
+00:27:04,300 --> 00:27:04,960 [Lulu]
+So, so can- 
+
+00:27:04,960 --> 00:27:04,970 [Co-host]
+Yeah 
+
+00:27:04,970 --> 00:27:09,300 [Lulu]
+... can I tell you what, what I think happened over the past, like, five years? 
+
+00:27:09,300 --> 00:27:09,659 [Co-host]
+Yeah. 
+
+00:27:09,660 --> 00:27:17,900 [Lulu]
+Is, is three things. One is an overall return of masculinity, um, and, um, 
+
+00:27:19,140 --> 00:27:22,820 [Lulu]
+masculinity being permitted and acceptable. 
+
+00:27:22,820 --> 00:27:22,980 [Co-host]
+Yep. 
+
+00:27:22,980 --> 00:27:29,900 [Lulu]
+Um, so that's, that's one. Two is Facebook doing extraordinarily well as a business. 
+
+00:27:29,900 --> 00:27:30,020 [Co-host]
+Yep. 
+
+00:27:30,020 --> 00:27:41,430 [Lulu]
+Just printing dollars. That helps. And then three is that Mark Zuckerberg got rid of a lot of his PR. Like, he still has a team. He actually has a pretty sizable team doing his stuff- 
+
+00:27:41,430 --> 00:27:41,430 [Co-host]
+Yeah 
+
+00:27:41,430 --> 00:27:55,820 [Lulu]
+... and then an even bigger team doing Meta stuff. But he had an old team that was more overbearing and more stiff and corporate who were trying to actually coach him to, um, basically minimize the surface area for attacks. 
+
+00:27:55,820 --> 00:27:56,129 [Co-host]
+Yep. 
+
+00:27:56,129 --> 00:28:21,090 [Lulu]
+And I've seen this happen where, um, like PR people team up with lawyers and, and they're like, "Well, we don't want people to attack us for these 10 things, so we're just not gonna talk about any of them. We're gonna stick to these three talking points, and the way you win is by not venturing outside this tiny box whatsoever." So like, number one, it makes you robotic because you're so stressed about, uh, even stepping foot outside, um, of this like tiny little box- 
+
+00:28:21,090 --> 00:28:21,100 [Co-host]
+Yeah 
+
+00:28:21,100 --> 00:28:41,020 [Lulu]
+... that you're allowed to speak about. And then number two is you have no personality and no interest because you're not permitted to. And when you do a lot of congressional hearings, that effect gets even worse because more lawyers and more GR people get involved. So like when... Do you remember when Claudine Gay from Harvard- 
+
+00:28:41,020 --> 00:28:41,180 [Co-host]
+Yeah 
+
+00:28:41,180 --> 00:28:47,930 [Lulu]
+... had to do that hearing? So I know one of the people who prepped Claudine Gay for this. 
+
+00:28:47,930 --> 00:28:47,940 [Co-host]
+Mm. 
+
+00:28:47,940 --> 00:29:29,880 [Lulu]
+And what I heard was that there were things that she wanted to say where she didn't have too much of a leg to stand on, but there were things that she wanted to say that would have come off actually better than what she did say. And the lawyers came in and just said like, "No, no, no, no, no. Here's the thing you're going to say." And it turned out to be the worst possible version within the pretty bad already universe of what she could say. So I think for Zuck, it's like people are saying he got great PR, he has this PR makeover, and he does have good people, and there are great people working at Meta whom I admire, but mostly he got rid of bad PR and started just acting like a person, and that's what this whole... Like, a PR person didn't teach him- 
+
+00:29:29,880 --> 00:29:29,980 [Co-host]
+Yeah 
+
+00:29:29,980 --> 00:29:36,440 [Lulu]
+... Brazilian jujitsu, and a PR person didn't go to the gym and spot him and force him to work out and make, like grow out his hair. 
+
+00:29:36,440 --> 00:29:48,780 [Co-host]
+Yeah. I think there's a widespread misconception that this is some sort of like in-house job, and if you go back to 2019 Meta HQ, you'll find like some sort of PowerPoint presentation- 
+
+00:29:48,780 --> 00:29:49,790 [Lulu]
+Yeah. [laughs] 
+
+00:29:49,790 --> 00:29:52,830 [Co-host]
+... with Zuck's PR makeover, and he's gonna- 
+
+00:29:52,830 --> 00:29:52,830 [Lulu]
+Yeah 
+
+00:29:52,830 --> 00:30:28,982 [Co-host]
+... need to learn jujitsu and, and wear a gold chain, and they like market tested this stuff with, with him and with audiences or something. I don't think that's what happened at all. I think he's always been this person. If you talk to people who know him really well, they'll say, "Yeah, this is always what he's been like." Even if you go back to old interviews, he was very much like the bro on the couch. There's that in-interview of him where he's holding a solo cup full of beer while he's talking about the business. Like-That's the same person that goes to UFC and rides a surfboard off the back of his Lake Tahoe, you know, boat or whatever. 
+
+00:30:28,982 --> 00:30:28,992 [Lulu]
+Yeah. 
+
+00:30:28,992 --> 00:30:34,312 [Co-host]
+Like, those are the same people. It was that inter- it was that, like, interim period- 
+
+00:30:34,312 --> 00:30:34,472 [Lulu]
+Yes 
+
+00:30:34,472 --> 00:30:38,951 [Co-host]
+... that was very much coached and planned out and calculated. Um- 
+
+00:30:38,952 --> 00:30:39,142 [Lulu]
+Yeah 
+
+00:30:39,142 --> 00:30:40,512 [Co-host]
+... and so, yeah. 
+
+00:30:40,512 --> 00:30:40,982 [Lulu]
+They got into-- Remember in, um 
+
+00:30:42,312 --> 00:30:47,512 [Lulu]
+[lip smacks] what is... Oh, Men in Black. Okay, throwback. Do you remember Men in Black? 
+
+00:30:47,512 --> 00:30:47,572 [Co-host]
+Yeah. 
+
+00:30:47,572 --> 00:30:51,842 [Lulu]
+The farmer who gets taken over by aliens, and then he's all, like, twitchy and asking- 
+
+00:30:51,842 --> 00:30:51,842 [Co-host]
+Yep 
+
+00:30:51,842 --> 00:30:58,252 [Lulu]
+... for sugar? [chuckles] They did, they, they put, like, corpo bot DCG- 
+
+00:30:58,252 --> 00:30:58,262 [Co-host]
+Yeah 
+
+00:30:58,262 --> 00:31:29,832 [Lulu]
+... R, um, alien inside of his brain and body and forced him to do that, and so he was, like, the stiff asking for sugar guy for several years. And then somehow that got exorcized out. Uh, again, credit to him he- 'cause he gets to choose who's around him, and then he was able to just be a person again. And even his PR people, who again are very good, will say the same thing, which is that he went and got these interests and decided to pursue them. And, and to their credit, they gave him permission to do that and didn't try to kill it. Maybe the ones that tried to kill it got fired. 
+
+00:31:29,832 --> 00:31:29,912 [Co-host]
+Yeah. 
+
+00:31:29,912 --> 00:31:38,572 [Lulu]
+Um, and this is just this, uh, beautiful, bro-y, chain-wearing butterfly coming out of the cocoon in its true form. 
+
+00:31:38,572 --> 00:31:39,952 [Co-host]
+Yeah. It's also interesting that he 
+
+00:31:41,072 --> 00:32:18,172 [Co-host]
+didn't shift from... You know, like, the original attack line against Meta and, and Zuckerberg was, like, the damage that social media is doing to our society. And so, there were these studies that showed that, you know, oh, young women who use Instagram might get body image issues, right? And, and, and if you dug into the data, it, it was a little bit tricky because it was like one-third felt worse about their body, and so that was, like, the headline number. It was like 30% of Instagram users feel worse. But then what about the 70%? Did they feel better? Because that kind of offsets it- 
+
+00:32:18,172 --> 00:32:18,182 [Lulu]
+[laughs] 
+
+00:32:18,182 --> 00:32:19,612 [Co-host]
+... and maybe it's not good. But- 
+
+00:32:19,612 --> 00:32:19,732 [Lulu]
+Yeah. Yeah 
+
+00:32:19,732 --> 00:32:30,942 [Co-host]
+... if you get bogged down in debating, if you get dragged down into that product and data discussion, all of a sudden there's tons of legal liability. The lawyers and the PR people- 
+
+00:32:30,942 --> 00:32:30,942 [Lulu]
+Yeah 
+
+00:32:30,942 --> 00:32:40,162 [Co-host]
+... really do need to be in the conversation when, before you go and make a statement about that. But beautifully, they don't if you're just talking about UFC, because that has nothing to do- 
+
+00:32:40,162 --> 00:32:40,162 [Lulu]
+Yeah, yeah, yeah 
+
+00:32:40,162 --> 00:32:43,262 [Co-host]
+... with your business, and it doesn't create any legal liability. [chuckles] And so- 
+
+00:32:43,262 --> 00:32:44,032 [Lulu]
+Well- 
+
+00:32:44,032 --> 00:32:52,132 [Co-host]
+... it's not that he, it's not that he, like, he took the cuffs off and told us how he really feels about Instagram's impact on the t- the- 
+
+00:32:52,132 --> 00:32:52,252 [Lulu]
+Yeah 
+
+00:32:52,252 --> 00:32:54,552 [Co-host]
+... the, the g- the next generation. He just started- 
+
+00:32:54,552 --> 00:32:54,562 [Lulu]
+He still- 
+
+00:32:54,562 --> 00:32:55,452 [Co-host]
+... talking about other stuff 
+
+00:32:55,452 --> 00:33:03,272 [Lulu]
+... you're so right. You're so right. He's, he still will not talk about or, or avoids talking about things like user data and- 
+
+00:33:03,272 --> 00:33:03,792 [Co-host]
+Exactly 
+
+00:33:03,792 --> 00:33:06,032 [Lulu]
+... uh, moderation and all of that. But it's just- 
+
+00:33:06,032 --> 00:33:06,042 [Co-host]
+Yeah 
+
+00:33:06,042 --> 00:33:15,401 [Lulu]
+... there's, there's other stuff. And this, by the way, is how the Collisons have made Stripe way more interesting than it would otherwise be as a business. Like, as a business- 
+
+00:33:15,401 --> 00:33:15,401 [Co-host]
+Yeah 
+
+00:33:15,401 --> 00:33:17,572 [Lulu]
+... it's interesting because it's novel and it's really- 
+
+00:33:17,572 --> 00:33:17,621 [Co-host]
+Yeah 
+
+00:33:17,621 --> 00:33:27,792 [Lulu]
+... well run. There's something there. But there's, like, this really significant alpha of how interesting it is, and that is the Collison factor, where they're talking about books, and they launched Stripe Press. And- 
+
+00:33:27,792 --> 00:33:27,841 [Co-host]
+Yep 
+
+00:33:27,841 --> 00:33:37,852 [Lulu]
+... and John did that project with Charlie Munger, and they have all these other interests. They're Irish. They're charming. And that, um, is not actually strictly related to the business at all. 
+
+00:33:37,852 --> 00:33:47,612 [Co-host]
+Yep. Yeah, definitely. And the other, I mean, the other, uh, totally, like, conspiracy theory was, like, the Facebook listens to your phone calls thing. Do you remember this? 
+
+00:33:49,092 --> 00:33:49,232 [Co-host]
+So- 
+
+00:33:49,232 --> 00:33:50,142 [Lulu]
+I do. At some- 
+
+00:33:50,142 --> 00:33:51,022 [Co-host]
+This, this happened- 
+
+00:33:51,022 --> 00:33:51,322 [Lulu]
+I have some- 
+
+00:33:51,322 --> 00:33:58,092 [Co-host]
+... on Joe Rogan. Rogan asked, uh, Antonio Garcia Martinez, uh, who worked at Facebook, he was like- 
+
+00:33:58,092 --> 00:33:58,292 [Lulu]
+Yeah, yeah 
+
+00:33:58,292 --> 00:34:01,372 [Co-host]
+... "They gotta b- they gotta be listening to your phone when you're- 
+
+00:34:01,372 --> 00:34:01,982 [Lulu]
+I remember him saying this 
+
+00:34:01,982 --> 00:34:05,992 [Co-host]
+... not on a call, because the ads are too well-targeted." And of course it's just- 
+
+00:34:05,992 --> 00:34:06,002 [Lulu]
+Yeah 
+
+00:34:06,002 --> 00:34:08,681 [Co-host]
+... it's just the confirmation bias. They show you a ton of ads. 
+
+00:34:08,681 --> 00:34:08,692 [Lulu]
+Yes. 
+
+00:34:08,692 --> 00:34:09,642 [Co-host]
+Some of them are gonna line up. 
+
+00:34:09,642 --> 00:34:09,652 [Lulu]
+Yeah. 
+
+00:34:09,652 --> 00:34:11,862 [Co-host]
+And then they do have a lot of great data. So if you- 
+
+00:34:11,862 --> 00:34:11,892 [Lulu]
+Yeah 
+
+00:34:11,892 --> 00:34:22,292 [Co-host]
+... bought something and it knows that we're friends, and then we talk about it, and then I see an ad, that can be determined not by listening to our phone call, right? Like, we know how the data can work. 
+
+00:34:22,292 --> 00:34:25,272 [Lulu]
+I do feel like I, I feel like I've been getting more nicotine ads- 
+
+00:34:25,272 --> 00:34:26,312 [Co-host]
+[laughs] There you go 
+
+00:34:26,312 --> 00:34:27,332 [Lulu]
+... since we've been talking about this. [laughs] 
+
+00:34:27,332 --> 00:34:40,321 [Co-host]
+Yeah. And so, a-a-and so that is a super, super difficult conspiracy theory to debunk if you're Zuck because it's, you know, of course he would deny that. If he was doing it- 
+
+00:34:40,321 --> 00:34:40,321 [Lulu]
+Yeah 
+
+00:34:40,321 --> 00:34:42,572 [Co-host]
+... of course he would come out and say it's not true. 
+
+00:34:42,572 --> 00:34:42,612 [Lulu]
+Yeah. 
+
+00:34:42,612 --> 00:34:45,772 [Co-host]
+What can he do to show that that's not true? Nothing. 
+
+00:34:45,772 --> 00:34:47,252 [Lulu]
+Yeah, he can't. He, he could just- 
+
+00:34:47,252 --> 00:34:47,261 [Co-host]
+Instead- 
+
+00:34:47,261 --> 00:34:47,932 [Lulu]
+... claim something. Yeah. 
+
+00:34:47,932 --> 00:34:50,622 [Co-host]
+Yeah. Instead he just has to move on, and so he just moved on. 
+
+00:34:50,622 --> 00:34:50,632 [Lulu]
+Yeah. 
+
+00:34:50,632 --> 00:34:52,972 [Co-host]
+Talked about something else, and now no one really pays attention to it. 
+
+00:34:52,972 --> 00:35:09,802 [Lulu]
+As a quick aside, this is the Sam Altman issue, um, that I have a lot of sympathy for because when people say Sam is manipulative and he's always working people, there's literally nothing you can do. It's if you tell someone you're not or you explain it, they're like- 
+
+00:35:09,802 --> 00:35:09,802 [Co-host]
+Yeah 
+
+00:35:09,802 --> 00:35:13,212 [Lulu]
+... "Well, you're just manipulating me. You're hypnotizing me right now." [chuckles] 
+
+00:35:13,212 --> 00:35:13,522 [Co-host]
+Yeah. Yeah. 
+
+00:35:13,522 --> 00:35:20,872 [Lulu]
+And it's, it's, it's like when you tell someone that they're bad at feedback, like, they c- if they disagree, they, there's just nothing they can do. You just gotta move on to another topic. 
+
+00:35:20,872 --> 00:35:23,532 [Co-host]
+Yeah. Sam needs to go, like, learn parkour or something. 
+
+00:35:25,432 --> 00:35:25,462 [Co-host]
+[laughs] 
+
+00:35:25,462 --> 00:35:27,762 [Lulu]
+[laughs] Yeah, there's some, yeah, some other- 
+
+00:35:27,762 --> 00:35:33,432 [Co-host]
+Just learn something that's really striking and viral to overpower all the other memes. [laughs] 
+
+00:35:33,432 --> 00:35:35,442 [Lulu]
+He is, he is surprisingly athletic. I would love to- 
+
+00:35:35,442 --> 00:35:35,502 [Co-host]
+There you go 
+
+00:35:35,502 --> 00:35:36,672 [Lulu]
+... see him do parkour. 
+
+00:35:36,672 --> 00:35:37,782 [Co-host]
+He's gotta pick something weird, though. 
+
+00:35:37,782 --> 00:35:38,652 [Lulu]
+I shouldn't say surprisingly athletic. 
+
+00:35:38,652 --> 00:35:40,052 [Co-host]
+Can't just be, like, cycling. 
+
+00:35:40,052 --> 00:35:40,071 [Lulu]
+Um- 
+
+00:35:40,072 --> 00:35:42,472 [Co-host]
+You know? That's too boring. That's not gonna go viral. 
+
+00:35:42,472 --> 00:35:42,672 [Lulu]
+No. No. 
+
+00:35:42,672 --> 00:35:44,042 [Co-host]
+It has to be, like, parkour- 
+
+00:35:44,042 --> 00:35:44,122 [Lulu]
+Speed walking 
+
+00:35:44,122 --> 00:35:46,292 [Co-host]
+... across the San Francisco skyline. 
+
+00:35:46,292 --> 00:35:47,032 [Lulu]
+[laughs] Yes. 
+
+00:35:47,032 --> 00:35:48,672 [Co-host]
+Did you just see Sam parkouring? 
+
+00:35:49,792 --> 00:35:50,142 [Lulu]
+Like Joe Rogan has bow hunting. 
+
+00:35:50,142 --> 00:35:50,192 [Co-host]
+What? 
+
+00:35:50,192 --> 00:35:51,982 [Lulu]
+[laughs] 
+
+00:35:51,982 --> 00:35:52,392 [Co-host]
+[laughs] Yeah. 
+
+00:35:52,392 --> 00:35:55,071 [Lulu]
+Joe Rogan has, like, bow hunting. He has a bow hunting, um- 
+
+00:35:55,072 --> 00:35:55,852 [Co-host]
+Exactly 
+
+00:35:55,852 --> 00:35:58,252 [Lulu]
+... simulation in, in his studio. 
+
+00:35:58,252 --> 00:35:58,472 [Co-host]
+Yeah. 
+
+00:35:58,472 --> 00:36:01,332 [Lulu]
+Wait, so I actually have to go in a couple minutes. We should pick this- 
+
+00:36:01,332 --> 00:36:01,692 [Co-host]
+Okay 
+
+00:36:01,692 --> 00:36:02,252 [Lulu]
+... up. There's topics- 
+
+00:36:02,252 --> 00:36:02,262 [Co-host]
+Yeah 
+
+00:36:02,262 --> 00:36:06,612 [Lulu]
+... we didn't get to. Should we do Thiel, Fetterman, or Blake Lively? 
+
+00:36:08,372 --> 00:36:11,972 [Co-host]
+Uh, let's do Blake Lively. [chuckles] 
+
+00:36:11,972 --> 00:36:15,232 [Lulu]
+Blake Lively is getting canceled now- 
+
+00:36:15,232 --> 00:36:15,452 [Co-host]
+Okay 
+
+00:36:15,452 --> 00:36:19,172 [Lulu]
+... because a couple years ago she said the word tranny. And- 
+
+00:36:19,172 --> 00:36:20,622 [Co-host]
+Only... That's what it's about? 
+
+00:36:21,672 --> 00:36:22,202 [Lulu]
+Well, no. 
+
+00:36:22,202 --> 00:36:22,232 [Co-host]
+Oh, I had no idea. 
+
+00:36:22,232 --> 00:36:34,664 [Lulu]
+The roots of it, the roots of it are that in the current movie she's promoting, she's-She, she had an interview where she came off as rude, so people posted a bunch more interviews where she came off as rude 
+
+00:36:34,664 --> 00:36:34,813 [Co-host]
+Interesting 
+
+00:36:34,813 --> 00:36:37,604 [Lulu]
+Then people posted other clips where she seemed snobby- 
+
+00:36:37,604 --> 00:36:37,824 [Co-host]
+Mm. 
+
+00:36:37,824 --> 00:36:47,934 [Lulu]
+... and then the tranny thing came out. And so, um, one observation I had, and you might see this in other places, like when someone starts getting canceled, people just come out of the woodwork. 
+
+00:36:47,934 --> 00:36:47,934 [Co-host]
+Oh, yeah 
+
+00:36:47,934 --> 00:36:54,284 [Lulu]
+Where it's like if a man gets accused of, uh, behaving like a loud, suddenly there's like 25 more women who came out- 
+
+00:36:54,284 --> 00:36:54,294 [Co-host]
+Yep 
+
+00:36:54,294 --> 00:36:55,774 [Lulu]
+... and where were you for the past seven years? 
+
+00:36:55,774 --> 00:36:55,774 [Co-host]
+Yep. 
+
+00:36:55,774 --> 00:37:02,084 [Lulu]
+So it'll be like, "13 years ago he groped me, and I didn't say anything now until I, I saw four other women come out." So- 
+
+00:37:02,084 --> 00:37:02,404 [Co-host]
+Yeah 
+
+00:37:02,404 --> 00:37:03,784 [Lulu]
+... I think the thing that happens is like 
+
+00:37:04,864 --> 00:37:10,154 [Lulu]
+when you're doing well, you actually don't see all the haters all at once- 
+
+00:37:10,154 --> 00:37:10,154 [Co-host]
+Yep 
+
+00:37:10,154 --> 00:37:25,984 [Lulu]
+... because a lot of them have thresholds for how many other people have to be hating on you before they come out, and then once the spiral starts, then they all come out of the woodwork. So I guess it's like a lesson against complacency. You and I have haters right now, mine are quite vocal, but- 
+
+00:37:25,984 --> 00:37:26,353 [Co-host]
+[laughs] 
+
+00:37:26,353 --> 00:37:31,084 [Lulu]
+... that are biding their time to come out en masse. 
+
+00:37:31,084 --> 00:37:34,144 [Co-host]
+So how does she deal with it? Like, what should she do at this point? 
+
+00:37:34,144 --> 00:37:57,944 [Lulu]
+Yes. She should have done nothing whatsoever, and my guess is like wait for the movie to do well and wait for another topic, wait for people to just forget, have some other event where she shows up looking hot next to Ryan Reynolds, and then just tries to move on. 'Cause it's, it's like the couch thing. You're not gonna beat the I'm a stuck up celebrity allegations. Like, how do you disprove that? 
+
+00:37:57,944 --> 00:38:06,444 [Co-host]
+Yeah. There's also this danger where if you apologize for the first thing that comes up- 
+
+00:38:06,444 --> 00:38:06,604 [Lulu]
+Mm-hmm 
+
+00:38:06,604 --> 00:38:12,134 [Co-host]
+... then there's a really big incentive to find a second thing and- 
+
+00:38:12,134 --> 00:38:12,224 [Lulu]
+Yeah 
+
+00:38:12,224 --> 00:38:15,674 [Co-host]
+... get you in this chain of apologies. 
+
+00:38:15,674 --> 00:38:15,684 [Lulu]
+Yeah, yeah. Jesus. 
+
+00:38:15,684 --> 00:38:19,364 [Co-host]
+And then that just consumes you, and that's the only thing you're doing. 
+
+00:38:19,364 --> 00:38:19,894 [Lulu]
+Yeah. 
+
+00:38:19,894 --> 00:38:37,123 [Co-host]
+And so you're spending months and months and months on this. It's almost better to let it breathe and let everything kind of simmer, calm down, see where people actually sit after a while, let everything come out, and then kind of, you know, assess your strategy going forward. 
+
+00:38:37,123 --> 00:38:38,954 [Lulu]
+Which is what MrBeast is doing. 
+
+00:38:38,954 --> 00:38:47,844 [Co-host]
+Yeah. He's been waiting and, but he has been communicating through surrogates. He's been calling friends who stream and talk, like his friend Ludwig- 
+
+00:38:47,844 --> 00:38:48,934 [Lulu]
+Oh, yeah. That's a good idea 
+
+00:38:48,934 --> 00:39:01,264 [Co-host]
+... uh, ha- puts out drama videos and kind of reaction videos much more regularly. And so they clearly had a conversation, and Ludwig was able to relay that on his video, which has like- 
+
+00:39:01,264 --> 00:39:01,334 [Lulu]
+That's a great idea 
+
+00:39:01,334 --> 00:39:03,864 [Co-host]
+... a more niche audience. 
+
+00:39:03,864 --> 00:39:03,874 [Lulu]
+Yeah. 
+
+00:39:03,874 --> 00:39:10,204 [Co-host]
+And so MrBeast doesn't need to do a main channel video to his 310 million subscribers saying- 
+
+00:39:10,204 --> 00:39:11,663 [Lulu]
+And, and in Spanish. 
+
+00:39:11,664 --> 00:39:14,614 [Co-host]
+Yeah. [laughs] Yeah, in Spanish and all these other things. 
+
+00:39:14,614 --> 00:39:14,644 [Lulu]
+In Spanish. [laughs] 
+
+00:39:14,644 --> 00:39:22,913 [Co-host]
+Like, but, but he can still get the word out that he has a strategy, and he's thinking about it, and, and, and, and they've leaked some, uh, some internal emails. 
+
+00:39:22,913 --> 00:39:22,924 [Lulu]
+Yeah. 
+
+00:39:22,924 --> 00:39:30,744 [Co-host]
+And, and so he-- So for, for people that are really digging in, you c- you get a sense that he's not ignoring things entirely. 
+
+00:39:32,664 --> 00:39:39,724 [Lulu]
+Yeah. That's smart. I'm waiting to see what happens when their professional HR person joins the team- 
+
+00:39:39,784 --> 00:39:39,874 [Co-host]
+Oh my God 
+
+00:39:39,874 --> 00:39:47,144 [Lulu]
+... and how the videos change 'cause he's going [chuckles] he's going like hyper scale corporate. Uh- 
+
+00:39:47,144 --> 00:39:47,484 [Co-host]
+Yeah 
+
+00:39:47,484 --> 00:39:58,114 [Lulu]
+... he has a, a pretty tight team, and now there's gonna be like five corporate professional middle managers who come in with a mandate to clean things up, and I can't imagine that's good for content [chuckles]. So we'll see. 
+
+00:39:58,114 --> 00:40:01,044 [Co-host]
+He hired my neighbor, John Quinn of Quinn Emanuel. 
+
+00:40:01,044 --> 00:40:02,104 [Lulu]
+What? What? 
+
+00:40:02,104 --> 00:40:03,334 [Co-host]
+Big, huge- 
+
+00:40:03,334 --> 00:40:03,334 [Lulu]
+For what? 
+
+00:40:03,334 --> 00:40:06,104 [Co-host]
+... huge for the Pasadena legal community. Huge for the Pasadena legal community. 
+
+00:40:06,104 --> 00:40:09,714 [Lulu]
+Yes. Yes, huge. As a, as a, a general counsel? 
+
+00:40:09,714 --> 00:40:14,644 [Co-host]
+No, u- outside counsel. He, he just, he retained Quinn Emanuel. Quinn Emanuel is a huge firm. 
+
+00:40:14,644 --> 00:40:14,654 [Lulu]
+Okay. 
+
+00:40:14,654 --> 00:40:16,274 [Co-host]
+I don't know if John Quinn's actually involved. 
+
+00:40:16,274 --> 00:40:16,594 [Lulu]
+Just hearing. 
+
+00:40:16,594 --> 00:40:20,284 [Co-host]
+But I, I, I just root for, for John Quinn and, uh, Quinn Emanuel. 
+
+00:40:20,284 --> 00:40:23,364 [Lulu]
+[laughs] Yeah. Everybody needs a favorite lawyer. I'll root for him. 
+
+00:40:23,364 --> 00:40:26,324 [Co-host]
+Of course. I, I have many, but, you know, Quinn Emanuel is one. 
+
+00:40:26,324 --> 00:40:27,004 [Lulu]
+[laughs] Right. 
+
+00:40:27,004 --> 00:40:32,704 [Co-host]
+I, I mean, Quinn Emanuel's done some amazing things. They've worked with Sm- Snapchat and Evan Spiegel and stuff, like it, it's a storied firm. 
+
+00:40:33,764 --> 00:40:38,504 [Lulu]
+All right. We'll, we'll get into the, uh, legacy of, of Quinn. Quinn Emanuel? 
+
+00:40:38,504 --> 00:40:39,744 [Co-host]
+Yeah, Quinn Emanuel. 
+
+00:40:39,744 --> 00:40:42,344 [Lulu]
+This episode is brought to you by Quinn Emanuel. [laughs] 
+
+00:40:42,344 --> 00:40:42,374 [Co-host]
+Yeah. 
+
+00:40:42,374 --> 00:40:47,233 [Lulu]
+Your local friendly... [laughs] Use code COOGAN for 15% off your legal services. 
+
+00:40:47,233 --> 00:40:47,824 [Co-host]
+Yeah. I'm a stan

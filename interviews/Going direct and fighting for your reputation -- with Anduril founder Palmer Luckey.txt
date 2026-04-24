@@ -1,0 +1,341 @@
+00:00:00,240 --> 00:00:03,700 [Lulu]
+By the way, you look like you're in Guantanamo. What is this video camera? 
+
+00:00:03,700 --> 00:00:04,840 [Palmer Luckey]
+It's a laptop camera. 
+
+00:00:04,840 --> 00:00:06,360 [Lulu]
+Do me a favor and just, like, wipe the- 
+
+00:00:06,360 --> 00:00:10,240 [Palmer Luckey]
+I don't think it's smudgy. I think it's actually just a very low resolution camera. 
+
+00:00:10,240 --> 00:00:12,540 [Lulu]
+You do look like a, like a, a weapons dealer. 
+
+00:00:12,540 --> 00:00:13,120 [Palmer Luckey]
+Great. 
+
+00:00:13,120 --> 00:00:17,160 [Lulu]
+So I remember Grim texting me. You were at All-In, and he was like, "You're gonna wanna see this." 
+
+00:00:17,160 --> 00:00:30,490 [Palmer Luckey]
+I talked earlier about NPC thinking that prioritizes popularity over principles. What I'm about to do is in very, very bad taste, but I'm gonna do it anyway. [laughing] One of the people who I think embodies this type of NPC thinking is Jason Calacanis. 
+
+00:00:30,490 --> 00:00:47,280 [Lulu]
+And it turned out to be this talk that broke the internet, and everybody had seen it. Not a lot of people know about what went into it and the why. I, I think a lot of people think of it as, like, a big memetic moment, but why did you decide to do this? What was the background? Like, how did you plan for it? 
+
+00:00:47,280 --> 00:02:10,220 [Palmer Luckey]
+Well, you know, the, I mean, the background for people who, who don't know is, uh, Jason had really gone after me very aggressively when it came out that I had given money to a pro-Trump group that ran the anti-Hillary Clinton billboard, and that's all they did. And he was so aggressive about not just criticizing what I was doing, but specifically that the outcome that should take place as a result of me voting for the party that everyone voted for is that I should be fired and removed from my own company that I started as a teenager. It's some of the most anti-founder behavior I've seen, and he consistently engaged in that behavior. He's not the only one. There are others. I never did anything about it. I just said, "Man, that Jason guy's a real shithead." Never said anything about it. I took the high ground for a pretty long time. Uh, and then, uh, th- there's a few reasons that I decided that I was gonna go after him. The first is I developed a worldview over the course of years that the world is better when everyone has teeth and everyone has claws and everyone knows it. It's the armed society is polite society argument as applied to industry reputation. Uh, it, it, it's good for people to know that there are consequences for lying about people, especially if you're going to aggressively advocate for them to be fired and then specifically celebrate on your podcast when they are fired and say it's the smartest decision Mark Zuckerberg has made all year. Like, if you're, if you're gonna do that, be careful. 
+
+00:02:10,220 --> 00:02:12,960 [Lulu]
+Yes. But then, so you decide to actually show up. 
+
+00:02:12,960 --> 00:02:41,180 [Palmer Luckey]
+So here's what happened. Uh, uh, you know, I, I didn't, I, I didn't see, I didn't see Jason for years, and then, um, he reached out about five years into Anduril, and he said, "Hey, Palmer, would love to have you on the pod." He, he, he sent me this email, and I gave him a very honest answer. I said, "I'm not going to be on your podcast. Why would I promote or help someone who lies about me and misleads his viewers and has also just generally been very hateful to me?" 
+
+00:02:41,180 --> 00:02:42,840 [Lulu]
+Now, this was just a direct reply? 
+
+00:02:42,840 --> 00:03:57,080 [Palmer Luckey]
+Yeah, this was just, just to him. Another two years pass or so, and I get invited to All-In Summit. He sends me this email, says, "Palmer, we've gotta have you at All-In Summit. It's gonna be amazing. We're gonna have all the best entrepreneurs here." And I thought about this and, and honestly, I wasn't going to do this whole stunt. Like, I wasn't planning on calling him out. I said, "You know, I should probably be the bigger man. I should, I should probably go to this summit. There are a lot of people there. Elon's even speaking at All-In. I should go and use this as an opportunity to propagandize my much more important mission, which is that people can't wait..." Like, the, the, the title of my talk at Gabe was Current Year is Too Late to Start Caring About Current Thing. I said, "You know what? I'm gonna go there and talk about why you can't wait till after the war in Ukraine starts to care about national security." Th- that, that means you'll necessarily never be part of deterring a problem, only fixing it reactively. People say they wanna be a proactive and not reactive, but that isn't how anyone online acts. And so, uh, I did that. Hi- his team sets up a prep call for us to go over this, and I planned on bringing it up. I'm like, "Hey, Jason, just so you know, you've been a real shithead." And I was gonna bring it up, work through it. Um, so they set up a Zoom. I go onto the Zoom. His team is there. Jason doesn't show up. No explanation. Doesn't say anything, just doesn't show up. And so we just sat there. 
+
+00:03:57,080 --> 00:03:58,420 [Lulu]
+Was he supposed to be there? 
+
+00:03:58,420 --> 00:04:37,980 [Palmer Luckey]
+Oh, yeah. It was a prep call for me and him because he wanted me to give a talk, and then he wanted to do a Q&A at the end moderated by him. So we're just sitting there on the line for 30 minutes, and they said, "Well, I guess Jason's not gonna show up, so we'll-- let us reschedule this." And so, uh, I now, of course, now I had to give him shit about this. And so they reschedule it for about two weeks later, right before the conference, and guess what? He doesn't show up again. Twice he bails, no explanation. And honestly, I know, I know these other things I've talked about are a lot more high-minded. Sometimes the high-minded stuff, uh, the, the, the straw that really broke the camel's back in this case was just the disrespect of not showing up. I said, "You know what? Screw this guy. What was I thinking?" 
+
+00:04:37,980 --> 00:04:44,900 [Lulu]
+Why didn't you just say no and pull out of the conference? Like, what made you do this instead of just pulling out, which is what most people do? 
+
+00:04:44,900 --> 00:04:52,690 [Palmer Luckey]
+There's two reasons. One is the, the classic way that people model thinking about, like, basic-- going after people who attack you, 
+
+00:04:53,740 --> 00:07:03,284 [Palmer Luckey]
+whether they're successful in attacking your reputation or not. They say, "Well, just ignore them. Just let them go." And th- th- this is, it's horrible advice. It is good advice for almost nobody. Maybe, like, Jesus Christ or the Pope can afford this strategy. Um, but in reality, your ability to affect the world, to bring things into being, to convince people to work with you, work for you, and for investors to invest with you and for you is based deeply in your reputation, and if you don't care about what people think about you, you will necessarily accomplish less, work with fewer people, raise less money. And it, it's not a sliding, it's not like a binary thing. It's not you'll fail or you'll succeed, s- but even reputational drag can drag you further down the curve, and most people cannot afford that. So that, that advice is, is just terrible. And so, yeah, everyone says, "Palmer, just let it go." I said, "Well, first of all, I can't really afford to just let things like this go." Like, I, I could be successful. It is valuable for me to go out there and correct the record on this stuff. But the bigger point, and this is the real reason, and I talked about it in my talkMost people don't have the ability to hit back at bullies like Jason. They're never gonna get to be on stage at his own conference in front of his own sycophants explaining why they are all a bunch of NPCs following the NPC king. And I think that it's valuable to shock those people out of the matrix a little bit, and to do it on behalf of a lot of the people who, who, who cannot do it. By the way, I had over a dozen founders that Jason had specifically gone after and either called for them to be fired or celebrated their firings reach out and say, "Palmer, what you did has really helped me because all of this, like, Jason's drug me through the dirt, and now people are realizing that Jason was wrong in doing that and that I was on their side of that." By the way, of that 12, maybe 9 or 10 of them, uh, Jason was unfairly going after. One of those people is now in prison, and one of them definitely deserves to be. So you, you, you got, you gotta take it, take it, take it all with a grain of salt. I'm the hero of the heroes, and I'm the hero of the villains, but, uh, that's how it goes. 
+
+00:07:03,284 --> 00:07:13,264 [Lulu]
+So you did it for the culture and you did it for other people and you did it for deterrence, and if Jason had simply not no-showed twice in a row, you mighta let, let him off the hook. 
+
+00:07:13,264 --> 00:07:28,004 [Palmer Luckey]
+I think I wa- I was inclined to let him off the hook. That was the straw that broke the camel's back, but I'm very glad that I did it. People talk about it a lot, and here, like, if there's one outcome that's come out of it, Jason has not tried to pull that shit with anyone in years. 
+
+00:07:28,004 --> 00:07:48,204 [Lulu]
+Yeah. I think TVPN's coming for that title, so the ability for him to do that in the future might be lesser. But, um, when you decide to do that, th- this is a question from a founder, too. How much do you just full send and you just go rogue and do it? And how much is it you coordinate with the team, or the team helps you and supports you? Like, where does that interplay come in? 'Cause you have a team, and it's a really good one. 
+
+00:07:48,204 --> 00:07:53,524 [Palmer Luckey]
+It is. I let them know what I'm doing. Usually, I don't need their help because my specific ... 
+
+00:07:54,744 --> 00:07:58,824 [Palmer Luckey]
+It's very hard for people to help me because my process is so in my head. Um, 
+
+00:08:00,424 --> 00:09:32,944 [Palmer Luckey]
+but, like, I let everybody know. You know, Shannon knew what I was up to. Everyone else knew what I was up to. Um, some people thought it was a good idea. Some people thought it was a bad idea, but i- i- i- in, in, in the end, I've been lucky to build a company of people who mostly have, uh, seen success born of the way I do things, and a lot of them have made a lot of money because that works. And so, uh, th- th- I'd say if, if I went to a traditional PR person, they'd be very skeptical of these things. Uh, but it's, but, but it's clearly worked out. And, like, another example of this was not even at a, not even at Anduril, but I mean, going back into the Oculus days. I was lucky to have a team that understood that sometimes doing unconventional things made a lot of sense. And actually, Oculus, I think, started to do a lot more poorly when they started to really try to look like every other big company rather than asking what they should be doing on the communication side from scratch. A good example, um, I decided that, uh, our first Oculus Rift that we de- that we delivered, like the real, actual consumer product, not a game development platform. Um, I decided that I was going to deliver it myself, and I went to the team and I said, "I am going to deliver the first Oculus Rift myself. Um, and we, we shouldn't announce that or anything, but, like, we should just do it." And it was funny 'cause the team at the time, they said, "Oh, yeah, like that sounds totally great. We should totally do this." Another six months passes. I think we became a little bit more Facebookified, a little more corporatized, and then something really wild happened. The first pre-order, uh, when we launched pre-orders at CES in January of 2016. Do, are, you pr- I don't even know if you know this. Do you know where that pre-order was from? 
+
+00:09:34,064 --> 00:09:34,224 [Lulu]
+No. 
+
+00:09:35,264 --> 00:10:43,044 [Palmer Luckey]
+Alaska. Way out in the middle of nowhere in Alaska. So it was all of a sudden we realized that I was going to have to, in the middle of winter, go to Alaska in the middle of nowhere to deliver this guy's Rift. And to me, that was, like, even better. I was like, "Oh, my gosh, that's so cool." Like, "People are going to love this. Uh, we're gonna live stream my first delivery." And th- that was when people were like, "Oh, no," like, "I, oh, you know, this is g- it, it's gonna be a lot of work," and, you know, "I, I think it's gonna be kind of weird." In the end, I insisted on doing it. I did do it. Facebook sent a PR person to, to, to, to tail me. Um, and guess what? It was awesome, and the community loved it, and they like, the, the, like, it, pe- they were like, "Wow, you, this is so cool. Palmer is so passionate about this thing that he wants to kick it off and say, 'Here it is, the culmination of my whole teenage life and adult life. I'm delivering it to you.'" And, like, that was a really, really cool moment. Uh, but it, it, it was only possible because for, I had a team around me that was willing to let me do these weird things that a big company probably wouldn't come up with on their own. And honestly, uh, uh, you know, 
+
+00:10:44,244 --> 00:10:46,464 [Palmer Luckey]
+they would never do it today. 
+
+00:10:46,464 --> 00:10:51,884 [Lulu]
+Yeah. That sounds like also one of your more positive experiences with Facebook PR, but we can leave that for another day. 
+
+00:10:51,884 --> 00:11:01,663 [Palmer Luckey]
+[laughs] It wa- look, well, I mean, like, it, that, that was, uh, yeah, no, thing, things were, things were still going good. I hadn't, I hadn't, uh, I hadn't, uh, supported Donald Trump yet. 
+
+00:11:01,664 --> 00:11:45,944 [Lulu]
+Yes. So okay, two stories that fork from this one. One, speaking of apparel and footwear that don't match the environment, you used to roll up in DC wearing this before people recognized it as being you. So Scott Sanders told me this story. So you would, uh, like, fly coach into DC. I remember one time we had this early talk at the CIA. You flew red-eye, coach, got off the plane and gave the talk, but you would wear this with the flip-flops. And Scott said that when you had Hill meetings, you would have a suit [laughs] where, fact check, you would have, like, a suit jacket in one cargo short pocket and pants in another cargo short pocket and have no luggage whatsoever and just show up in DC. True or false?
+
+00:11:46,704 --> 00:11:47,304 [Palmer Luckey]
+True. 
+
+00:11:47,304 --> 00:11:52,424 [Lulu]
+Okay. So you show up, and you, you probably look unhinged, and now people- 
+
+00:11:52,424 --> 00:12:25,324 [Palmer Luckey]
+No, no, no, to be clear. So the- these days I stay at a different hotel, but back then I was staying at the Trump Hotel. And it's not because it's the Trump Hotel. It's very well located, centrally located near, near, near the White House. I knew that they would have a good steamer, so I was always able to steam everything. And so I did not look unhinged when I was wearing my suit. I, I looked quite respectable. The way I got there was unhinged, and you're right. Scott, Scott saying I showed up with everything packed in my cargo pockets, uh, is, is, is real. Uh, but, but I looked, I looked presentable by the, by, by, by, by the next morning. 
+
+00:12:25,324 --> 00:12:36,394 [Lulu]
+So there's a separate question, though, of even though you look presentable, you come there at-- you go there as an outsider, and you, you're speaking sort of a, a different language. You are coming from a different background. 
+
+00:12:36,394 --> 00:12:38,044 [Palmer Luckey]
+And pushing for heretical things. 
+
+00:12:38,044 --> 00:12:47,304 [Lulu]
+Pushing for extremely heretical things, and then if someone would Google you, like, who knows what the results would be. How did you become accepted and work your way in? 
+
+00:12:47,304 --> 00:15:07,214 [Palmer Luckey]
+The difference between working with the government and working with consumers is that with consumers, you have to sell your product to them one at a time, person by person. You do that with ads. You do that with, with email campaigns. You do that with, you know, earned media. You're trying to get people to look at your thing for 30 seconds and decide, "That's something I need in my life," or at least, "I'm gonna learn more about it and then decide that." Um, and so you have-- you kind of have a million decision makers, or millions of decision makers. In the government, there's a very small number of true decision makers when it comes to what technology the DOD buys. You could fit all of them, the ones who matter, into a large meeting room if they stood shoulder to shoulder. And so we were lucky in that we-- be- because we're a product company that invested our own money in building things, we were able to build products rather than PowerPoints and c- we got a number of champions. Not everybody in the room. We-- you could get three or four people in the room to give you a shot, and then when things go well, their project goes well, which is, by the way, good for their career when they're spending less money on things that are working really well. Other people look in their direction and say, "Huh, maybe there's something to this. Maybe I should do the same thing." They don't have to be convinced, uh, based on their, their ability to analyze your technology or believe what you're saying about procurement. They can learn purely by pattern matching. They say, "You know, that worked for that guy. I want that for me in my life." And, and so that, I think that was really-- we, we got lucky that we won a few champions early on, which allowed us to have sufficient proof that other people are willing to take bets, and they take bigger and bigger bets. You know, y- you say, "Look, if I can build this for them, I can build that for you." And you do that over and over again, and pretty soon you go from building small quadcopters to building AI fighter jets. Uh, it, it's, it's, it's, it's like the guy who traded the, uh, what is it? The paperclip for the house. Uh, it's, it's, it, it, it is, it is very similar in terms of credibility. You have to do it a little bit at a time. There's nothing you can say in one meeting that makes you jump from crazy guys who just walked into my office to my most trusted confidant in terms of what we do on tech. That's-- it's a long, slow process, and you have to prove yourself the whole way. 
+
+00:15:07,214 --> 00:15:27,544 [Lulu]
+I remember there were a couple specific people, like in the Marine Corps, that became champions for Anduril and made it their business and their career goal to advocate for modernization of the force, and then they went around. They-- it wasn't propaganda, because it was coming from them, and it was totally earnest, and it's so much better than someone from the company saying, "Buy our stuff." 
+
+00:15:27,544 --> 00:15:51,324 [Palmer Luckey]
+Members of Congress, too. There were people in Congress who were taking heat because they were advocating to procure in ways that were very unpopular with the rest of the defense industrial base, and you had people just breathing down their necks, uh, you know, saying, "If you do this, you're going to destroy the whole defense industrial base. If you force us to skin our knees when we trip and fall during development, then it's gonna be the end of our, end of our national security." 
+
+00:15:52,344 --> 00:15:52,784 [Palmer Luckey]
+And, um, 
+
+00:15:54,464 --> 00:16:20,474 [Palmer Luckey]
+you know, the, the-- in the early days, they would say that Anduril was never gonna be able to work, and then later they said, "Well, Anduril might work, but only on these little things. It'll never apply to big programs." And then all of a sudden you're delivering the Air Force their first autonomous fighter jet. And, uh, you know, now there's, there's, there's a kind of this crazy thing going on right now where a lot of our competitors are now saying, "Well, listen, Congress, 
+
+00:16:21,824 --> 00:17:22,284 [Palmer Luckey]
+maybe it is true that Anduril can do it, and maybe it is true that they can do it on big things, too, but we can't do what Anduril does. There's only so many companies that are as good as they are that can do things the way they do, and if you try to make us-- if you hold us to the same standard you hold Anduril to, if you force us to invest like that, if you force us to take the risk, uh, then we are going to fail." To me, this is a-- it's a crazy strategy. In the very short term, it might work. It might convince a congressman, "You know what? We have to keep this, this manufacturing facility or this factory going, because if we don't subsidize it, it literally will disappear, and it'll be really bad for national security." That's a short-term win. The long-term effect is you're telling everyone in DC, "We are not as good as Anduril, and if you wanna get a good value, and if you want this to work, you need to go to those guys." It's almost like they're advertising for us. They're, they're, they're shooting themselves in the knees to get emergency healthcare, and it is a, it is a bad long-term strategy, even if it gets you into the hospital. 
+
+00:17:22,284 --> 00:17:46,024 [Lulu]
+So someone, uh, texted me, quote, "Palmer is very opinionated and direct. He also started Anduril already having FU money. Would he have done it the same way if he had started Anduril without already having the cred?" So how much of this, like, how much of what you're saying is doable by somebody who's not a billionaire and doesn't have a big audience and doesn't already have somewhat of a cult behind them? 
+
+00:17:46,024 --> 00:19:03,272 [Palmer Luckey]
+So the, the, the-The F you money is a big part of it. Having enough people who believed in me was also really critical. Like, you know, if I just had money but everyone thought that I was a crazy nutter who couldn't do it, it wouldn't work. You have to remember that a lot of the people who joined Anduril in the early days came from Oculus. They were people who quit Facebook because, I mean, they were doing... They basically said, like, "I'm not gonna work here if you're gonna fire Palmer." A bunch of those people ended up coming with me. They were very much, you know, I guess, in the cult of Palmer, and, uh, that was, that was, that was definitely an advantage I had. No, most founders definitely can't make that work. You, you, you have to use the resources that are available to you. In my case, there was a very limited set of investors who truly believed in me. There was a larger set of investors who didn't really believe in me or Anduril, but I could strong-arm into investing in my new company on the basis of reputational damage if they didn't reinvest in a founder they had previously supported, and I, I used that to my advantage. I twisted their arms on that and said, "If you don't invest in me and all the other Oculus investors invest in me, I'm going to call you out on it." I mean, I was very explicit about it. "I will talk about that. You say you invest in people, not companies. Well, time to prove it. And if you're the one odd man out, I'm gonna come for you." You know, a little kinder than that, but only a little kinder. 
+
+00:19:03,272 --> 00:19:15,692 [Lulu]
+Around the time of the Series A, I remember you telling people specifically, "Not only will I remember this, but I will tell everybody the decision that you made [laughs], and I will routinely humiliate you." 
+
+00:19:15,692 --> 00:20:35,381 [Palmer Luckey]
+Absolutely. I mean, like, if Founders Fund wouldn't have invested, just to use a safe example, 'cause of course they're going to because I, I have a great relationship with those guys. They were the first institutional check into Oculus. Um, they gave me a million dollars when nobody else was willing to give me anything. So, but like, I'm not... If, if, if Founders Fund had told me no, I would've said, "Listen, guys." I'm gonna say, "Hey, guys, everyone else gave me money. Oh, you know, except for Founders Fund. They say they invest in people, not, not ideas, but I guess not. I guess that's a bunch of marketing baloney. I made them hundreds of millions of dollars with a multi-billion dollar exit, and they couldn't even spare a million dollars for my new company. Well, who knows what that means for the future returns of their fund?" But, uh, you know, like, the point is I, I was, I was using the leverage that I had, and different founders are gonna have different things that are available to them. They're probably not gonna have a cult behind them. Maybe they should try and develop one. Uh, they're probably not gonna have my F you money. Uh, maybe they wanna consider acquiring some. But I'll also say different types of companies different- need different types of, of, of, of levers. You couldn't start a company like Anduril unless you kind of, you had it all. You need the money. You need the, the following. You even need the hate of the media. You, you need it all. You, you, you, you, you need to be this thing that people love to hate even. 
+
+00:20:35,381 --> 00:20:53,872 [Lulu]
+So if you don't have a cult, go start one. You, you, you started one, but at some point there wasn't. You know, you now have, like, 400K something followers 'cause I checked recently. But at one point, I remember looking at your profile and we're like, "All right. Palmer's got 60,000 followers. That's so much. What do we do with it?" You know, at some point, if you go further, further back, it was, like, 10, right? 
+
+00:20:53,872 --> 00:20:53,892 [Palmer Luckey]
+Right. 
+
+00:20:53,892 --> 00:21:01,212 [Lulu]
+How did it all accumulate? Part of it was you built Oculus. That helped. But any advice for founders who are a- who are starting out now and building that cult today? 
+
+00:21:01,212 --> 00:24:54,388 [Palmer Luckey]
+Well, a few things. First of all, it, it's fun to be a poster and to get everybody following you on X, but it is probably more important to be known among people who are actually decision-makers and allies and partners. Like, is it more valuable for me to have an extra 100,000 followers who are a bunch of internet shitlords, or is it more powerful for the CEO of Microsoft to read a piece about me where I make enough of an impact that when it comes back around that I want to acquire some DoD program from him, it's not laughed out of the room? It's easy to grow your follower count with tactics that will sabotage you with the people that you actually need on your side. So I like to see the follower count as a side effect of, you know, a, a larger strategy of, of them seeing you. And if they think you're a little nuts, that's okay. If they think that you're a little out there, that's okay. But they can't think you're immoral. They can't think you're not credible. They can't think that you're incapable. It's okay if they, if they question your style, but the substance has to be there. Um, in terms of how I did it, I don't know. I guess I, I guess, I guess it comes naturally. I mean, I started, uh, the ModRetro forums, which was a game console for electronics enthusiasts modifying vintage game consoles, handheld game consoles, computers back in 2008 or 2009 when I was a teenager. I grew that into a web forum with thousands of active members and, and millions of monthly page views, and we were getting covered by Engadget and Gizmodo and all, all those guys. And, like, I, I, I definitely had a bit of a, a bit of a cult then. Uh, you know, there, there are people who thought I was g- thought I was the sharpest guy around. Whether I was or not, there's people who thought I was. And then when, remember when I built Oculus, one of the reasons that we had $2.4 million in pre-orders for the Oculus Rift DK1, the development kit, the, the, like, you know, the, right after we launched, it's because we had a fan base of people who had been following my work on various, like, uh, gaming forums for y- uh, you know, months or years, and they're like, "Oh man, when is Palmer gonna launch his Kickstarter for his VR thing? When is Oculus actually gonna launch?" And there were a lot of people who were excited about that. So you k- I kind of... People think about Oculus as having launched in August of 2012. You have to remember that the work I had been, uh, me posting about my open source VR headset work for years at that point b- had created a built-in audience. Um, the last thing I'll say on that is, like, even pre- like, in Anduril it's kind of been, you know, a very similar process. Um, but, but with Oculus, the really fun part is that you know what one of the very last things that I managed to do before I got fired was? Um, me and our head of hardware, Nirav Patel, uh, managed to get permission from Facebook to open source the Oculus Rift DK1, DK2, just like I had open sourced all of my previous work back in the forum days. And so the Oculus Rift DK1 and DK2 are fully open source, hardware and software, all the code, all the mechanicals, all the CAD. And, uh, I was... We, we, we, we worked this out, and then I think-I think Nirav clicked the button to go live on GitHub at Oculus Connect 2016, which was... It was, like, one week after my whole Trump thing blew up. So I had been forced out of the office and put on leave, but they hadn't yet actually fired me. And, uh, that- I'd say, like, that was, that was a, a great conclusion to a lot of the people who believed me in that cult. Which by the way, helped with my reputation even going into Anduril, right? There's people who say, "You know, in the end, Palmer, Palmer did what he said he was gonna do." 'Cause there were people who thought that we basically... You know, we- I said it was, the Rift was gonna be open source, and basically we were kind of trapped into not open sourcing it for a variety of reasons, including the Facebook acquisition. It was definitely good that I basically managed to fulfill that promise that I had made to that community. So if, if, if you, if you lie to your community, then you, you, you lose it really, really fast. 
+
+00:24:54,388 --> 00:24:59,368 [Lulu]
+Yeah. Reputation compounds and trust kind of follows you from one thing to another, so you already had that cushion built up. 
+
+00:24:59,368 --> 00:25:07,488 [Palmer Luckey]
+Yep. Well, it was Gate Newell who said, "Don't ever, ever, ever try to lie to the internet. They're too smart. They'll see right through it, and they'll never trust you again." 
+
+00:25:07,488 --> 00:25:12,288 [Lulu]
+And the lie will live forever. You can't ever undo it and pretend you didn't say it. How'd you get your reputation back? 
+
+00:25:13,848 --> 00:25:29,048 [Palmer Luckey]
+Do I have it back? That's the real question. It's... I mean, like, there, there's still a lot of people today, reasonably intelligent people, who still believe that I funded anti-Semitic, racist, and misogynist meme-trolling campaigns on the internet en masse. Like- 
+
+00:25:29,048 --> 00:25:35,368 [Lulu]
+Not people that matter, though. This is not like the days when going around Silicon Valley and couldn't get meetings or going around DC, like- 
+
+00:25:35,368 --> 00:27:20,008 [Palmer Luckey]
+That is true. That... Look, that, that is true. I think you're mostly right. I still run into people from time to time who believe that that is the case. I mean, like, I mean, you'll see me from time to time on Twitter pop off on some journalist who writes a story just repeating all of that stuff. And the, you know, the reason I do it, and we've talked about this a lot, but just so that pe- other people understand, the reason I push back is because I cannot afford to ignore those lies. The reason they've stuck around for so long is because so many people still believe them. Like, you, you, you almost can't be... It's, it, it's still quite easy to accidentally believe that these things are true, and so I have to push back because I don't actually know if people who matter are necessarily doing it. Like, most people who matter are not gonna say, "Palmer, I read a story about you that says you funded anti-Semitic memes in 2016, so I refuse to talk to you." They're just not gonna get back to you, or they're even gonna have someone politely, you know, say, "Oh, you know, we're not... We're, we're gonna go in a different direction." Uh, it, it's really hard to know what people think, and so, like, your reputation is, is... it's always an active battle to try and make sure that people know what you're, what you're really doing and what you're really about. Last thing I'll say on this note is, it's so funny, everyone before said that I was posting anti-Semitic memes and that I was a Nazi. Like, literally, like, the Boing Boing article said, "Palmer L- Palmer Luckey's neo-Nazi propaganda farm." And now everyone says I like the Jews too much because I said somewhere that I was a Zionist. So, I mean, some of the same people who think that I like the Jews too much thought I hated... s- said I hated the Jews. I, I wish, I wish they could just pick one direction. Uh, do I hate them? Do I love them? Is it both? Who knows? 
+
+00:27:20,008 --> 00:27:25,848 [Lulu]
+There is so much latent anti-Semitism in society, sadly, that there is no correct amount to like the Jews. [laughs] 
+
+00:27:25,848 --> 00:27:59,448 [Palmer Luckey]
+Well, like, in, in 2016, it was very unpopular to hate the Jews, but it was also very popular with the online left to accuse anyone who was spicy of doing it 'cause they hate the Jews. Like, like, anything that was, like, a money stereotype, it's like, "Oh, you're doing that because they're Jewish." Like, it was... It's very interesting how you've... Like, the, the Trump era opinion of Israel was so much higher on the left than it is today. It's an extraordinary transformation, that the worst thing you could be that- back then is a Nazi, and the worst thing you could be today is a Jew. 
+
+00:27:59,448 --> 00:28:17,228 [Lulu]
+Yeah, it's interesting. How do you choose when to fight back? So every once in a while, see you just kinda, you know, merk somebody on Twitter, but you must choose your spots 'cause you wouldn't have time in the day to fight every single person. So, like, you're sort of a professional grudge holder, so there are some recurring, like, recurring- 
+
+00:28:17,228 --> 00:28:17,238 [Palmer Luckey]
+Sure 
+
+00:28:17,238 --> 00:28:20,197 [Lulu]
+... characters that pop back up. But with the Randes- 
+
+00:28:20,197 --> 00:28:20,218 [Palmer Luckey]
+Sure 
+
+00:28:20,218 --> 00:28:21,528 [Lulu]
+... how do you choose? 
+
+00:28:21,528 --> 00:29:05,668 [Palmer Luckey]
+So maybe, like, three categories. One is people who are s- still engaged in a sustained campaign to try and smear me. People who are in sustained fights against you, you kinda have to engage them whether you like it or not if they have an audience. Because otherwise, if you don't, they'll keep repeating these things until enough of their people believe that it's true, then it takes you eight years to undo it. This is the problem I... Me not engaging with the Facebook strategy of don't engage with these people was completely wrong. I never should have done it. A year of not trimming my hedges turned into a garden of weeds that could never be p- unpulled, not in 10 years. So there's, like, the maintenance people. You're just pruning the garden. The people who always come after you are the weeds. The second group of people is, um, 
+
+00:29:06,748 --> 00:31:11,062 [Palmer Luckey]
+people who are, you know, picking up a lot of traction. They're maybe... You know, like, they're, they're not long-term enemies, but they're someone who's just like, "Oh, Palmer, you know, Palmer, Palmer Luckey, who, you know, famously supplied Israel with all of the arms used in their war in Gaza." It's like, well, that, that's just not true, and I, I have to push back on that. And by the way, some of these fights, it's not even about whether it would be bad if it was or not. It's just I'm not gonna let you lie about me. I'm going to come after you very aggressively. Or, like, when TechCrunch, you had that reporter who I think got fired, and now she's at the SF Standard or the SF Chronicle. Um, but she was writing all these stories saying that the DOD doesn't buy autonomous weapons and that they are... that they're questioning whether or not our systems abide with DOD norms. And I explained multiple times, I said, "Margot, you're totally wrong. The DOD's been buying autonomous weapons for decades." She's like, "Oh, well, you know, give me one example." I'm like, "Okay, here's a SEWES. It's a turret that can blow up boats without anyone clicking a button." She's like, "Yeah, but, but, you know, I'm not talking about missiles. I'm talking about-Something like a turret that could shoot at someone without someone pushing a button. I said, "Margo, I literally just, I literally just linked you to a CWIZ. That's literally what you're talking about." It's worth pointing back at these people because unfortunately, people still read TechCrunch, and unfortunately, people still read Ars ha- Ars Technica. They haven't... You know, they, they fired some of the pedophiles that worked there, but people still read it. And the, the last group of people, it's people who say the quiet part out loud. Like, they-- there's a lot of people who, on the internet, are really smart about coming after you, and they hide it and they wrap it and they say, "Well, I'm not-- it's not that I'm per se saying that the DOD shouldn't buy anyone from Republicans. It's in fact I'm making this very nuanced view of why Palmer in particular should be punished." Of course, in reality it's purely political. They just know that the real view they hold is not one that they could ever win over en masse, given that half the country disagrees with them at minimum. Um, but there's other people who say the quiet part out loud, and I... They're kind of the useful idiot, someone who says, "You know, 
+
+00:31:12,671 --> 00:31:43,512 [Palmer Luckey]
+Anduril is bad because X, Y, and Z." And sometimes those are-- that's a useful foil where you say, "You know what? This is a person who has presented the, the, the, the honest version of the argument so well that it's worth engaging with them almost to highlight that that is the real argument." Like, you don't wanna, you don't wanna hold up the person who has this contrived argument that sounds intelligent if you don't do any research. You wanna hold up the guy who's being honest about what the real critique is and engage with them. So sometimes you have to engage with those people as well. So those are the three categories. 
+
+00:31:43,512 --> 00:32:12,452 [Lulu]
+Makes sense. You are a legendary recruiter, so Trey says that you are magnetic, um, with recruits. Like, sometimes there's somebody that you guys are trying to pull out or, you know, r-rescue from Raytheon, and, uh, they've been there forever, uh, they don't wanna make a change, they don't wanna move, and then they, like, shove them in a room with you, and then they come out with this contract. Th- this is how it sounds to me when I hear about it. Um, obviously some of that is your aura, persona, reputation, but I assume you have a pretty good pitch. Like, what is your pitch? 
+
+00:32:12,452 --> 00:32:28,892 [Palmer Luckey]
+It-- Well, the pitch is different for everybody, but for most people, like, they're coming to work here, it's like do something that matters. What you're doing isn't gonna be something that people remember. It's not gonna be something that is, you know, a durable, a durable contribution to your country or your legacy. 
+
+00:32:30,052 --> 00:35:00,532 [Palmer Luckey]
+Are-- Do you want your legacy to be that you increase the value of Google's advertising platform by point one percent? Which, by the way, would be a huge, a huge accomplishment for one person to do. Um, that, that's, that, you know, that's probably worth billions of dollars over the course of a career. Uh, or would you rather work on something that is really gonna matter, and if you don't do it, you, the talented person who could make things happen that nobody else will do, not the way you would do it, if you don't do this job, somebody less capable is going to do it. And there's a lot of people who that, you know, that carrot and stick is really motivating. Like, man, I wanna work on something that matters. I don't want somebody less competent in this role. And it's true, what I'm doing isn't the most impactful thing that I could do. So I'm, I'm pretty good at making that argument, at making that argument to people, and I, I think I'm y- I, I make an argument too that Anduril is the place to do it. There are other places you could have impact, but where are you going to find a place where you have the ability to grow a team, the ability to hire other people who are like-minded, to work with people who wanna work quickly, who wanna be efficient, who wanna work on the most interesting technical challenges? And so it- it's a compounding thing. The better of a company you make it at attracting people, the easier it is for me to do that. I'll say one more thing on this, though. When I started Oculus, we were able to hire people from all over the country. We had people coming from Salt Lake City, from Dallas, from New York, from Boston, even from the Bay Area. And then when we were acquired by Facebook, all of a sudden, after moving to the Bay Area, I found that I could only hire people who already were in the Bay Area. For the most part. There's, there's, there's a few, a few counter examples, but for the most part, people who live in Salt Lake City do not wanna live in San Francisco. People who live in Austin or New York City don't wanna live in San Mateo County. It's just, it's just the way that it is. And so you end up-- we, we ended up with this pretty narrow funnel of often very mercenary-minded, very, very, uh, you know, tech in-crowd thinker type people being our whole recruiting pool. And when I started Anduril, I knew that I could not do that again because I had seen the consequences, not only on the business side, but also in terms of the ideology that ends up permeating your company when you draw from one ideological bubble. I knew we needed to, just like the early days of Oculus, pull people from all over the country, all walks of life, including military veterans who are distributed all over the country. And I'll tell you what, military vets do not wanna live in San Francisco either. They don't wanna pay two million dollars to live in a crap shack. 
+
+00:35:00,532 --> 00:35:17,672 [Lulu]
+How do you keep mercenaries out? 'Cause for a while, you know, in the beginning it's always easy. You need believers because they're, they're, they're doing this for the mission because they're, they're practically not getting anything else. They're not getting accolades. They're not getting a lot of money from it. People have gotten super rich, and people know that if you work there, you'll probably continue getting super rich. 
+
+00:35:17,672 --> 00:37:28,220 [Palmer Luckey]
+Yeah, in the early days, we had this natural filter because we were so controversial. You know, Bloomberg called us the most controversial company in tech, even as Uber's executives are federally indicted and Meta is raked over the coals for Cambridge Analytica. No, no, it's the 70 people down in Orange County in Anduril that are the most controversial company in the whole technology industry. That was a useful filter. The careerists, the lily pad jumpers, the, the mercenaries, at the time, they did not perceive that Anduril would be a good thing for their ambitions and, and, and future aspirations. As you start to be a company that's raising, like, ten percent of all venture capital deployed in a given quarter, people start to pay attention, and you do start to attract those people. And by the way, we had this at Facebook. When we were acquired, like, Oculus was a group of misfits, the weird people who believed in VR when nobody did. Mark Zuckerberg was the original Facebook VR misfit. He's VR boy number one globallyBasically ever. But what happened when he bought Oculus and he made it more mainstream, and he made it into this big thing, a lot of people all of a sudden wanted to work on it who previously... Like, they had no conviction over VR. They just said, "Oh, this is a cool, hot thing to work on that will look good on my resume." And so, uh, what Anduril has done, and y- you've seen this, has been build that filter artificially. Try to not just attract the right people, but repel all of the wrong people. The, the... Repel the wrong people who are, who might join, repel the right people who, the wrong people who might invest. You saw the Don't Work at Anduril campaign, where we basically highlight this is how hard we work. Everyone does field work. Everyone gets dirty. We don't do work from home. We don't have a barista. And the point... But, but here is what we do do. We have work that matters. We have work that's critical. You'll get to work on lots of cool things with lots of cool people, and you'll get to make a difference. Like, that, that, I think that that's a really good, I think that's a really good filter 'cause in my experience, the mercenaries are not looking for things that are really, really hard, disproportionately hard. They'd rather work somewhere else that is hot and not a grind. 
+
+00:37:28,220 --> 00:37:46,960 [Lulu]
+So today, because the company has become so successful and because you have already proven the critics wrong and you've become so unequivocally successful, you're actually in some ways not the best person to model yourself after? But, like, it's the same thing as, like, having FU money or being a billionaire. Not, like, not everybody can just turn that on right now, uh, if they're just starting. 
+
+00:37:46,960 --> 00:38:12,600 [Palmer Luckey]
+They've never, never... Pe- people try to model advice and strategies that work for celebrities. You know, they're like, "Oh, well, you know, if I were in, if I were in his position, I just wouldn't care and I wouldn't act that way." My point is, okay, but that, like, that might work for Tom Cruise. It's not gonna work for you, is it? Like, you either, you, you, you cannot model the strategies of people who, who are, who are in a very, very different position and expect that duplicating them will get you to where they are. 
+
+00:38:12,600 --> 00:38:21,780 [Lulu]
+Yeah, it's like the meme of the super attractive 20-year-old woman who's like, "Everyone's so nice all the time." [laughs] You can't just emulate. But, um, what I was gonna ask you- 
+
+00:38:21,780 --> 00:38:31,359 [Palmer Luckey]
+Imagine, like, imagine if I tried that. Imagine if I tried to go and, like, hot girl summer my way into, in, in, into being hired. It would just, it just wouldn't work, right? That's the- 
+
+00:38:31,360 --> 00:38:35,920 [Lulu]
+Well, we've all seen you in a bikini, and I think it did work, Palmer. Uh, we, we don't know. 
+
+00:38:35,920 --> 00:38:50,780 [Palmer Luckey]
+Oh, man. Lu- Lu- Lu- Lulu, Lulu, you're get- you're treading close to dangerous territory, which is, you know, I, I, oh, I said people should use every lever that's available to them. So this is the question that I get to ask you as, as the interviewee to the interviewer. Uh, should women use their charm? 
+
+00:38:51,980 --> 00:38:52,660 [Palmer Luckey]
+You know? Is that, is it- 
+
+00:38:53,680 --> 00:39:04,080 [Lulu]
+Yeah. Like, everybody should use their charm. Some people have, some people have less. There are, there are women with less charm. There are men with more charm, but, like, anybody who has charm should absolutely deploy it. 
+
+00:39:04,080 --> 00:39:16,220 [Palmer Luckey]
+I got it that, like, if I was a woman, I think I would use everything that was available to me. Uh, and like, I, that's just, that's how, how I feel. I'm c- I'm curious what you think. You're the expert as a woman. 
+
+00:39:16,220 --> 00:39:19,320 [Lulu]
+I mean, you've been wearing crop tops and push-up bras without even being a woman. 
+
+00:39:19,320 --> 00:39:31,300 [Palmer Luckey]
+That's true. No, that's true. I do a l- I do a lot of tr- cross-dressing cosplay, which then is also... It's so funny when people are like, "Oh, Palmer must... Like, Palmer hates trans people." I'm like, you realize that not only have I never said- 
+
+00:39:31,300 --> 00:39:31,310 [Lulu]
+[laughs] 
+
+00:39:31,310 --> 00:39:37,359 [Palmer Luckey]
+... a single bad word about trans people, but that I regularly cross-dress and almost exclusively cosplay as women. 
+
+00:39:37,360 --> 00:39:52,500 [Lulu]
+I think that every person should use whatever they have, and for some that's intellect, for some that's reason, for some that's charms. For, for women it might be womanly charms. And, you know, as long as you don't cross any lines or ethical boundaries- 
+
+00:39:52,500 --> 00:39:56,900 [Palmer Luckey]
+I agree. If you're not crossing any lines, you should do, you should use whatever lever there is. 
+
+00:39:56,900 --> 00:40:41,879 [Lulu]
+For a long time there was a meme that it was nearly impossible for women to succeed in tech and that women were just besieged, uh, in the brotopia of the tech industry. There are some things that make it harder about being a woman or where people are harder on you. It can be very vitriolic. But there are also advantages. And so if you're gonna take the downsides, you might as well use the upsides. So, like, when I talk to and mentor younger women, I always tell them, "You can get away with things in communications that men can't." Like, when w- when you and I work together, sometimes I, like, yell at you a little bit with affection. I interrupt you. We spar. Um, if, if I were, like, a, a big burly guy, that might come across super aggressive in a different way. But because I'm smaller and female, like, it doesn't seem so aggro, and I can a- I can actually get away with some of that. 
+
+00:40:41,880 --> 00:41:51,700 [Palmer Luckey]
+And young people, too. I mean, I've talked a lot about how you should abuse your young person privilege to the fullest extent. Everyone wants to help you when you're a young, motivated young person, a whiz kid. You, you... Rich, rich and successful people with not much time in their day will get an email from a 17-year-old or a 19-year-old who, by the way, puts in time. Like, this is not like, "Hey, tell me how to be successful." But if they're like, "Hello, Mr. Luckey or Mr. Gates or Mr. Bezos, here is who I am. Here is what I'm doing. Here's why your unique insight is relevant to my thing. I would appreciate your input on this particular item because you are a person whose opinion I respect," you would be surprised how far you can get. Now, there's age privilege. You get that when you're 17. You get it when you're 19. You might get it when you're 25. I promise you, the day you turn 30, nobody gives a shit about helping the young guy anymore. That's not to say they're not gonna help you, but they're not gonna help you for the same reason. So I always tell young people, "Get it all out of the way." It's like, for as long as you are young, go and use this strategy. And by the way, don't be surprised when it stops working. You can't lean on your a... Like, by the time you're 25, stop saying, "I'm a 25-year-old engineer." Nobody gives a shit anymore. 
+
+00:41:51,700 --> 00:42:13,439 [Lulu]
+[laughs] So confirmed by Palmer Luckey, men also hit the wall. I, I remember staffing you on an interview which, which for others means I was just sort of listening in, um, ready to, like, make a loud bellowing noise if, if, if the reporter went off track. But, um, you were talking and they asked you, "How does it make you feel when people call you a whiz kid?" And you said... Do you remember what you said? 
+
+00:42:13,440 --> 00:42:22,204 [Palmer Luckey]
+I think I said, uh-I said, "Well, look, you know, uh, once, once you're, once, once you're 30, I don't think you can call yourself a whiz kid anymore. I think, I think I'm more of a whiz man." 
+
+00:42:22,204 --> 00:42:29,604 [Lulu]
+At this point you hadn't turned 30. You said, uh, you said, "Whiz man doesn't have quite the same ring to it, so I'm gonna enjoy it." So- 
+
+00:42:29,604 --> 00:42:32,163 [Palmer Luckey]
+I am a whiz man. I'm the whiz man, yeah. 
+
+00:42:32,164 --> 00:42:33,684 [Lulu]
+Have things changed? 
+
+00:42:33,684 --> 00:43:20,563 [Palmer Luckey]
+To be clear, I think a whiz, a whiz man really is a thing. It's a whiz kid who's now an old man. Um, and like that is different than just being old. Like it, it's actually a risky thing. So I think Justin Bieber is a whiz man. Uh, brilliance at a young age, widely recognized, now old enough that he's just another one of the people. And that's different than somebody who has, let's say, come into their own well of age and, and not a, and not a whiz kid. This all applies to so few people, but I'll tell you, being a whiz kid does make it a little tough when you get older because you're kinda held to that standard and also people kind of inherently assume that you've hit the wall, you're over the hill, and that the best you ever were was when you were that surprisingly successful for his age guy. Uh, and, and, and people don't give you credit for that when you're older. 
+
+00:43:20,563 --> 00:43:36,784 [Lulu]
+Okay. But, um, to give everybody else some hope, you are making whiz man look, uh, pretty successful and appealing, the same way that Anne Hathaway makes being, like, a woman in her 40s look amazing. I don't know how old she is, but she, she's like the whiz man version of a woman. 
+
+00:43:36,784 --> 00:44:02,044 [Palmer Luckey]
+Look, I, I think the key to being a whiz man, and I'll go on the record on this, is to not do a documentary or a biography. The moment that you do that you're admitting you're over the hill. Like, you're, you're basically saying, "What I've done so far, that is the body that constitutes what I'm willing to be rep- like, I'm willing to let that be representative of who I am, what I did in life." 
+
+00:44:02,044 --> 00:44:03,644 [Lulu]
+You are a whiz retiree. 
+
+00:44:03,644 --> 00:44:05,704 [Palmer Luckey]
+A whiz retiree. That, yeah, yeah. 
+
+00:44:05,744 --> 00:44:11,064 [Lulu]
+Palmer, who is a founder that you think is communicating really well and strongly? 
+
+00:44:11,064 --> 00:44:12,164 [Palmer Luckey]
+John Carmack. 
+
+00:44:12,164 --> 00:44:13,364 [Lulu]
+Hmm. Why? 
+
+00:44:13,364 --> 00:45:44,424 [Palmer Luckey]
+John Carmack is a master communicator in ways that have really not been credited. So for example, John Carmack had a, had a notes file, a text file, that he would regularly... And he would take all of his personal technical development notes, and he would publish those on the internet I think it was every single week. Like, he would just put his notes on the internet for anyone to see what he's thinking, how he's thinking about it. It was kind of the ultimate in open source thinking at the time, and I mean, this is the 1990s, um, as he was developing Doom and Quake and, uh, and Wolfenstein. And now people talk about, you know, developing in the open and, you know, like the only thing. He had thousands of people reading his .plan files every s- uh, you know, every day, every week, uh, but back when there was no social media. Like, I mean, they, they, like logging into his FTP and downloading it and then, and then talking about on bulletin board systems. So he, he did that back then, but he's continued to be a very technical communicator who is not afraid to jump into even culture war issues and, and, and share his mind and, and, and, and, and speak openly about it. Um, now he, he's done it a bit differently than me. He has different skills than me. He has a little bit of a different base than me. Uh, he's got different ambitions than me. But I think John Carmack is a under-recognized master communicator. And like, like look, let, let's see. I have 422,000 Twitter followers. Let's see how many John has. 
+
+00:45:45,464 --> 00:45:47,064 [Palmer Luckey]
+John Carmack. 
+
+00:45:47,064 --> 00:45:48,264 [Lulu]
+He mugs you. 
+
+00:45:48,264 --> 00:46:20,524 [Palmer Luckey]
+Here we go. 1.1 million followers, and guess what? I wish that he was working at my company. Elon w- wishes that he was working at SpaceX. Jensen wishes he was working at Nvidia. And, uh, Mark wishes he was working at Facebook, and Microsoft wants him too. Like, this is a guy who's done what I talked about earlier. He's got the large social media count of people who recognize the value there, and he has cultivated an impeccable reputation despite engaging in, like, culture war issues. You, you can name one, he's probably weighed in, uh, at some point. 
+
+00:46:20,524 --> 00:46:21,784 [Lulu]
+Yeah. He, he is underrated. 
+
+00:46:21,784 --> 00:46:25,124 [Palmer Luckey]
+And he doesn't, like, fight it and fight it. He just puts his opinion on the record. 
+
+00:46:25,124 --> 00:46:39,664 [Lulu]
+Last question for you is what would be your best piece of advice, communications advice, for other founders? Uh, something that where you don't have to be a billionaire and you don't have to have created Oculus, you don't already have a cult, but just in general, what works really well? 
+
+00:46:39,664 --> 00:46:42,324 [Palmer Luckey]
+Uh, my advice to people would probably be, 
+
+00:46:43,594 --> 00:46:43,594 [Palmer Luckey]
+uh, 
+
+00:46:44,764 --> 00:47:42,344 [Palmer Luckey]
+recognize that the value of your reputation is, is very high, and that if people do not trust you, if they do not believe in what you're saying, if they do not think that you're a person worth listening to, that you're gonna have a hard time working with you. And you don't need to be neutral. You can be a propagandist. You can advocate for a particular point of view, and you don't need to fairly or, or, or, or, or most strongly represent your strongest critic's view as, as, as part of that. For some people you'll want to, but in general, I think people should recognize that if you say something where, where you caveat it and you hedge it and, and, and you basically even end up saying something that most people would agree with or everyone agree with, you might as well have said nothing at all, and you are not gonna build a following of people who say, "Man, I just love Palmer's takes. I love his right down the middle, very hedged takes that everyone agrees with." Like i- i- i-- if you're just restating common sentiment, 
+
+00:47:43,364 --> 00:48:26,324 [Palmer Luckey]
+maybe that's, like, an interesting bit for some comedian to do, but, like, it's not gonna get you anywhere. Not unless you, you're, you're restating common sentiment in a very, very funny way. So I think o- o- one thing that I tell people is, like, make sure that when you're saying something, you're saying something. Make sure that it is, you are being pers- you are trying to persuade, you're trying to affect change. Maybe not in everybody, but in some people. And if you make some people love what you're saying and some people hate what you're saying, that's a lot better than having when everybody lukewarm agree with you, uh, about things that everyone agrees with. Like, don't, don't waste your time communicating about the things everyone already agrees with you on. Focus on the things where you need to change their mind. And then maybe I'll say, in honor of Charlie Kirk, change my mind. 
+
+00:48:26,324 --> 00:48:28,304 [Lulu]
+Yeah. Perfect. Beautiful. Thank you.

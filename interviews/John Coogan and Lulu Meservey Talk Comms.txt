@@ -1,0 +1,1397 @@
+00:00:01,280 --> 00:00:13,800 [Speaker 0]
+Thanks for doing this. Um, a lot going on in comms this week. I figured we could chat about, uh, some of the big things. So CrowdStrike, politics, Biden announcement, and then whatever else is going on. There's probably something breaking live as we're talking. 
+
+00:00:13,800 --> 00:00:14,340 [Speaker 1]
+Got it. 
+
+00:00:14,340 --> 00:00:14,880 [Speaker 0]
+Is that good? 
+
+00:00:14,880 --> 00:00:37,320 [Speaker 1]
+Yeah, yeah. That's great. Thanks for having me. Can you, uh, just start with, like, a breakdown of the CrowdStrike comms strategy that's happened? Because I, I know blue screens of death all over the place. I fortunately wasn't traveling, wasn't affected. I had a lot of friends that were. Um, people seem really upset, and I know that there was a tweet that you reacted to, but can you just give me, like, the high level to start off, and then we can discuss it? 
+
+00:00:37,320 --> 00:00:54,400 [Speaker 0]
+Yeah. I think strategy might be a little bit generous here, and I... Honestly, I feel bad for the CrowdStrike people because 99.99 something percent of employees were not responsible for global, uh, blue screens of death, and they are all working, like, 96 hours straight to try to fix it. So, um, 
+
+00:00:55,540 --> 00:01:24,290 [Speaker 0]
+first of all, I just feel sympathy for all the people whose fault it isn't, and I feel, uh, the opposite of sympathy for the people who made everybody much madder at them than they needed to be. So clearly some committee of corporate comms people and lawyers wrote this very heartless, indifferent-sounding tweet, which became the first thing to really travel, and it was obviously written by lawyers because it seemed designed to avoid, like, legal liability. 
+
+00:01:24,290 --> 00:01:24,300 [Speaker 1]
+Mm. 
+
+00:01:24,300 --> 00:02:07,760 [Speaker 0]
+And so what ended up happening was everybody was already pissed. They got super-duper more pissed. The company had to go and apologize and try to sound human, like, a few hours later anyway, but at that point it was so obviously under duress that they got no credit for it. So it was like the worst of all worlds, where you come out sounding like you don't care, then you have to later try to sound like you care, but it's too late. There's no difference in amount of, like, legal liability. Not that that matters anyway because there's forensics here. It's not gonna be... Like, there's gonna be lawsuits. It's not gonna be decided by whether you sounded too human in a tweet. And then at the end of the day, it just felt like a big fiasco, which we'll, we'll, I think, get to this, got saved by all the big politics news over the weekend. Like, people's- 
+
+00:02:07,760 --> 00:02:07,790 [Speaker 1]
+Oh, yeah 
+
+00:02:07,790 --> 00:02:10,600 [Speaker 0]
+... brains kind of reset. They got l- yeah, they got lucky. 
+
+00:02:10,600 --> 00:02:11,920 [Speaker 1]
+Yeah. That's, yeah, that's super funny. 
+
+00:02:13,660 --> 00:02:21,700 [Speaker 1]
+That's interesting. I mean, you've been in these rooms. Like, how real is the legal liability stuff? 
+
+00:02:21,700 --> 00:02:39,160 [Speaker 0]
+It's real, but sometimes getting sued is better, and someti- So, okay, okay, a few things. One is there's a trade-off between, um, increasing legal liability versus losing trust, and you just have to know that that's a trade-off. Like, you can choose, "I would rather torch trust 
+
+00:02:40,220 --> 00:03:08,380 [Speaker 0]
+and minimize legal liability." Fine, just make it a conscious choice. Um, but there's a lot of times when just taking the lawsuit or fighting it in court is cheaper than the damage to your reputation, which can be a lot more expensive and take longer to repair. So that's one thing. Two is there's cases where it actually doesn't change legal liability. Like, again, in cases where there's forensics involved, a tweet is not gonna supersede that, and people sometimes default to, um, 
+
+00:03:09,620 --> 00:03:37,100 [Speaker 0]
+claiming there's gonna be legal liability just because they're scared and they wanna be risk-averse. And then thirdly, the CEO has to just make their own decisions here. Like, you get advice from lawyers, you get advice from comms people, but sometimes you have to follow your gut, and if you feel like you owe people an apology, you should just give the apology. So, like, what did this feel... How did this feel for you watching this unfold? What would you have done differently? Just str- just founder instincts. 
+
+00:03:37,100 --> 00:04:15,540 [Speaker 1]
+Yeah. H- honestly, I don't really know. I, I don't, I don't use CrowdStrike, and so it was very abstract. Like, I, I, I, I, I struggled to even an-analyze it because I think the first and probably most important thing is, is probably to understand who they're trying to talk to. Because if they're trying to talk to [clears throat] you know, random developers on Twitter, random entrepreneurs, tech people on Twitter, absolutely they've messed up, it sounds like it from your analysis. But, uh, if, if, if they're really just trying to talk to, like, a few Fortune 500 companies who buy this stuff and that's all that matters, that's a very different calculation probably, I would imagine. 
+
+00:04:15,540 --> 00:04:15,900 [Speaker 0]
+Mm. 
+
+00:04:15,900 --> 00:04:32,190 [Speaker 1]
+It kinda doesn't matter if they're, like, the, the current thing and the villain of the day for a weekend, then they get memory holed because of the political news, and it doesn't matter that some random, you know, Twitter person didn't like them for a day, as long as they didn't lose Disney as a client or whatever. 
+
+00:04:32,190 --> 00:04:32,230 [Speaker 0]
+Mm. 
+
+00:04:32,230 --> 00:04:51,020 [Speaker 1]
+And so I'm wondering, and I don't know how real this is, it feels like they're almost in, like, a... [lip smacks] There's, like, an odd game of, like, you talk to these Fortune 500 CEOs, like, they're all real people, and maybe they're all just waiting for, like, one person to d- step, step in, the water's warm, and then act like a normal person. 
+
+00:04:51,020 --> 00:04:51,180 [Speaker 0]
+Mm. 
+
+00:04:51,180 --> 00:05:25,770 [Speaker 1]
+Uh, and then they all can, and then they can all drop the corpo speak. Um, but I, I guess my question is, is how much of the, the answer and the, and the statement was you would change the facts or you would change the tone? If you could only change one, would you, like, share more information, share more data, change the, the facts that the company was putting front and center, or would you instead just, "Hey, the lawyers signed off on the facts. We just need to restate the tone and make this sound less corpo, less, more human"? Um- 
+
+00:05:25,770 --> 00:05:25,770 [Speaker 0]
+Mm 
+
+00:05:25,770 --> 00:05:29,460 [Speaker 1]
+... which one do you think is more important, if you had to pick one? 
+
+00:05:29,460 --> 00:06:39,740 [Speaker 0]
+This is a good question. So, um, first of all, you're right. What we're seeing unfold on Twitter, whether they're getting dunked on, whether it's going viral in a good way, bad way, it is only on the surface. Like, how the phone call goal goes between Kurtz and, like, Satya Nadella is probably more important than a lot of that. Like, just calling your customers directly. If, if you have a good crisis plan in place, which I'm not sure they did. It, it's hard to tell. First of all, if you're a cybersecurity company, you should have a crisis plan in place with a draft statement that's already doneWell in advance of anything happening. Um, so maybe they had that and it wasn't a very good statement, but people were saying, "Oh, they, they need to be reacting on the spot. Give them some slack." Well, ideally they had this statement written out like months ago. Um, but one of the things in that plan is the CEO needs to start making phone calls. So you call maybe members of the board, you might call your more-- most important customers, your most important investors. You need to be saying stuff to employees. So there's a lot going on underneath the surface that we don't see playing out on Twitter. Um, so I'm glad you brought that up. In, in terms of what's more important, I think for the public communication, tone is a lot more important 'cause what you're doing is vibes. 
+
+00:06:39,740 --> 00:06:39,760 [Speaker 1]
+Yeah. 
+
+00:06:39,760 --> 00:07:11,840 [Speaker 0]
+What you're doing is putting out the vibes of, "Please trust us. We're really sorry." You almost wanna dunk on yourself so hard that it's less fun for people to dunk on you, and they actually start to feel sorry for you. You, you just wanna kinda take off the table the sense that you refuse to be accountable and it's people's jobs to force you to become accountable, 'cause that can get really ugly. The information, um, the facts are important, but you have direct ways to communicate with customers. I don't know, on that day, like maybe nobody's computer was working. 
+
+00:07:11,840 --> 00:07:12,060 [Speaker 1]
+[chuckles] Yeah. 
+
+00:07:12,060 --> 00:07:33,140 [Speaker 0]
+But most companies have ways, like most companies have ways that they can directly send emails or messages to their customers. Maybe it shows up in the product, or they can just call their most important customers. So the facts I would s- ho-hope and assume are getting out, and the public statement is, yeah, really for putting out the right vibes. 
+
+00:07:33,140 --> 00:07:50,170 [Speaker 1]
+Yeah. I, yeah, the, the vibe line is very, very tricky. Like lawyers, it's, it's, it's almost a quantitative exercise. It's very... Uh, uh, l- law feels very algorithmic to me. It feels very, uh, there is a right answer in, in many, in many respects, in many ways. 
+
+00:07:50,170 --> 00:07:50,200 [Speaker 0]
+Mm-hmm. 
+
+00:07:50,200 --> 00:08:05,530 [Speaker 1]
+They-- A lawyer can say, "If we say this, our legal liability is minimized." And maybe it's a little bit squishy, but it's pretty, it's pretty d-knowable. Whereas the vibes are good if we take a shot at dunking on ourselves here. Like that can go wildly- 
+
+00:08:05,530 --> 00:08:05,530 [Speaker 0]
+Yeah 
+
+00:08:05,530 --> 00:08:15,340 [Speaker 1]
+... wrong. We've seen this in politics where l- or I mean, I, I don't even... I, it's hard to tell how these things were res-responded. Maybe this is a good bridge to the, the Biden news, but, you know, when- 
+
+00:08:15,340 --> 00:08:16,020 [Speaker 0]
+Yeah. 
+
+00:08:16,020 --> 00:08:21,820 [Speaker 1]
+... when a lot of people were dunking on Biden for putting out these jokes, "I'm sick," when he was in fact sick. 
+
+00:08:21,820 --> 00:08:22,320 [Speaker 0]
+[laughs] I know. 
+
+00:08:22,320 --> 00:08:23,610 [Speaker 1]
+I, I actually think that's a, like a- 
+
+00:08:23,610 --> 00:08:23,610 [Speaker 0]
+He was- 
+
+00:08:23,610 --> 00:08:26,420 [Speaker 1]
+... kind of a revolutionary format in terms of just- 
+
+00:08:26,420 --> 00:08:27,530 [Speaker 0]
+Yeah. [laughs] 
+
+00:08:27,530 --> 00:08:27,560 [Speaker 1]
+... X post. 
+
+00:08:27,560 --> 00:08:27,970 [Speaker 0]
+Yeah. 
+
+00:08:27,970 --> 00:08:44,700 [Speaker 1]
+Like having two words and then following it up with a second tweet that you have to click into. I, I think whoever, whoever posted that like was very smart about how to format a tweet. Um, people were kind of like, you know, "Is this good? Is this bad?" It didn't seem to matter, you know. Obviously dropped out a few days later. But, um- 
+
+00:08:44,700 --> 00:08:45,220 [Speaker 0]
+Yeah 
+
+00:08:45,220 --> 00:08:58,620 [Speaker 1]
+... but I, but it seems almost, I don't know, it seems like with our politicians, we've kind of embraced the fact that it's a circus, that there's gonna be jokes on Twitter. You know, Hillary Clinton quote tweeted Donald Trump, uh, in 2016 saying, "Delete your account." That's like a very- 
+
+00:08:58,620 --> 00:08:58,629 [Speaker 0]
+Mm-hmm 
+
+00:08:58,629 --> 00:09:04,280 [Speaker 1]
+... Twitter native thing. And I'm sure these are all like interns writing these things, but it's allowed to happen. I guess it's funny- 
+
+00:09:04,280 --> 00:09:04,290 [Speaker 0]
+Yeah 
+
+00:09:04,290 --> 00:09:10,600 [Speaker 1]
+... or it's funny to me that like at a company like CrowdStrike, there are less interns shitposting than at- 
+
+00:09:10,600 --> 00:09:10,610 [Speaker 0]
+[laughs] 
+
+00:09:10,610 --> 00:09:11,880 [Speaker 1]
+... you know, the White House. 
+
+00:09:13,980 --> 00:09:14,010 [Speaker 1]
+[laughs] 
+
+00:09:14,010 --> 00:09:18,450 [Speaker 0]
+[laughs] I know. Well, the interns were all scared and their computers were bricked. I don't know what was happening. Like- 
+
+00:09:18,450 --> 00:09:19,670 [Speaker 1]
+Yeah. It's like how, how is CrowdStrike- 
+
+00:09:19,670 --> 00:09:19,710 [Speaker 0]
+... it was very old school. 
+
+00:09:19,710 --> 00:09:21,629 [Speaker 1]
+I mean, CrowdStrike is very important, obviously. 
+
+00:09:21,629 --> 00:09:21,700 [Speaker 0]
+Yeah. 
+
+00:09:21,700 --> 00:09:28,480 [Speaker 1]
+Obviously it's very important. We saw that. But it's not more important than the government of the United States. Like, like, and yet the government- 
+
+00:09:28,480 --> 00:09:28,490 [Speaker 0]
+Well- 
+
+00:09:28,490 --> 00:09:40,689 [Speaker 1]
+... can joke around, but CrowdStrike can't? Like I... Now, now you've convinced me, and now I'm like, they should've been like posting Blue- BSOD memes and just being like, "Man, we got screwed." Like, "We're idiots." Like- 
+
+00:09:40,689 --> 00:09:40,760 [Speaker 0]
+Maybe- 
+
+00:09:40,760 --> 00:09:42,860 [Speaker 1]
+... like, "We gotta get through this," you know? 
+
+00:09:42,860 --> 00:09:44,060 [Speaker 0]
+Maybe. I, I think, um, 
+
+00:09:45,200 --> 00:09:49,900 [Speaker 0]
+step one is find out how bad it is. Like if people literally died. 
+
+00:09:49,900 --> 00:09:50,390 [Speaker 1]
+Yeah. Then, yeah. 
+
+00:09:50,390 --> 00:09:57,680 [Speaker 0]
+Or, you know, let's, let's say like you took out an ER or something and, and, and people died or s- or someone couldn't get to the hospital to give birth or whatever. 
+
+00:09:57,680 --> 00:09:57,980 [Speaker 1]
+Yeah. 
+
+00:09:57,980 --> 00:10:02,290 [Speaker 0]
+Um, then you probably wanna know that first. But it is interesting that the White House- 
+
+00:10:02,290 --> 00:10:07,280 [Speaker 1]
+Yeah. Like the, like the best case scenario would be like if it was, if it only affected CrowdStrike billing, uh, software- 
+
+00:10:07,280 --> 00:10:07,290 [Speaker 0]
+Yeah. Yeah, yeah, yeah 
+
+00:10:07,290 --> 00:10:08,580 [Speaker 1]
+... and they lost their money. 
+
+00:10:08,580 --> 00:10:08,660 [Speaker 0]
+Yes. 
+
+00:10:08,660 --> 00:10:11,180 [Speaker 1]
+And it would be like, "We fucked up. It's purely on us." 
+
+00:10:11,180 --> 00:10:11,189 [Speaker 0]
+Yeah. 
+
+00:10:11,189 --> 00:10:16,780 [Speaker 1]
+"There's no one else that really was affected. In fact, many other people were positively affected, so we can joke about this." 
+
+00:10:16,780 --> 00:10:16,800 [Speaker 0]
+Yeah. 
+
+00:10:16,800 --> 00:10:24,430 [Speaker 1]
+The opposite is like, if something really serious happens externally and it doesn't affect CrowdStrike people at all, then, you know, yeah. So it is a continuum here. 
+
+00:10:24,430 --> 00:10:29,940 [Speaker 0]
+Well, so let's segue to politics here on this note, because humor is incredibly disarming. 
+
+00:10:29,940 --> 00:10:29,950 [Speaker 1]
+Yeah. 
+
+00:10:29,950 --> 00:10:32,820 [Speaker 0]
+And this is why people like Trump. Not, not everybody. 
+
+00:10:32,820 --> 00:10:33,140 [Speaker 1]
+Yeah. 
+
+00:10:33,140 --> 00:10:43,730 [Speaker 0]
+Um, and not everybody who likes him is for this reason, but a lot of people can't not like Trump because he is objectively the most hilarious person maybe alive in America right now. [chuckles] 
+
+00:10:43,730 --> 00:10:43,880 [Speaker 1]
+Yeah. 
+
+00:10:43,880 --> 00:10:45,780 [Speaker 0]
+Like he's definitely the most funny president. 
+
+00:10:45,780 --> 00:10:46,600 [Speaker 1]
+Yeah. 
+
+00:10:46,600 --> 00:10:57,390 [Speaker 0]
+And he uses it real... And, and it, it creates this sort of shield around him where he might do something that for somebody else is a career ender, but for him is just him being really hilarious once again. 
+
+00:10:57,390 --> 00:10:57,390 [Speaker 1]
+Yeah. 
+
+00:10:57,390 --> 00:11:05,320 [Speaker 0]
+And it goes back, like you, you sort of set expectations that you're just a kooky guy who says wild things, and you can get away with a lot. 
+
+00:11:05,320 --> 00:11:05,500 [Speaker 1]
+Yeah. 
+
+00:11:07,040 --> 00:11:11,080 [Speaker 0]
+I'm not sure about the Biden White House people- 
+
+00:11:11,080 --> 00:11:11,549 [Speaker 1]
+I'm trying to think of- 
+
+00:11:11,549 --> 00:11:13,280 [Speaker 0]
+... though. It felt like they were grasping at straws. 
+
+00:11:15,460 --> 00:11:35,330 [Speaker 1]
+Yeah. Like I, I don't know. I, I listened to-- I mean, I, I, I guess the last thing, um, why I'm hesitating there is the last thing I, I listened to of Trump's was the RNC speech, and it was very serious because it was like grappling with this idea of like, you know, surviving an assassination attempt. So I wasn't exactly laughing out loud. And I think I was also listening to it on like 2X 'cause it was like really long and slow. [chuckles] 
+
+00:11:35,330 --> 00:11:37,020 [Speaker 0]
+So-- What was it? It was like an hour? 
+
+00:11:37,020 --> 00:11:41,170 [Speaker 1]
+I think it was over an hour. I think somebody said it was like 77 minutes. Um, but- 
+
+00:11:41,170 --> 00:11:42,360 [Speaker 0]
+It's a show of stamina. 
+
+00:11:42,360 --> 00:11:47,530 [Speaker 1]
+But yeah, I mean, clearly like you get media trained by being on reality TV for I don't know how long, a decade. 
+
+00:11:47,530 --> 00:11:47,559 [Speaker 0]
+Yeah. 
+
+00:11:47,560 --> 00:11:52,630 [Speaker 1]
+Like there's gonna be some cadence to the humor that comes through. 
+
+00:11:52,630 --> 00:11:52,660 [Speaker 0]
+Yeah. 
+
+00:11:52,660 --> 00:12:00,549 [Speaker 1]
+And he's just been able to treat the rallies as sets. He does crowd work. He knows how to break out. He, uh, all- 
+
+00:12:00,549 --> 00:12:00,549 [Speaker 0]
+It's a show 
+
+00:12:00,549 --> 00:12:15,490 [Speaker 1]
+... every comedian... And in fact, the, I think the people who have dr-dr- uh, like drawn the most attention to Trump's like comedy, because obviously like you can't really trust the right wing because they're gonna be like, "Everything everyone says is amazing and, and funny." And then you get the left wing is gonna be like, "It was so serious and terrible." 
+
+00:12:15,490 --> 00:12:16,650 [Speaker 0]
+[chuckles] Yeah. "It was fascist." 
+
+00:12:16,650 --> 00:12:28,560 [Speaker 1]
+"You could ever..." But, but you listen to a lot of like the centrist comedians who are like, "Like I don't vote." [chuckles] And, and they will tell you Trump's funny, and I trust their opinion because they understand what makes for a good joke and good cadence. And it makes sense- 
+
+00:12:28,560 --> 00:12:28,580 [Speaker 0]
+Mm-hmm 
+
+00:12:28,580 --> 00:12:42,395 [Speaker 1]
+... that he spent so long that he became, you know, funny. And, and I'm sure that helps with a lot of comms. But I don't think heI, I, I'm, I'm trying to think if he's ever used humor in, in any sort of like serious communication. It, it seems very much not so. 
+
+00:12:42,396 --> 00:12:54,956 [Speaker 0]
+He-- Okay, I don't know if this was intentional, but there were even super funny moments in his description of being shot. This is the most serious part of a really serious speech, and I didn't see all of it because it was late- 
+
+00:12:54,956 --> 00:12:54,966 [Speaker 1]
+Right 
+
+00:12:54,966 --> 00:13:09,676 [Speaker 0]
+...and so long. Um, but he was talking about how much blood there was. Again, this is supposed to be serious, and it's a serious topic obviously, but he was like, "There's blood everywhere. There was so much blood." I wish I had practiced my Trump impression. I'm actually getting better at it. 
+
+00:13:09,676 --> 00:13:10,066 [Speaker 1]
+Ah. 
+
+00:13:10,066 --> 00:13:16,546 [Speaker 0]
+"So much blood." And then he talks about going to the doctor, and the doctor tells him that ears tend to bleed a lot. 
+
+00:13:16,546 --> 00:13:16,556 [Speaker 1]
+Yeah. 
+
+00:13:16,556 --> 00:13:22,176 [Speaker 0]
+They're the part of the body that maybe bleeds the most, and he pauses and goes, "We learned something that day." [chuckles] 
+
+00:13:22,176 --> 00:13:23,816 [Speaker 1]
+Yeah. Is that intentional? 
+
+00:13:23,816 --> 00:13:24,196 [Speaker 0]
+And the fact that- 
+
+00:13:24,196 --> 00:13:25,296 [Speaker 1]
+I don't... It is funny. You're right 
+
+00:13:25,296 --> 00:13:26,446 [Speaker 0]
+...I, I can't tell. 
+
+00:13:26,446 --> 00:13:26,485 [Speaker 1]
+We learned something that day. 
+
+00:13:26,485 --> 00:13:29,326 [Speaker 0]
+Like I can't tell if he meant for that to be funny or if- 
+
+00:13:29,326 --> 00:13:29,326 [Speaker 1]
+Yeah 
+
+00:13:29,326 --> 00:13:40,416 [Speaker 0]
+...or if his delivery... So Dave Chappelle has this, where he'll say stuff that isn't actually the joke, and people in the audience just start laughing because they think it's the punchline because he just delivers stuff in a funny way. 
+
+00:13:40,416 --> 00:13:41,036 [Speaker 1]
+Yeah. 
+
+00:13:41,036 --> 00:13:48,616 [Speaker 0]
+And that, that might be Trump. It's, um... I mean, it, it's definitely a liability, but it's, uh, it's sort of a shield too. It's definitely an asset. 
+
+00:13:48,616 --> 00:14:06,196 [Speaker 1]
+Yeah. Uh, there's a, there, there's this weird narrative that happens in all these comms cycles that I wanna ask you about, um, because I think it's getting to like this breaking point. Basically, with both the assassination attempt and the CrowdStrike thing, I saw 
+
+00:14:07,536 --> 00:14:23,536 [Speaker 1]
+backlash to it saying this is because of DEI. And I am super... I feel like... Do you remember during the vaccine thing when there were a lot of vaccine skepticism and the vaccine skeptics? Like anytime anyone died, they'd be like- 
+
+00:14:23,536 --> 00:14:23,886 [Speaker 0]
+[chuckles] They'd be like, "Vaxxed." 
+
+00:14:23,886 --> 00:14:27,376 [Speaker 1]
+...were, were they vaxxed? They'd be like, like Willy Mays died. 
+
+00:14:27,376 --> 00:14:27,476 [Speaker 0]
+Yeah. 
+
+00:14:27,476 --> 00:14:30,786 [Speaker 1]
+He was 93, by the way, and people were like, "Vaxxed?" 
+
+00:14:30,786 --> 00:14:30,796 [Speaker 0]
+Vaxxed. 
+
+00:14:30,796 --> 00:14:35,636 [Speaker 1]
+And it's like, uh, okay, like probably not. Like that's probably nothing. But then it became a joke meme. 
+
+00:14:35,636 --> 00:14:37,706 [Speaker 0]
+And that's become a theme. Yeah, yeah. It's a meme now because it was everywhere. 
+
+00:14:37,706 --> 00:14:43,596 [Speaker 1]
+Became a joke meme where, where it would be like a bridge fell down. They'd be like, "Was the bridge vaxxed?" Or like, you know, just like random, like things- 
+
+00:14:43,596 --> 00:14:43,705 [Speaker 0]
+Yeah 
+
+00:14:43,705 --> 00:14:47,876 [Speaker 1]
+...that couldn't possibly be related to any sort of vaccine industry, uh, uh, i-injury- 
+
+00:14:47,876 --> 00:14:48,136 [Speaker 0]
+Uh-huh 
+
+00:14:48,136 --> 00:14:53,336 [Speaker 1]
+...would all of a sudden be, people would just ask, "Vaxxed?" And it, it, it honestly makes me laugh every time. Um- 
+
+00:14:53,336 --> 00:14:53,386 [Speaker 0]
+[chuckles] 
+
+00:14:53,386 --> 00:14:56,616 [Speaker 1]
+...but I feel like that's what the DEI stuff is becoming because- 
+
+00:14:56,616 --> 00:14:56,796 [Speaker 0]
+Mm-hmm 
+
+00:14:56,796 --> 00:15:30,536 [Speaker 1]
+...the CrowdStrike thing happened, and immediately people were like going and finding old like tweets where like they made their logo like rainbow colored, and they were like, "They supported pride. That's why this is happening." And it's like, I don't know that that's r- correlated at all, guys. Like I get that like there's this culture war about DEI. Obviously, there's a lot of drawbacks with this stuff, and, uh, you know, like companies need to work through this, and the, and the new Alexander Wang MEI thing, meritocracy, th-this feels like a big step forward. But can we really blame everything that goes wrong on DEI as soon as it comes up? It just seems ridiculous to me. 
+
+00:15:30,536 --> 00:15:35,176 [Speaker 0]
+Yeah. It, it's, it's definitely entered, um, just meme territory. 
+
+00:15:35,176 --> 00:15:35,316 [Speaker 1]
+Yeah. 
+
+00:15:35,316 --> 00:15:41,036 [Speaker 0]
+Like I think what happens is when something gets repeated over and over- 
+
+00:15:41,036 --> 00:15:41,176 [Speaker 1]
+Yeah 
+
+00:15:41,176 --> 00:15:45,936 [Speaker 0]
+...plus it's a little bit overblown or ridiculous or overplayed- 
+
+00:15:45,936 --> 00:15:46,196 [Speaker 1]
+Yeah 
+
+00:15:46,196 --> 00:15:50,116 [Speaker 0]
+...um, plus it's catchy, so like vaxxed or D&I, like- 
+
+00:15:50,116 --> 00:15:51,576 [Speaker 1]
+Yeah. It's so simple 
+
+00:15:51,576 --> 00:15:54,246 [Speaker 0]
+...it's catchy. It-- That's, that's the formula for meme-dom. 
+
+00:15:54,246 --> 00:15:54,256 [Speaker 1]
+Yeah. 
+
+00:15:54,256 --> 00:15:58,236 [Speaker 0]
+And so I think it's just entered the annals of- 
+
+00:15:58,236 --> 00:15:58,376 [Speaker 1]
+Yeah 
+
+00:15:58,376 --> 00:16:05,796 [Speaker 0]
+...of meme-dom, and meritocracy now is having a moment too. Um, did you see the tweet from Daniel, @GrowingDaniel? 
+
+00:16:05,796 --> 00:16:06,656 [Speaker 1]
+Yeah. 
+
+00:16:06,656 --> 00:16:13,776 [Speaker 0]
+Where he was like, uh, "Go, go right now to CrowdStrike's Twitter and look for an old tweet where they talk about D&I and post that again to- 
+
+00:16:13,776 --> 00:16:14,486 [Speaker 1]
+Oh, he said that? 
+
+00:16:14,486 --> 00:16:15,585 [Speaker 0]
+...do engagement. Yeah, he just did. 
+
+00:16:15,585 --> 00:16:16,246 [Speaker 1]
+Yeah. Oh. 
+
+00:16:16,246 --> 00:16:20,176 [Speaker 0]
+And then pe- and then people actually did it. I don't know if they saw the tweet or not, but it's like a, it's an obvious formula- 
+
+00:16:20,176 --> 00:16:20,266 [Speaker 1]
+Yep, yep, yep 
+
+00:16:20,266 --> 00:16:21,236 [Speaker 0]
+...for a ton of engagement. 
+
+00:16:21,236 --> 00:16:24,496 [Speaker 1]
+Yeah, yeah. It's becoming... It, it's hack. That's what it is. 
+
+00:16:24,496 --> 00:16:24,786 [Speaker 0]
+Yeah, it's a hack. Yeah, it's a hack. 
+
+00:16:24,786 --> 00:16:36,276 [Speaker 1]
+Throwing, throwing DEI allegations at things that probably have nothing to do with DEI allegations. Um, sorry, I got a phone call there. Um, is, is, is a hack bit at this point. Uh- 
+
+00:16:36,276 --> 00:16:39,396 [Speaker 0]
+But what did you think, what did you think of Biden comms yesterday? 
+
+00:16:41,196 --> 00:16:43,156 [Speaker 1]
+I, I mean, my first reaction is just like, 
+
+00:16:45,156 --> 00:17:21,266 [Speaker 1]
+I don't know. There, there's something weird about like the medium is the, is the message, and there's something about... I, I think maybe, I don't... Internally, they've kind of decided that like when they use the text field on the X post, that has some humor. That is a flexible place. But for a really serious note like this, it had to be a screenshot of the text. Because there was nothing about that that said this has to be a screenshot. It's not like it contained a photo that needed to come out of camera and needed to be shared. They could have shared that exact text on X as a native post. 
+
+00:17:21,266 --> 00:17:21,276 [Speaker 0]
+Mm. 
+
+00:17:21,276 --> 00:17:28,926 [Speaker 1]
+But they chose to take a s- picture of a sheet of paper, and it's just... A-and I think that's just very, very, uh, that's just very interesting because- 
+
+00:17:28,926 --> 00:17:29,276 [Speaker 0]
+That was interesting 
+
+00:17:29,276 --> 00:17:37,116 [Speaker 1]
+...you have the, the, like the celebrity or like influencer version of this is like the Notes app screenshot when someone like got in trouble. 
+
+00:17:37,116 --> 00:17:39,816 [Speaker 0]
+[laughs] He should've done the Notes app. 
+
+00:17:39,816 --> 00:17:42,066 [Speaker 1]
+It-- Well, it's his version of the Notes app. It's the- 
+
+00:17:42,066 --> 00:17:42,075 [Speaker 0]
+It is 
+
+00:17:42,075 --> 00:17:44,896 [Speaker 1]
+...White House's version of the Notes app screenshot- 
+
+00:17:44,896 --> 00:17:45,716 [Speaker 0]
+It is 
+
+00:17:45,716 --> 00:17:50,206 [Speaker 1]
+...is you, you, you have to type out something serious because it's like, "Let's get serious, guys." 
+
+00:17:50,206 --> 00:17:50,566 [Speaker 0]
+On letterhead, yeah. 
+
+00:17:50,566 --> 00:18:00,736 [Speaker 1]
+"I want you to slow down." Because if it's p- if it's in the text mode, you can just be scrolling up and down. If it's an image, you have to click in, you have to zoom in, you have to engage with this. It's a little bit, it's a little bit weedier. 
+
+00:18:00,736 --> 00:18:03,626 [Speaker 0]
+Do you think they were working the algo? Do you think they heard that the algo rewards images? [chuckles] 
+
+00:18:03,626 --> 00:18:16,356 [Speaker 1]
+Uh, no, no, no. It's not, it's not about that. It, it, it's about, it's about, um, it's about how like after we got bold and, and italics, everyone was like, "Twitter needs a sarcasm font." Well, now we do have italics- 
+
+00:18:16,356 --> 00:18:16,906 [Speaker 0]
+Mm-hmm 
+
+00:18:16,906 --> 00:18:22,366 [Speaker 1]
+...and, and it's not exactly a sarcasm font, but like you can use bold and italics when you do a- 
+
+00:18:22,366 --> 00:18:22,366 [Speaker 0]
+Yeah 
+
+00:18:22,366 --> 00:18:24,186 [Speaker 1]
+...you know, an, an announcement like you are going the route. 
+
+00:18:24,186 --> 00:18:25,406 [Speaker 0]
+But this is the, this is the Gravitas, Gravitas font. 
+
+00:18:25,406 --> 00:18:57,611 [Speaker 1]
+It... Yes, exactly. And perhaps like the screenshot of the, of the, you know, serif font printed out, you know, like document isIs a way to get people to kind of slow down and realize that, "Hey, this isn't a joke. I know we joke around on this account." And this is actually important. I, I think this is important for founders. This is important for me. I, I, I-- like 90% of my posts are usually jokes and just shitposts 'cause that's what we do on Twitter all day, is we just like have fun with our friends and like, you know, a lot of times like we're not like breaking news. 
+
+00:18:57,612 --> 00:19:01,432 [Speaker 0]
+Not me, though. I'm a- I'm adding... You're shitposting, I'm adding enterprise value. 
+
+00:19:01,432 --> 00:19:04,592 [Speaker 1]
+Yes, yes, yes, yes. [chuckles] Yes, wouldn't dare. Um- 
+
+00:19:04,592 --> 00:19:05,052 [Speaker 0]
+[chuckles] 
+
+00:19:05,052 --> 00:19:29,112 [Speaker 1]
+But, but, but then at, at a certain point, you do need a, a way to kind of code switch and change what you're saying. So, so a lot of people do lowercase for jokes, uh, like, like the lo-lowercase on the, on the first letter, and then uppercase, like sentence case for something that's serious. And now I've, I've stolen your Going Direct format from that original post that you made go so viral. And a- 
+
+00:19:29,112 --> 00:19:30,572 [Speaker 0]
+Which one? The manifesto? 
+
+00:19:30,572 --> 00:19:36,082 [Speaker 1]
+Yeah, the manifesto. Like, like I love that. I, I have that in a Word doc and then I can reference it if I'm trying to write something- 
+
+00:19:36,082 --> 00:19:36,162 [Speaker 0]
+[laughs] 
+
+00:19:36,162 --> 00:19:38,452 [Speaker 1]
+...that's like serious. Seriously, it's so helpful. 
+
+00:19:38,452 --> 00:19:38,712 [Speaker 0]
+Wow. 
+
+00:19:38,712 --> 00:20:09,372 [Speaker 1]
+Um, and so, and so the format as I understand it, um, I'm sure there's other secrets in there, but the, the format as I understand it is basically all caps, bold header, one line. Then, uh, it's like a subtitle within italics. Then it's, it's, uh, you use Roman numerals, I usually use just numbers. But [chuckles] um, you know, um, y- then you have like four headers and those go... And then, and so you're using like the hierarchy of communication weights and font weights to go- 
+
+00:20:09,412 --> 00:20:09,472 [Speaker 0]
+Yeah 
+
+00:20:09,472 --> 00:20:22,782 [Speaker 1]
+...all caps bold is a title case, you know, all caps is a, is a, you know, s-s-subheading, then italics can be used here, bold can be used sparingly. And, and so I don't know. Now we're just in the weeds on formats. [chuckles] But- 
+
+00:20:22,782 --> 00:20:24,272 [Speaker 0]
+But you know who's really good at this? 
+
+00:20:24,272 --> 00:20:24,332 [Speaker 1]
+Yeah. 
+
+00:20:24,332 --> 00:20:28,132 [Speaker 0]
+Formats, formats matter. That'll be a, that'll be the next swag T-shirt. 
+
+00:20:28,132 --> 00:20:29,362 [Speaker 1]
+Oh, yeah. For sure. 
+
+00:20:29,362 --> 00:20:29,382 [Speaker 0]
+Formats matter. 
+
+00:20:29,382 --> 00:20:29,452 [Speaker 1]
+For sure. 
+
+00:20:29,452 --> 00:20:31,012 [Speaker 0]
+Um, who's really good at this- 
+
+00:20:31,012 --> 00:20:32,412 [Speaker 1]
+It's important. And so yeah, I think they- 
+
+00:20:32,412 --> 00:20:36,432 [Speaker 0]
+Wait, wait, but, um, uh, Scott Alexander, Astral Codex 10- 
+
+00:20:36,432 --> 00:20:36,592 [Speaker 1]
+Yeah 
+
+00:20:36,592 --> 00:20:38,712 [Speaker 0]
+...is, uh, 'cause he has these very long blog posts- 
+
+00:20:38,712 --> 00:20:38,722 [Speaker 1]
+Yeah 
+
+00:20:38,722 --> 00:20:44,052 [Speaker 0]
+...and they're very intentionally formatted and designed to take you through it and, and make you feel like there's a narrative. 
+
+00:20:44,052 --> 00:20:44,252 [Speaker 1]
+Sure, sure. 
+
+00:20:44,252 --> 00:20:51,072 [Speaker 0]
+And he, I think, has a meta post about how he formats his posts. I'll try to find it and send it to you. 
+
+00:20:51,072 --> 00:20:51,232 [Speaker 1]
+Yeah. Yeah. 
+
+00:20:51,232 --> 00:20:52,432 [Speaker 0]
+But yes, um- 
+
+00:20:52,432 --> 00:20:52,522 [Speaker 1]
+It's important 
+
+00:20:52,522 --> 00:21:03,192 [Speaker 0]
+...yesterday on, on Biden, I thought the reasons for, uh, how they, how they did that initial dropout announcement were they were doing it for the history books. Like they knew this would be a moment in history- 
+
+00:21:03,192 --> 00:21:03,341 [Speaker 1]
+Yeah 
+
+00:21:03,341 --> 00:21:08,772 [Speaker 0]
+...and they wanted there to be an accompanying picture that was not like X.com formatting. 
+
+00:21:08,772 --> 00:21:09,822 [Speaker 1]
+That's smart. Yeah. 
+
+00:21:09,822 --> 00:21:20,452 [Speaker 0]
+Um, I thought that might be one reason. I thought that would also be maybe the reason they didn't include an endorsement for Kamala in the same post. Like just keep a clean post that announces the dropout and have that go in the history books. 
+
+00:21:20,452 --> 00:21:21,762 [Speaker 1]
+Yep, very smart. 
+
+00:21:21,762 --> 00:21:25,762 [Speaker 0]
+And then the, the, um, endorsement would be a separate thing. I don't know if this is the reason. Maybe this is just- 
+
+00:21:25,762 --> 00:21:37,032 [Speaker 1]
+Yeah, people were saying they were like scrambling and they didn't wr- but yeah, I, I think your argument makes a lot of sense, and it would be deliberate to, to keep them separate, especially because, you know, what happens if there's another dropout, then- 
+
+00:21:37,032 --> 00:21:37,512 [Speaker 0]
+Mm 
+
+00:21:37,512 --> 00:21:46,272 [Speaker 1]
+...or, or there's another change or something happens, and then he needs to change his, uh, endorsement. You want the flexibility to not have it be like- 
+
+00:21:46,272 --> 00:21:46,442 [Speaker 0]
+Yeah 
+
+00:21:46,442 --> 00:21:47,812 [Speaker 1]
+...memorialized in that document. 
+
+00:21:47,812 --> 00:21:50,492 [Speaker 0]
+Yeah. I wonder if they were trying to avoid copypasta too. 
+
+00:21:51,612 --> 00:21:51,792 [Speaker 0]
+You know? 
+
+00:21:51,792 --> 00:21:57,711 [Speaker 1]
+Oh, sure. Like you could immediately... Like it, it was like so wordy that it didn't lend itself to very many memes. 
+
+00:21:57,712 --> 00:21:57,932 [Speaker 0]
+That's true. 
+
+00:21:57,932 --> 00:22:12,522 [Speaker 1]
+And, and I do think that, that going off of video, um, because, you know, Biden, you know, people are obviously obsessed with the c- cognitive decline thing, but like if you listen to a 30-minute talk with him, like it's not like that he can't string a sentence together. That's not true. 
+
+00:22:12,522 --> 00:22:12,932 [Speaker 0]
+Mm-hmm. 
+
+00:22:12,932 --> 00:22:21,181 [Speaker 1]
+Like he, he hits, if he's on a teleprompter, it's early, he's, he's alert, he hits most sentences just fine. And he has his like kinda quirky cadence and is like- 
+
+00:22:21,181 --> 00:22:21,332 [Speaker 0]
+Yeah 
+
+00:22:21,332 --> 00:22:28,282 [Speaker 1]
+...a little folksy about it. But then like one of the lines will be wrong, and it'll be wrong like in a pretty bad way, and then all of a sudden- 
+
+00:22:28,282 --> 00:22:28,282 [Speaker 0]
+[laughs] 
+
+00:22:28,282 --> 00:22:30,732 [Speaker 1]
+...like that's the news story. Um- 
+
+00:22:30,732 --> 00:22:30,742 [Speaker 0]
+Yeah 
+
+00:22:30,742 --> 00:22:40,102 [Speaker 1]
+...but like by not just going on video immediately, he like slowed down the news story, the, the, the cycle that will erupt. Because if he- 
+
+00:22:40,102 --> 00:22:40,142 [Speaker 0]
+Mm 
+
+00:22:40,142 --> 00:22:44,872 [Speaker 1]
+...if he mispronounces a single word in the way that me and you mispronounce words- 
+
+00:22:44,872 --> 00:22:44,882 [Speaker 0]
+Interesting 
+
+00:22:44,882 --> 00:22:47,922 [Speaker 1]
+...when we're on this podcast, like we, we, we, we talk and, you know, "Oh, I just repeated-" 
+
+00:22:47,922 --> 00:22:49,362 [Speaker 0]
+But you're gonna edit those out, so they'll never happen. 
+
+00:22:49,362 --> 00:22:52,032 [Speaker 1]
+I just repeated the word we three times because I'm just talking. 
+
+00:22:52,032 --> 00:22:52,492 [Speaker 0]
+Yeah. 
+
+00:22:52,492 --> 00:22:55,302 [Speaker 1]
+These are normal things that anyone does. 
+
+00:22:55,302 --> 00:22:55,332 [Speaker 0]
+Yeah. 
+
+00:22:55,332 --> 00:22:58,181 [Speaker 1]
+People will hyper fixate on those. 
+
+00:22:58,181 --> 00:22:58,191 [Speaker 0]
+True. 
+
+00:22:58,192 --> 00:23:04,052 [Speaker 1]
+And so he needs to like kind of like delay that as long as possible so it doesn't become like a, a, you know, a meme or something. 
+
+00:23:04,052 --> 00:23:13,332 [Speaker 0]
+Yeah, yeah, that's true. Last question. Who do you think is doing a good job? Like, um, founder or company doing a good job with their comms or having a moment right now? 
+
+00:23:13,332 --> 00:23:17,352 [Speaker 1]
+I mean, Raul is, is doing great at, uh, zero interest rates. 
+
+00:23:17,352 --> 00:23:17,992 [Speaker 0]
+Yeah. 
+
+00:23:17,992 --> 00:23:18,812 [Speaker 1]
+I mean, IRL- 
+
+00:23:18,812 --> 00:23:20,632 [Speaker 0]
+Who? Julius? You mean for himself- 
+
+00:23:20,632 --> 00:23:21,132 [Speaker 1]
+Julius 
+
+00:23:21,132 --> 00:23:21,192 [Speaker 0]
+...or for Julius? 
+
+00:23:21,192 --> 00:24:02,571 [Speaker 1]
+Yeah, Julius. Yeah. I, I, I mean, just like that's a, that's a fascinating story because he's like... I, I saw someone break it down 'cause somebody was talking trash about him, and then somebody else broke it down like, no, he actually has a really cool story 'cause he was like, uh, an immigrant, d- didn't go to a top-tier school, and like got into YC, and all this stuff. But it's like he was like a phenomenal shitposter, was extremely popular among like the cool kids in tech, I guess you could say. And then, uh, and then starts a company, and then does that crazy Twitter prank where he went and held the box outside and like became like a viral face. But then he actually built like a serious, a serious company, and because of that, he like was able to bring that following along. And- 
+
+00:24:02,572 --> 00:24:02,832 [Speaker 0]
+Mm-hmm 
+
+00:24:02,832 --> 00:24:10,312 [Speaker 1]
+...the stuff he posts is like, it feels like real milestones. It feels like real development. It, it makes me want to use the product, which I think is like the key. 
+
+00:24:10,312 --> 00:24:16,532 [Speaker 0]
+Yeah, it's true. It's very substantive. Like he's managed to go from most people met him as a shitposter. 
+
+00:24:16,532 --> 00:24:17,092 [Speaker 1]
+Yep. 
+
+00:24:17,092 --> 00:24:30,912 [Speaker 0]
+And then he's managed to go from that to, um, a serious founder without losing the personality and the humor, and that's kinda hard to do. Like if you're known for one thing, making that turn and, and being taken seriously can be hard. Like Bridgit Mendler, um- 
+
+00:24:30,912 --> 00:24:31,271 [Speaker 1]
+Yeah 
+
+00:24:31,271 --> 00:24:32,831 [Speaker 0]
+...had to deal with this in the beginning too. 
+
+00:24:32,832 --> 00:24:33,092 [Speaker 1]
+Sure. 
+
+00:24:33,092 --> 00:24:36,892 [Speaker 0]
+People were referring to... People still refer to her as like former Disney star. 
+
+00:24:36,892 --> 00:24:37,032 [Speaker 1]
+Yeah. 
+
+00:24:37,032 --> 00:24:38,932 [Speaker 0]
+That's not the only thing she is now. 
+
+00:24:38,932 --> 00:24:38,972 [Speaker 1]
+Yeah, yeah, yeah. 
+
+00:24:38,972 --> 00:24:40,312 [Speaker 0]
+It's not the primary thing. 
+
+00:24:40,312 --> 00:24:40,382 [Speaker 1]
+Yeah.
+
+00:24:41,864 --> 00:24:44,204 [Speaker 0]
+Yeah, I would, I would shout out Polymarket. 
+
+00:24:44,204 --> 00:24:45,624 [Speaker 1]
+Oh, yeah. I mean, crushing it. 
+
+00:24:45,624 --> 00:25:00,423 [Speaker 0]
+And the founder Shane, whom I don't know. But Chris Best from Substack was telling me yesterday that they are having just a huge, huge moment, and they're, they're sort of, um, living proof in a company that the wisdom of the crowd is often better than the wisdom of- 
+
+00:25:00,424 --> 00:25:00,864 [Speaker 1]
+Yeah 
+
+00:25:00,864 --> 00:25:01,924 [Speaker 0]
+... uh, uh- 
+
+00:25:01,924 --> 00:25:02,844 [Speaker 1]
+Some random expert 
+
+00:25:02,844 --> 00:25:11,644 [Speaker 0]
+... tastemakers in the media, or, yeah, experts, pollsters, tastemakers. Like the top-down approach has not worked at all so far this cycle, and the market's actually been really good. 
+
+00:25:11,644 --> 00:25:23,274 [Speaker 1]
+And I mean, you talk about format mattering. They, they are super thoughtful about no matter where you screenshot, Polymarket will be there. They like, they, they put the Polymarket watermark on every chart. 
+
+00:25:23,274 --> 00:25:23,304 [Speaker 0]
+Oh. 
+
+00:25:23,304 --> 00:25:24,604 [Speaker 1]
+And so [clears throat] they've just- 
+
+00:25:24,604 --> 00:25:25,174 [Speaker 0]
+Yeah 
+
+00:25:25,174 --> 00:25:37,894 [Speaker 1]
+... created so many of these viral moments. And yeah, the founder Shane DM'd me and was like, "Hey man, like tha- I know like you're, you know, work with Founders Fund. Like I, I appreciate like all the support." And I, and I, I hadn't even thought about it. I was like- 
+
+00:25:37,894 --> 00:25:37,894 [Speaker 0]
+That's incredible 
+
+00:25:37,894 --> 00:25:42,354 [Speaker 1]
+... "Oh yeah, I guess Founders Fund did invest," but like that's not why I'm posting about Polymarket. Like I'm posting- 
+
+00:25:42,354 --> 00:25:42,364 [Speaker 0]
+Yeah 
+
+00:25:42,364 --> 00:25:48,094 [Speaker 1]
+... about Polymarket because it's hilarious that there's a, a betting market for who will last longer, Biden or a head of lettuce. 
+
+00:25:48,094 --> 00:25:48,104 [Speaker 0]
+A head of lettuce. [chuckles] 
+
+00:25:48,104 --> 00:25:49,864 [Speaker 1]
+Like this is wild. Like they- 
+
+00:25:49,864 --> 00:25:51,294 [Speaker 0]
+And they had all these pictures- 
+
+00:25:51,294 --> 00:25:51,294 [Speaker 1]
+The world is just weird 
+
+00:25:51,294 --> 00:25:54,884 [Speaker 0]
+... of the lettuce. Yeah, yeah, yeah. It was like a very photogenic lettuce. 
+
+00:25:54,884 --> 00:25:55,254 [Speaker 1]
+Yeah, yeah, yeah. 
+
+00:25:55,254 --> 00:25:59,924 [Speaker 0]
+And they had all these pictures and all these updates. By the way, amazing instincts by Shane- 
+
+00:25:59,924 --> 00:26:00,004 [Speaker 1]
+Yeah 
+
+00:26:00,004 --> 00:26:02,434 [Speaker 0]
+... to DM you and do that. Um- 
+
+00:26:02,434 --> 00:26:02,434 [Speaker 1]
+Yeah, yeah 
+
+00:26:02,434 --> 00:26:12,124 [Speaker 0]
+... because not everybody takes the time or sees the value in doing it, but it became a thing in your mind that you're now consciously thinking about supporting them as opposed to you did it once and moved on. 
+
+00:26:12,124 --> 00:26:34,364 [Speaker 1]
+Yeah. Yeah. I, i-i, yeah, it's, it's, it's interesting to see like the secret of their success. I, I don't know that it's necessarily comms, but they certainly have like, they've... It feels like they've leapfrogged some of the other brands in the space that I've seen before, um, where liquidity has been a little bit lax. I mean, I heard about somebody, somebody put like $2 million on the election, which is like crazy numbers from- 
+
+00:26:34,364 --> 00:26:34,594 [Speaker 0]
+But what was the bet? 
+
+00:26:34,594 --> 00:26:35,464 [Speaker 1]
+... for prediction markets. 
+
+00:26:35,464 --> 00:26:36,044 [Speaker 0]
+Like what was the bet? 
+
+00:26:36,044 --> 00:26:38,744 [Speaker 1]
+To, for Biden to win or something. [chuckles] You know? 
+
+00:26:38,744 --> 00:26:39,324 [Speaker 0]
+[laughs] 
+
+00:26:39,324 --> 00:26:41,744 [Speaker 1]
+I mean, I mean, it, it was notable because this person lost- 
+
+00:26:41,744 --> 00:26:42,064 [Speaker 0]
+RIP 
+
+00:26:42,064 --> 00:26:44,114 [Speaker 1]
+... $2 million. Um- 
+
+00:26:44,114 --> 00:26:44,474 [Speaker 0]
+Oh, that's brutal 
+
+00:26:44,474 --> 00:26:54,954 [Speaker 1]
+... but, but the idea of, of, of finding a place with that deep of liquidity, it's a little bit abstract because most people think you can just bet any amount on, on anything, but that's not really the case in these prediction markets. 
+
+00:26:54,954 --> 00:26:54,964 [Speaker 0]
+Yeah, yeah. 
+
+00:26:54,964 --> 00:27:06,844 [Speaker 1]
+Although they did exist a decade ago, they didn't necessarily have the, the, the depth of liquidity to actually go and, and make a big, big bet, like $2 million on something. Um- 
+
+00:27:06,844 --> 00:27:07,604 [Speaker 0]
+That's true. 
+
+00:27:07,604 --> 00:27:08,724 [Speaker 1]
+Yeah, yeah. It's pretty wild. 
+
+00:27:08,724 --> 00:27:28,844 [Speaker 0]
+That's true. Sergey over there, um, had made the point that this is a great opportunity for them to talk about the wisdom of markets and the crowd, uh, which so far has actually favored Trump in a lot of ways. And if Trump wins, maybe they could use that to try to get themselves unbanned in the US. That would be interesting. 
+
+00:27:28,844 --> 00:27:32,264 [Speaker 1]
+Oh, yeah. That's smart. Yeah, yeah, yeah. Do, do like policy around it. 
+
+00:27:32,264 --> 00:27:33,153 [Speaker 0]
+Yeah, yeah. 
+
+00:27:33,153 --> 00:27:33,224 [Speaker 1]
+Yeah. 
+
+00:27:33,224 --> 00:27:33,684 [Speaker 0]
+Yeah. 
+
+00:27:33,684 --> 00:27:38,554 [Speaker 1]
+I wonder how much that's affecting them with like people being creative with VPNs and stuff. Probably a lot still. 
+
+00:27:38,554 --> 00:27:38,554 [Speaker 0]
+Yeah. 
+
+00:27:38,554 --> 00:27:39,424 [Speaker 1]
+'Cause like- 
+
+00:27:39,424 --> 00:27:39,433 [Speaker 0]
+Probably a lot 
+
+00:27:39,433 --> 00:27:50,314 [Speaker 1]
+... uh, it's just always, friction's everything. Imagine if you're approved on Facebook and then Apple Store, and then you go into the App Store and, you know, it's just one click to, to bet on Biden or whatever, bet on Trump. 
+
+00:27:50,314 --> 00:27:50,364 [Speaker 0]
+Yeah. 
+
+00:27:50,364 --> 00:27:50,784 [Speaker 1]
+Like obvious. 
+
+00:27:50,784 --> 00:27:53,864 [Speaker 0]
+No, even on a, on a website, like one extra click- 
+
+00:27:53,864 --> 00:27:53,894 [Speaker 1]
+Yeah 
+
+00:27:53,894 --> 00:27:55,554 [Speaker 0]
+... will attrit 30% of users. 
+
+00:27:55,554 --> 00:28:01,394 [Speaker 1]
+I do love that they sh- that, that in the United States, I don't e- need to use a VPN to get a screenshot, because I'm not a gambler. 
+
+00:28:01,394 --> 00:28:01,424 [Speaker 0]
+[chuckles] Yeah. 
+
+00:28:01,424 --> 00:28:11,984 [Speaker 1]
+And, and I mean, I love Polymarket. May- may- maybe I'll use it at some point, but, but I'm, I'm, I'm not really like gambling on, uh, politics. Um, but I love that I can go and see, 'cause it, for me, it's news. 
+
+00:28:11,984 --> 00:28:13,004 [Speaker 0]
+[laughs] Yeah. 
+
+00:28:13,004 --> 00:28:47,514 [Speaker 1]
+For me, it's not gambling. It's, it's a news site. And I actually, when I was DM'ing with Shane, I, I, I said, what I want is every, every news organization, the, the incentives are always aligned towards let's just get out like a daily or a weekly, let's spam this person, let's make everything sound important because we need to be constantly re-engaging people. So we could turn on, you know, the mainstream media, CNN, Fox News right now, and I bet it's like, "Breaking news, something crazy happened." And we're like, "Could it possibly be crazier than an assassination attempt?" Because that's my bar for breaking news now. 
+
+00:28:47,514 --> 00:28:48,184 [Speaker 0]
+Well, on CNN- 
+
+00:28:48,184 --> 00:28:49,284 [Speaker 1]
+And if you use- 
+
+00:28:49,284 --> 00:28:50,984 [Speaker 0]
+On CNN it was no assassination attempt. 
+
+00:28:51,044 --> 00:28:52,124 [Speaker 1]
+Oh, yeah, yeah. It was no assassination. 
+
+00:28:52,124 --> 00:28:54,084 [Speaker 0]
+[chuckles] What assassination attempt? 
+
+00:28:54,084 --> 00:28:59,264 [Speaker 1]
+No, like I am so calibrated that unless something truly earth-shattering happens- 
+
+00:28:59,264 --> 00:28:59,714 [Speaker 0]
+Yeah, exactly 
+
+00:28:59,714 --> 00:29:01,154 [Speaker 1]
+... don't hit me with the breaking news- 
+
+00:29:01,154 --> 00:29:01,154 [Speaker 0]
+Yes 
+
+00:29:01,154 --> 00:29:05,664 [Speaker 1]
+... I gotta pay attention. I don't want you in my inbox. I don't want you using all caps, no bold. [chuckles] 
+
+00:29:05,664 --> 00:29:06,404 [Speaker 0]
+Yeah. [chuckles] 
+
+00:29:06,404 --> 00:29:11,514 [Speaker 1]
+Keep the formats very chill for a long time unless something really important happens. And, and- 
+
+00:29:11,514 --> 00:29:11,654 [Speaker 0]
+I'm with you 
+
+00:29:11,654 --> 00:29:18,844 [Speaker 1]
+... so I was like with Polymarket, you have the opportunity to set up a newsletter that only emails me when markets move. And so- 
+
+00:29:18,844 --> 00:29:18,854 [Speaker 0]
+Mm 
+
+00:29:18,854 --> 00:29:24,164 [Speaker 1]
+... if I, I want to read all of the political news if the market shifts. 
+
+00:29:24,164 --> 00:29:24,284 [Speaker 0]
+Mm-hmm. 
+
+00:29:24,284 --> 00:29:28,044 [Speaker 1]
+If the market doesn't shift, I don't really care about the story. It's not, it probably- 
+
+00:29:28,044 --> 00:29:28,254 [Speaker 0]
+It's interesting 
+
+00:29:28,254 --> 00:29:29,294 [Speaker 1]
+... isn't important. 
+
+00:29:29,294 --> 00:29:29,323 [Speaker 0]
+Yeah. 
+
+00:29:29,324 --> 00:29:48,454 [Speaker 1]
+And so, and, and, and you could do the same thing for, for, for stocks or any of these things. Like, you know, okay, is something happening? You know, what is the market reacting? Okay, then as a casual observer, maybe you should get up to speed. Maybe you should go and, and read the long-form story. Read that 6,000-word profile, or read that full analysis. 
+
+00:29:48,454 --> 00:29:48,484 [Speaker 0]
+Mm-hmm. 
+
+00:29:48,484 --> 00:29:49,534 [Speaker 1]
+Watch the YouTube video. 
+
+00:29:49,534 --> 00:29:49,544 [Speaker 0]
+Yeah. 
+
+00:29:49,544 --> 00:29:52,684 [Speaker 1]
+But you don't just wanna be endlessly consuming news necessarily. 
+
+00:29:52,684 --> 00:30:27,424 [Speaker 0]
+Yeah, yeah. That's, that's a really great point. I'm gonna try to find that and sign, sign up too, or send me the link if you have it. This is, it's, it's a good way to just... It, it's like Google News Alerts, but it's like Google Alerts for when something really matters. Yeah, yeah, yeah. Um, any final... I, I'll give a final thought for, um, takeaway for founders from the past few days, and then you give one too. We'll just come up with them. Um, but I think a good one is if you have an announcement planned or if, if you as a founder were like planning to do something publicly and then everything pops off, like whether it's CrowdStrike on Friday or stuff over the weekend, 
+
+00:30:28,624 --> 00:31:21,764 [Speaker 0]
+um, hopefully you weren't planning your announcement for Sunday anyway. But let's say that, um, current events step on your announcement. What should you do? Um, the default is try to retain the flexibility to move itEven if you have a press exclusive lined up, like journalists want people to read their articles, so it's totally fair to call the journalist and ask them if they could shift it by a couple days. Um, you'll have to let everybody know, let employees and investors know so that nobody like goes and posts something on the original day. But you can shift it. With, um, the Cognition launch, um, Ashley Vance was the journalist who had the exclusive. [lip smack] I think I, uh, and I feel very bad about this, but I think I moved it like three times, um, because we were trying to avoid stuff, uh, happening in the news. And then the only exception would be if what you're doing is, um, directly relevant to what's happening in the news- 
+
+00:31:21,764 --> 00:31:22,034 [Speaker 1]
+Then push it up. [chuckles] 
+
+00:31:22,034 --> 00:31:25,524 [Speaker 0]
+... then you should put, push it up, like make it happen at the same time. 
+
+00:31:25,524 --> 00:31:25,824 [Speaker 1]
+Yeah. 
+
+00:31:25,824 --> 00:31:35,644 [Speaker 0]
+And talk about how this thing actually... Like, you can ride off the virality of something, both algorithmically and in terms of people's attention and how much they care. That's my takeaway. Do you have one? 
+
+00:31:36,964 --> 00:31:39,444 [Speaker 1]
+Yeah. Yeah, that's interesting. I, I guess the, um, 
+
+00:31:41,464 --> 00:31:48,924 [Speaker 1]
+the real tricky situation... I mean, didn't both the shooting and the dropping out happen on the weekend? I, I don't remember. 
+
+00:31:48,924 --> 00:31:50,444 [Speaker 0]
+Yeah, the shooting was Saturday night. 
+
+00:31:50,444 --> 00:31:54,804 [Speaker 1]
+Saturday. Okay. So, so not a lot of collisions with product announcements, like no one actually got screwed. 
+
+00:31:54,804 --> 00:31:55,444 [Speaker 0]
+Not in this case. 
+
+00:31:55,444 --> 00:32:19,343 [Speaker 1]
+Um, but hypothetically, I, I guess I, I don't really have a great takeaway here, so I'm just gonna hit you with another question and maybe you can give another riff. Um, hypothetically, what happens if I do a... So i- if, i- if I do a product launch announcement and it, it, like if, if I'm, if I'm waiting and then news happens, I can delay. It might be a hassle to call Ashley Vance and tell him I need a couple more days, but I can- 
+
+00:32:19,344 --> 00:32:19,374 [Speaker 0]
+Yeah 
+
+00:32:19,374 --> 00:32:22,364 [Speaker 1]
+... do that, and he's aligned, so it'll happen. 
+
+00:32:22,364 --> 00:32:22,604 [Speaker 0]
+Yeah. 
+
+00:32:22,604 --> 00:32:31,734 [Speaker 1]
+My question is, what happens if we went live at 9:00 a.m., and then at 10:00 a.m. there's a political assassination [chuckles] and you've lost that? 
+
+00:32:33,164 --> 00:32:39,154 [Speaker 1]
+W- like, what do, what, well, yeah. Like you're just gone. Like it's just done. It's over, I think. 
+
+00:32:39,154 --> 00:32:39,164 [Speaker 0]
+Yeah. 
+
+00:32:39,164 --> 00:32:42,204 [Speaker 1]
+But like is there a way to recover? How do you do it? 
+
+00:32:42,204 --> 00:32:47,334 [Speaker 0]
+Honestly, I think no shame in just running the play again when things have calmed down. 
+
+00:32:47,334 --> 00:32:49,694 [Speaker 1]
+Just delete everything and just start over. [chuckles] 
+
+00:32:49,694 --> 00:32:53,004 [Speaker 0]
+Yeah, just start over. Just do it again. I mean, if nobody saw it- 
+
+00:32:53,004 --> 00:32:53,204 [Speaker 1]
+Yeah 
+
+00:32:53,204 --> 00:32:54,214 [Speaker 0]
+... you can just start over. 
+
+00:32:54,214 --> 00:32:54,214 [Speaker 1]
+No big deal. 
+
+00:32:54,214 --> 00:32:57,344 [Speaker 0]
+And there's n- there's nothing saying that if you said it once, you can't say it again. 
+
+00:32:57,344 --> 00:32:57,904 [Speaker 1]
+Yep. 
+
+00:32:57,904 --> 00:33:07,464 [Speaker 0]
+And so, um, you lose the this is the very first time we're coming out of stealth, but hopefully that wasn't a crutch for people to care. Like hopefully people didn't care just because you were- 
+
+00:33:07,464 --> 00:33:07,514 [Speaker 1]
+Yeah, yeah 
+
+00:33:07,514 --> 00:33:08,364 [Speaker 0]
+... coming out of stealth. 
+
+00:33:08,364 --> 00:33:08,644 [Speaker 1]
+Yeah. 
+
+00:33:08,644 --> 00:33:26,344 [Speaker 0]
+And there, there were other reasons, and you just present those other reasons again. Honestly, there, there are startups that I've looked at that came out of stealth like three months ago, and I, I kinda wanna say if it didn't look like the coming out was, you know, had too much fanfare- 
+
+00:33:26,344 --> 00:33:26,564 [Speaker 1]
+It worked. Yep 
+
+00:33:26,564 --> 00:33:27,624 [Speaker 0]
+... so you just do it again. 
+
+00:33:27,624 --> 00:33:27,644 [Speaker 1]
+Do it again. 
+
+00:33:27,644 --> 00:33:28,774 [Speaker 0]
+Just launch again. 
+
+00:33:28,774 --> 00:33:28,784 [Speaker 1]
+Yeah. 
+
+00:33:28,784 --> 00:33:40,744 [Speaker 0]
+And, and it could be the next time you have an announcement. Like it could be the next time you, um, uh, hit a new milestone technically or, or launch a new product or forge a new partnership or something. You just reintroduce yourself to the world- 
+
+00:33:40,744 --> 00:33:40,814 [Speaker 1]
+Yep 
+
+00:33:40,814 --> 00:33:41,504 [Speaker 0]
+... at that time. 
+
+00:33:41,504 --> 00:33:42,644 [Speaker 1]
+Yeah, yeah. Yeah, that makes a ton of sense. 
+
+00:33:42,644 --> 00:33:45,684 [Speaker 0]
+But yeah, that, that happens a lot, and it really sucks. 
+
+00:33:45,684 --> 00:33:47,714 [Speaker 1]
+Oh, yeah. Where, where, where you launch something at 9:00 a.m.- 
+
+00:33:47,714 --> 00:33:48,534 [Speaker 0]
+You launch and then something else- 
+
+00:33:48,534 --> 00:33:48,964 [Speaker 1]
+... and then something like- 
+
+00:33:48,964 --> 00:33:49,054 [Speaker 0]
+... lands on top of it 
+
+00:33:49,054 --> 00:33:52,024 [Speaker 1]
+... obviously not like political world, world-changing news. 
+
+00:33:52,024 --> 00:33:53,124 [Speaker 0]
+Could be anything. 
+
+00:33:53,124 --> 00:33:53,424 [Speaker 1]
+Um, but- 
+
+00:33:53,424 --> 00:34:03,284 [Speaker 0]
+Yeah, yeah. Yeah, some-- There's going to be some startup that comes out of stealth the morning, an hour before like GPT-5 comes out. [chuckles] 
+
+00:34:03,284 --> 00:34:03,474 [Speaker 1]
+Yeah. 
+
+00:34:03,474 --> 00:34:04,424 [Speaker 0]
+'Cause this happens to people. 
+
+00:34:04,424 --> 00:34:12,353 [Speaker 1]
+Fortunately, like for the most part, a lot of these things are, are knowable. Um, I mean, you look at the, the cadence, uh, especially on the AI stuff, like- 
+
+00:34:12,353 --> 00:34:12,644 [Speaker 0]
+Mm 
+
+00:34:12,644 --> 00:34:24,334 [Speaker 1]
+... the cadence of like we know that it's gonna... that, that the sequence of events is Apple's gonna book their event, and then OpenAI's gonna do theirs the day before, which I love. [chuckles] Or, or Google's gonna do their event. And- 
+
+00:34:24,334 --> 00:34:24,334 [Speaker 0]
+I love it 
+
+00:34:24,334 --> 00:34:34,284 [Speaker 1]
+... and then Apple's gonna be later and, you know, it's gonna be this whole thing, and then Microsoft will be in there. So the- these things are knowable like with, with the, you know, with the fidelity of like a few weeks- 
+
+00:34:34,284 --> 00:34:34,614 [Speaker 0]
+Maybe 
+
+00:34:34,614 --> 00:34:34,844 [Speaker 1]
+... which is good. 
+
+00:34:34,844 --> 00:34:37,324 [Speaker 0]
+Yeah. Although you do have stuff just dropping, though. 
+
+00:34:37,324 --> 00:34:38,314 [Speaker 1]
+Yeah. Yeah, yeah. That is true. 
+
+00:34:38,314 --> 00:34:38,564 [Speaker 0]
+Which I appreciate as well. 
+
+00:34:38,564 --> 00:34:47,284 [Speaker 1]
+And, and Sam is the wild card where like he could just drop something. I, I doubt Google or Apple would ever just drop something, so you don't really need to worry about that. You mostly- 
+
+00:34:47,284 --> 00:34:47,294 [Speaker 0]
+Yeah 
+
+00:34:47,294 --> 00:34:50,904 [Speaker 1]
+... just need to be really sharp to, to see the full calendar. 
+
+00:34:50,904 --> 00:34:51,224 [Speaker 0]
+Yeah. 
+
+00:34:51,224 --> 00:34:51,264 [Speaker 1]
+Of, of like- 
+
+00:34:51,264 --> 00:34:53,704 [Speaker 0]
+Mistral does this, which I really appreciate. 
+
+00:34:53,704 --> 00:34:54,204 [Speaker 1]
+Yeah. 
+
+00:34:54,204 --> 00:34:55,984 [Speaker 0]
+Remember they just like linked to a torrent file. 
+
+00:34:55,984 --> 00:34:57,564 [Speaker 1]
+Yep, yep. That was pretty awesome. 
+
+00:34:57,564 --> 00:34:58,383 [Speaker 0]
+It was great. It was great. 
+
+00:34:58,383 --> 00:34:59,244 [Speaker 1]
+Yeah. 
+
+00:34:59,244 --> 00:34:59,833 [Speaker 0]
+All right. Thank you for- 
+
+00:34:59,833 --> 00:35:28,934 [Speaker 1]
+That's the thing, but that didn't really like take over the internet in the same way that a, uh, like a, like a two-hour OpenAI keynote will because there's so much more to grasp on in... Like you, you get the torrent, you gotta download it, you gotta install it, you gotta run it. It's, it's like a lot to like... It, it's not a lot of content for f- it's not a lot of fodder. Whereas if there's two hours of, of Sam and his whole team talking, they can clip all sorts of stuff. There can be memes, there can be remixes, there can be demos. So you have the, you have the AI. 
+
+00:35:28,934 --> 00:35:28,954 [Speaker 0]
+All this. 
+
+00:35:28,954 --> 00:35:29,434 [Speaker 1]
+You know? 
+
+00:35:29,434 --> 00:35:29,464 [Speaker 0]
+Yeah. 
+
+00:35:29,464 --> 00:35:30,804 [Speaker 1]
+It's a different thing. 
+
+00:35:30,804 --> 00:35:39,764 [Speaker 0]
+Yeah, yeah. That's true. Well, no, thank you for raising that point because, um, sometimes it's really big within a certain community but doesn't go wide. 
+
+00:35:39,764 --> 00:35:39,984 [Speaker 1]
+Yeah. 
+
+00:35:39,984 --> 00:35:44,124 [Speaker 0]
+So I think with Mistral, it was really big with developers and AI geeks. 
+
+00:35:44,124 --> 00:35:44,344 [Speaker 1]
+Yep. 
+
+00:35:44,344 --> 00:35:49,764 [Speaker 0]
+Um, and people really liked it, but my parents, for example, still have never even heard of the company much less- 
+
+00:35:49,764 --> 00:35:50,684 [Speaker 1]
+Yeah, yeah, yeah 
+
+00:35:50,684 --> 00:35:52,284 [Speaker 0]
+... much less seen their launch. 
+
+00:35:52,284 --> 00:35:52,744 [Speaker 1]
+Yeah. 
+
+00:35:52,744 --> 00:35:53,024 [Speaker 0]
+Yes. 
+
+00:35:54,084 --> 00:35:55,104 [Speaker 0]
+Okay. 
+
+00:35:55,104 --> 00:35:55,724 [Speaker 1]
+Fun stuff. 
+
+00:35:55,724 --> 00:35:56,884 [Speaker 0]
+Did we cover it? 
+
+00:35:56,884 --> 00:35:57,214 [Speaker 1]
+I think so. 
+
+00:35:57,214 --> 00:35:58,064 [Speaker 0]
+I think we covered it. [chuckles] 
+
+00:35:58,064 --> 00:35:58,903 [Speaker 1]
+I think we got it. 
+
+00:35:58,904 --> 00:36:01,894 [Speaker 0]
+I thought this would be, um... Thank you for doing this, uh- 
+
+00:36:01,894 --> 00:36:02,054 [Speaker 1]
+Of course 
+
+00:36:02,054 --> 00:36:08,894 [Speaker 0]
+... experiment with me. I thought this would be like seven minutes and boom, boom, boom, but there was actually a, a lot more when we started pulling on the strings. 
+
+00:36:08,894 --> 00:36:08,924 [Speaker 1]
+Yeah. 
+
+00:36:08,924 --> 00:36:09,463 [Speaker 0]
+Thanks for doing it.

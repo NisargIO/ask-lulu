@@ -1,0 +1,1313 @@
+00:00:00,100 --> 00:00:05,200 [Co-host]
+But my question today for you, Lulu, is should I try and leak 
+
+00:00:06,300 --> 00:00:32,759 [Co-host]
+that my company is secretly being bought for $26 billion even though it isn't? Will that help me pump up my valuation? Will I make more money? Should I be leaking nice things about me all day long? Because this seems like, uh, like a, you know, a, an easy hack. Every startup wants more press, and am I lo- more likely to get press if I leak things? Is, is, is this a thing? I've never leaked anything. How do leaks work and, and what happened with Wiz? 
+
+00:00:33,980 --> 00:00:36,680 [Lulu]
+You, you should be leaking stuff about yourself all day long. 
+
+00:00:36,680 --> 00:00:36,700 [Co-host]
+[chuckles] 
+
+00:00:36,700 --> 00:00:43,680 [Lulu]
+I mean, you, you say so much publicly that you could probably just sl- slip the leaks in there in real time as if you heard it from somewhere else. There, there's a- 
+
+00:00:43,680 --> 00:00:43,690 [Co-host]
+Yeah 
+
+00:00:43,690 --> 00:00:49,480 [Lulu]
+... there's a lot that you can get away with. Um, okay, so we both saw this story this week of 
+
+00:00:50,520 --> 00:01:04,470 [Lulu]
+a leak that Wiz, um, was no longer going to be acquired by Google, and it previously-- There was another leak previously that said it was going to be, and there was, um, a CEO letter to employees that was sort of like, "We don't need Google anyway." 
+
+00:01:04,470 --> 00:01:04,470 [Co-host]
+Yeah. 
+
+00:01:04,470 --> 00:01:12,700 [Lulu]
+And then all of these headlines were that Wiz walks away from it. I don't know any of what happened behind the scenes, but this is a clear intentional leak. 
+
+00:01:12,700 --> 00:01:12,740 [Co-host]
+Hmm. 
+
+00:01:12,740 --> 00:01:22,610 [Lulu]
+So the, the way a leak works is someone contacts a reporter and says, "Please don't attribute this to me." T- technically, you would say, "This is on background." 
+
+00:01:22,610 --> 00:01:22,660 [Co-host]
+Yeah. 
+
+00:01:22,660 --> 00:01:28,450 [Lulu]
+If you say it's off the record, it means they can't print it, but on the record means they print it with your name. 
+
+00:01:28,450 --> 00:01:28,460 [Co-host]
+Okay. 
+
+00:01:28,460 --> 00:01:40,539 [Lulu]
+So on background is like, "Print this information, but don't say where you got it." And if you're really sophisticated about it, you wanna negotiate how the source is described, so usually it's someone close to the situation or someone familiar- 
+
+00:01:40,540 --> 00:01:40,650 [Co-host]
+Yeah 
+
+00:01:40,650 --> 00:01:40,660 [Lulu]
+... with the, with the- 
+
+00:01:40,660 --> 00:01:42,020 [Co-host]
+Familiar with the matter 
+
+00:01:42,020 --> 00:01:47,660 [Lulu]
+... yeah. But if it's, uh, if you're leaking a phone call and there's like three people on the phone call- 
+
+00:01:47,660 --> 00:01:47,670 [Co-host]
+Yeah 
+
+00:01:47,670 --> 00:01:50,630 [Lulu]
+... then you don't wanna be described as someone who was on the phone call. 
+
+00:01:50,630 --> 00:01:50,660 [Co-host]
+Yeah, exactly. 
+
+00:01:50,660 --> 00:02:01,660 [Lulu]
+So you just gotta get yourself described in the right way. You go to the reporter, um, you ask them if you can tell them something on background, and they have to affirmatively agree. 
+
+00:02:01,660 --> 00:02:01,950 [Co-host]
+Mm-hmm. 
+
+00:02:01,950 --> 00:02:07,520 [Lulu]
+This is like affirmative consent for media. They have to say, "Yes, you are now on background," and then- 
+
+00:02:07,520 --> 00:02:12,910 [Co-host]
+Is this like a handshake deal protocol at YC for fundraising? Like if they give me the thumbs up and the- 
+
+00:02:12,910 --> 00:02:13,010 [Lulu]
+[laughs] 
+
+00:02:13,010 --> 00:02:15,000 [Co-host]
+... text chat, it's, it's good? 
+
+00:02:15,000 --> 00:02:16,390 [Lulu]
+It is. Yeah. 
+
+00:02:16,390 --> 00:02:16,420 [Co-host]
+Okay. 
+
+00:02:16,420 --> 00:02:28,260 [Lulu]
+It is. It's like that, but, uh, pretty high stakes, because if you neglect to do this particular crane dance, they can print anything about your words, face- 
+
+00:02:28,260 --> 00:02:28,880 [Co-host]
+Yeah 
+
+00:02:28,880 --> 00:02:32,880 [Lulu]
+... surround- outfit, anything, and it's, it's all on the record by default. 
+
+00:02:32,880 --> 00:02:33,019 [Co-host]
+Yeah. 
+
+00:02:33,020 --> 00:02:54,460 [Lulu]
+So you make sure that they agree, and then you tell them the information that you wanna tell them. Um, you are probably pitching your angle, and then they might wanna go and verify this with somebody else. You, you could have a second source lined up. Or if you have an email, let's say, from the CEO to the company, then you don't need a second source. You just show them the email. 
+
+00:02:54,460 --> 00:02:54,640 [Co-host]
+Yeah. 
+
+00:02:54,640 --> 00:03:05,740 [Lulu]
+So I've, I've been on calls where, um, people are too paranoid to be sending stuff back and forth, so they'll h- have their phone up to the screen or do a screen share. But a lot of times, the reporter wants to see the email. 
+
+00:03:06,940 --> 00:03:10,910 [Lulu]
+So this was clearly somebody from inside Wiz. 
+
+00:03:10,910 --> 00:03:21,170 [Co-host]
+W- w- what's so odd is that y- you would think that, you know, like does Inspect Element in Photoshop not exist? Like do, do people ever just like make a fake email- 
+
+00:03:21,170 --> 00:03:21,210 [Lulu]
+[laughs] 
+
+00:03:21,210 --> 00:03:25,520 [Co-host]
+... and then show it to someone? Like this is not like hacker cryptography. Like- 
+
+00:03:25,520 --> 00:03:25,940 [Lulu]
+Yeah, yeah 
+
+00:03:25,940 --> 00:03:30,100 [Co-host]
+... this is pretty simple. Like I, I do this to make jokes and memes sometimes. 
+
+00:03:30,100 --> 00:03:30,320 [Lulu]
+Yeah. [laughs] 
+
+00:03:30,320 --> 00:03:34,860 [Co-host]
+Um, like th- there's really... Th- that's really all it takes. [chuckles] 
+
+00:03:34,860 --> 00:03:37,940 [Lulu]
+You could... That's -- It, it can be that simple. You, you probably- 
+
+00:03:37,940 --> 00:03:37,950 [Co-host]
+Yeah 
+
+00:03:37,950 --> 00:03:41,930 [Lulu]
+... could try to shop around a fake email. The thing is you would get found out. Someone would say- 
+
+00:03:41,930 --> 00:03:42,049 [Co-host]
+Yeah, and then eventually you would get caught and just- 
+
+00:03:42,049 --> 00:03:44,580 [Lulu]
+... "This wasn't sent around," and then you would be wrecked. 
+
+00:03:44,580 --> 00:03:45,079 [Co-host]
+Yeah. Yeah, yeah, yeah. 
+
+00:03:45,080 --> 00:03:48,780 [Lulu]
+So, so some of these things are like one-shot deals- 
+
+00:03:48,780 --> 00:03:48,930 [Co-host]
+Yeah 
+
+00:03:48,930 --> 00:03:53,540 [Lulu]
+... including leaks like this. If you were to do something like what Wiz did every week- 
+
+00:03:53,540 --> 00:03:53,549 [Co-host]
+Mm-hmm 
+
+00:03:53,549 --> 00:03:57,800 [Lulu]
+... you would lose credibility with everybody, including the press. It j- it just would stop working. 
+
+00:03:57,800 --> 00:03:58,120 [Co-host]
+Yeah. 
+
+00:03:58,120 --> 00:04:05,600 [Lulu]
+Um, and same with if you lie to the press, it'll be the last time you lie to the press. No one will ever pick up your phone, uh, you know- 
+
+00:04:05,600 --> 00:04:05,850 [Co-host]
+Yeah, yeah, yeah 
+
+00:04:05,850 --> 00:04:07,190 [Lulu]
+... pick up your calls ever again. 
+
+00:04:07,190 --> 00:04:07,260 [Co-host]
+Yeah. 
+
+00:04:07,260 --> 00:04:08,329 [Lulu]
+Um, so maybe- 
+
+00:04:08,329 --> 00:04:08,329 [Co-host]
+Mm-hmm 
+
+00:04:08,329 --> 00:04:13,460 [Lulu]
+... you'll get away with it once, but probably never again. It's the, it's the worst possible thing to do. 
+
+00:04:13,460 --> 00:04:28,960 [Co-host]
+Yeah. And then can you talk to me about the other side of leaks? Like I've had fundraising announcements leak. I, I assume that's just because like there's so many people involved in a deal. There's, you know, there's lawyers, there's VCs, and everyone's talking at diff- 
+
+00:04:28,960 --> 00:04:30,600 [Lulu]
+It's always the VCs. 
+
+00:04:30,600 --> 00:04:31,780 [Co-host]
+It's always the VCs? 
+
+00:04:31,780 --> 00:04:34,480 [Lulu]
+Investors are very leaky. 
+
+00:04:34,480 --> 00:04:34,520 [Co-host]
+Why? 
+
+00:04:34,520 --> 00:04:41,320 [Lulu]
+And some VCs are more... I, I think it's directly correlated with chattiness. 
+
+00:04:41,320 --> 00:04:41,440 [Co-host]
+Yeah. 
+
+00:04:41,440 --> 00:04:48,969 [Lulu]
+It's gotta be. I don't know if it's a personality type, uh, but there's, there's like industries that leak more or jobs that leak more, so- 
+
+00:04:48,969 --> 00:04:48,969 [Co-host]
+Yeah, yeah, yeah 
+
+00:04:48,969 --> 00:04:55,400 [Lulu]
+... investors are super leaky. Not all. Like there's some investors that are incredibly judicious with information. 
+
+00:04:55,400 --> 00:04:55,599 [Co-host]
+Yeah, yeah. 
+
+00:04:55,600 --> 00:05:01,200 [Lulu]
+But there are some that are just very chatty. Um, and then investment bankers are worse than VCs. There's like a hierarchy- 
+
+00:05:01,200 --> 00:05:01,310 [Co-host]
+[laughs] 
+
+00:05:01,310 --> 00:05:04,110 [Lulu]
+... of leakiness even within investors. [chuckles] I bankers- 
+
+00:05:04,110 --> 00:05:04,110 [Co-host]
+Yeah 
+
+00:05:04,110 --> 00:05:06,700 [Lulu]
+... are the worst. Like every IPO has- 
+
+00:05:06,700 --> 00:05:06,730 [Co-host]
+Sure 
+
+00:05:06,730 --> 00:05:15,030 [Lulu]
+... massive leaks. Um, sadly, one of the worst roles for leaks is like national security. 
+
+00:05:15,030 --> 00:05:15,080 [Co-host]
+Cool. 
+
+00:05:15,080 --> 00:05:20,680 [Lulu]
+NSA is full of leakers. Pentagon is full of leakers. Um, but yes- 
+
+00:05:20,680 --> 00:05:20,690 [Co-host]
+Yeah 
+
+00:05:20,690 --> 00:05:23,560 [Lulu]
+... within, within tech, it's almost always the investors. 
+
+00:05:23,560 --> 00:05:36,220 [Co-host]
+And we just saw a ton of leaks with the, uh, with the Biden thing, right, where all of the Democratic, uh, kind of elites went and told him, "Hey, you gotta step down." And then we were -- I mean, I saw a flurry of articles, and it's like- 
+
+00:05:36,220 --> 00:05:36,280 [Lulu]
+Yeah 
+
+00:05:36,280 --> 00:05:40,539 [Co-host]
+... how would that get out if you didn't just call the media and say- 
+
+00:05:40,540 --> 00:05:41,080 [Lulu]
+Yeah 
+
+00:05:41,080 --> 00:05:42,880 [Co-host]
+... "Hey, I just did this thing"? 
+
+00:05:42,880 --> 00:05:42,980 [Lulu]
+Yeah. 
+
+00:05:42,980 --> 00:05:45,000 [Co-host]
+'Cause he's not, he's not calling the media and saying- 
+
+00:05:45,000 --> 00:05:45,540 [Lulu]
+Yeah 
+
+00:05:45,540 --> 00:05:51,780 [Co-host]
+... "Hey, you know, Obama or Pelosi just came by and s- told me to step down." He's not gonna say that, so it had to be them. Uh- 
+
+00:05:51,780 --> 00:05:58,200 [Lulu]
+Right. Oh, and what we were saying earlier about if you're gonna leak, try not to make it super obvious that it's you. 
+
+00:05:58,200 --> 00:05:58,240 [Co-host]
+[chuckles] 
+
+00:05:58,240 --> 00:06:04,380 [Lulu]
+Like if there's people on a phone call, literally there are things where there's two people who would know about this. There are two people- 
+
+00:06:04,380 --> 00:06:04,770 [Co-host]
+Yeah, yeah, yeah 
+
+00:06:04,770 --> 00:06:04,770 [Lulu]
+... on a call- 
+
+00:06:04,770 --> 00:06:04,770 [Co-host]
+Yeah, yeah 
+
+00:06:04,770 --> 00:06:15,640 [Lulu]
+... and one of them has no interest in this leaking. So yeah, I think people literally do this, will, where they will make the call or have the conversation and then immediately turn around and tell a reporter about it. 
+
+00:06:15,640 --> 00:06:17,900 [Co-host]
+Yeah. Are there any ways to prevent leaks?
+
+00:06:19,136 --> 00:06:22,056 [Lulu]
+So, um, no. 
+
+00:06:22,056 --> 00:06:22,456 [Co-host]
+Like, like- 
+
+00:06:22,456 --> 00:06:22,536 [Lulu]
+You can't 
+
+00:06:22,536 --> 00:06:26,775 [Co-host]
+... on a fundraising, I, I, I've always heard that it's like, you know, th- these things have shelf lives. A lot of- 
+
+00:06:26,776 --> 00:06:26,976 [Lulu]
+Yeah 
+
+00:06:26,976 --> 00:06:36,856 [Co-host]
+... f- a lot of, uh, a lot of startup founders will wanna be like, "Okay, I have this one bullet in the gun that I can fire to get attention, and I want my product- 
+
+00:06:36,856 --> 00:06:37,006 [Lulu]
+Mm 
+
+00:06:37,006 --> 00:06:38,106 [Co-host]
+... to be ready. I want- 
+
+00:06:38,106 --> 00:06:38,106 [Lulu]
+Mm 
+
+00:06:38,106 --> 00:06:49,136 [Co-host]
+... people to be able to put their credit cards down." It's important that, like, when this Wall Street Journal article or this v- uh, Ashley Vance article goes out, it... I'm ready to take the customers and, like, convert- 
+
+00:06:49,136 --> 00:06:49,796 [Lulu]
+Yeah, yeah, yeah 
+
+00:06:49,796 --> 00:06:56,645 [Co-host]
+... this. And so a lot of, a lot of companies, if they're still building, they'll say, "Okay, we're gonna do it next month, next month, next month." And then it leaks, and then they lose everything. 
+
+00:06:56,645 --> 00:06:56,656 [Lulu]
+Yeah. 
+
+00:06:56,656 --> 00:06:57,656 [Co-host]
+And so- 
+
+00:06:57,656 --> 00:06:57,666 [Lulu]
+Yeah, it sucks 
+
+00:06:57,666 --> 00:06:58,816 [Co-host]
+... h- how, how do you think about that when you're- 
+
+00:06:58,816 --> 00:06:58,866 [Lulu]
+Okay 
+
+00:06:58,866 --> 00:06:59,836 [Co-host]
+... coaching people? 
+
+00:06:59,836 --> 00:07:06,386 [Lulu]
+So, so there's no way to completely prevent leaks. Like, people will cite NDAs. I've had people send around NDAs- 
+
+00:07:06,386 --> 00:07:06,386 [Co-host]
+Yeah 
+
+00:07:06,386 --> 00:07:17,226 [Lulu]
+... before they'll have a conversation. I mean, v- it, it doesn't do anything. In fact, you'll see newspaper articles where it's like, "14 employees spoke to us, but didn't share their names because they're all under NDA." [laughs] 
+
+00:07:17,226 --> 00:07:17,376 [Co-host]
+[laughs] 
+
+00:07:17,376 --> 00:07:25,786 [Lulu]
+It'll literally say, "They cited their employment agreements barring them from speaking to the media. That's why they spoke to us without their names." 
+
+00:07:25,786 --> 00:07:25,796 [Co-host]
+[laughs] 
+
+00:07:25,796 --> 00:07:28,866 [Lulu]
+And so NDAs do absolutely nothing. 
+
+00:07:28,866 --> 00:07:28,896 [Co-host]
+Yeah. 
+
+00:07:28,896 --> 00:07:41,436 [Lulu]
+Also, if they're leaking something about you, and then you try to hold them legally accountable for the leak, you will look like an asshole, especially if they're leaking something unflattering to you. You'll look just like a thin-skinned asshole. 
+
+00:07:41,436 --> 00:07:41,526 [Co-host]
+Yeah. 
+
+00:07:41,526 --> 00:08:09,926 [Lulu]
+Um, so I think there's no way to fully prevent it, but there's ways to deter it. So if you're a smaller company and it's something like a fundraise, um... And I, I'm very proud to say that fundraisers I've worked on, we've never had a leak ever, ever. And it's not that we never will, so really please. But, um, uh, the things that you can do to deter it are, one, you choose who you talk to. That's obvious. There are leaky people, and we don't have to name names, but some people are known to be- 
+
+00:08:09,926 --> 00:08:10,316 [Co-host]
+Yes 
+
+00:08:10,316 --> 00:08:20,366 [Lulu]
+... um, more leaky or have more discretion. Um, two is the sequence of people you talk to. So you, if possible, all else being equal, you wanna talk to the leaky people last- 
+
+00:08:20,366 --> 00:08:20,366 [Co-host]
+[laughs] 
+
+00:08:20,366 --> 00:08:23,556 [Lulu]
+... in the process or give them a very short heads-up. Um, 
+
+00:08:24,776 --> 00:08:41,156 [Lulu]
+there's what information you share. And you, what you could do is not share quite enough information to have a story. So for the press to write a story, they wanna know who's leading the round, how much is it for, what's the valuation. Um, it's possible to run it with two of those. 
+
+00:08:42,276 --> 00:08:50,406 [Lulu]
+You can't really run it with one of those. And so what you could do is have conversations even with different VCs where you don't share who else is in the round, for example, until- 
+
+00:08:50,406 --> 00:08:50,456 [Co-host]
+Mm-hmm 
+
+00:08:50,456 --> 00:09:01,936 [Lulu]
+... really close. Um, and then another tactic is when you're talking to people about keeping something confidential, you wanna make it personal so that it feels like a personal betrayal if they let you down. 
+
+00:09:01,936 --> 00:09:02,096 [Co-host]
+Yeah. 
+
+00:09:02,096 --> 00:09:10,166 [Lulu]
+Um, a lot of, uh, smaller startups that have not had leaks, it's because people feel a personal loyalty to the CEO. 
+
+00:09:10,166 --> 00:09:10,176 [Co-host]
+Mm. 
+
+00:09:10,176 --> 00:09:15,895 [Lulu]
+And so you wanna make people feel as much as possible that it's not just some faceless corporation whose information- 
+
+00:09:15,896 --> 00:09:15,966 [Co-host]
+Yep, yep, yep 
+
+00:09:15,966 --> 00:09:17,996 [Lulu]
+... you're giving away is like your secret. 
+
+00:09:17,996 --> 00:09:45,756 [Co-host]
+Yeah. I've also heard founders talk about when they get the inquiry, "Hey, can you confirm? We have the r- details of your round. You know, we're TechCrunch, and we're gonna leak your round." A lot of founders, if they're good, they'll try and flip this into, "Hey, we'd love to give you the exclusive. Why don't we sit down for an interview, do a much bigger piece? Look, we do need to hit a certain date, and there's things that we wanna correct. And you actually had an old deck, and we don't wanna, we want, we don't want those numbers out there, so we'd rather just give you- 
+
+00:09:45,756 --> 00:09:45,766 [Lulu]
+Mm-hmm 
+
+00:09:45,766 --> 00:09:55,235 [Co-host]
+... the new numbers 'cause the new numbers are a lot better." Can you talk about, like, how to manage that without feeling like you're kinda strong-arming [laughs] the person that's basically strong-arming you? [laughs] 
+
+00:09:55,236 --> 00:09:59,396 [Lulu]
+Yeah, yeah, yeah. Well, they know the dance. Like, reporters know this dance. 
+
+00:09:59,436 --> 00:09:59,446 [Co-host]
+Yeah, yeah, yeah. 
+
+00:09:59,446 --> 00:10:06,466 [Lulu]
+So there's no point in getting too cute. You're not going to somehow fool them that that's not what you're trying to do 'cause they've done it a million times. 
+
+00:10:06,466 --> 00:10:06,636 [Co-host]
+Got it. 
+
+00:10:06,636 --> 00:10:13,676 [Lulu]
+I think it's fine to be explicit about, "Okay, here's what we need, and here's what we're willing to offer." 
+
+00:10:13,676 --> 00:10:13,686 [Co-host]
+Yeah. 
+
+00:10:13,686 --> 00:10:31,776 [Lulu]
+"Does this make sense to you?" You could also try to offer them something that is, like, of legitimate journalistic value, not just a bigger article with more of this, but, "I can give you access to somebody who normally you would not have access to." Um, or it, it could be, "Let me help you prevent an embarrassing mistake." And you can, uh, you can- 
+
+00:10:31,776 --> 00:10:31,786 [Co-host]
+Yeah, yeah, yeah 
+
+00:10:31,786 --> 00:10:35,126 [Lulu]
+... slow it down because they need to at least take time to confirm it. 
+
+00:10:35,126 --> 00:10:35,136 [Co-host]
+Yeah. 
+
+00:10:35,136 --> 00:10:46,166 [Lulu]
+But I will say, though, that this tactic of, um, trying to delay it by a few days, uh, while bartering more access is not as effective as it used to be because- 
+
+00:10:46,166 --> 00:10:46,166 [Co-host]
+Mm 
+
+00:10:46,166 --> 00:10:49,236 [Lulu]
+... the race for getting news out is so intense- 
+
+00:10:49,236 --> 00:10:49,436 [Co-host]
+Yeah 
+
+00:10:49,436 --> 00:10:55,476 [Lulu]
+... that for them, the downside is that some other outlet is gonna scoop. But if they know the leak is out there, they, they'd rather not lose the story entirely. 
+
+00:10:55,476 --> 00:11:25,856 [Co-host]
+Yeah. A- at the same time, I feel like, um, maybe it's a better time than ever for fighting these types of things because if, if a, if a, if a journalist reaches out and says, "Hey, I have details, and I'm writing a story," and one of those details is wrong, because of the nature of X now and the going direct crowd and the megaphones that are directly in front of the tech industry, like, if you're gonna print something that's really, really wrong and, like, provably wrong- 
+
+00:11:25,856 --> 00:11:26,416 [Lulu]
+Mm-hmm 
+
+00:11:26,416 --> 00:11:29,376 [Co-host]
+... that could be a firestorm for you. And so- 
+
+00:11:29,376 --> 00:11:29,436 [Lulu]
+Yeah 
+
+00:11:29,436 --> 00:11:39,146 [Co-host]
+... I feel like the, the burden on getting the facts right has to be a little bit higher, even though it's m- I agree it's offset by the idea that y- you know, you gotta go right now. 
+
+00:11:39,146 --> 00:11:39,156 [Lulu]
+Mm-hmm. 
+
+00:11:39,156 --> 00:11:43,856 [Co-host]
+It's faster than ever, the algorithm, and, uh, all the Internet's moving at blazing speeds. 
+
+00:11:43,856 --> 00:11:45,216 [Lulu]
+You would think so. 
+
+00:11:45,216 --> 00:11:45,796 [Co-host]
+[laughs] 
+
+00:11:45,796 --> 00:11:46,736 [Lulu]
+Empirically, 
+
+00:11:48,676 --> 00:11:48,696 [Lulu]
+[laughs] 
+
+00:11:48,696 --> 00:11:48,736 [Co-host]
+But- 
+
+00:11:48,736 --> 00:11:50,716 [Lulu]
+One would, one would assume this. Empirically- 
+
+00:11:50,716 --> 00:11:52,886 [Co-host]
+But the results say that's a lie. [laughs] 
+
+00:11:52,886 --> 00:11:58,416 [Lulu]
+Yeah. The results do not back that up, John. Like, empirically, that is not what's happening. Um- 
+
+00:11:58,416 --> 00:11:59,086 [Co-host]
+Sure. Yeah 
+
+00:11:59,086 --> 00:12:04,386 [Lulu]
+... it's, it's still... Like, I see people run with egregious errors all the... You do too, right? Like, you, you- 
+
+00:12:04,386 --> 00:12:04,466 [Co-host]
+Yeah, yeah 
+
+00:12:04,466 --> 00:12:14,196 [Lulu]
+... see people run with, like, egregious factual errors all the time, and then it is embarrassing, and then they just take the embarrassment and then later do it again. There's, there's- 
+
+00:12:14,196 --> 00:12:14,206 [Co-host]
+Yeah 
+
+00:12:14,206 --> 00:12:27,076 [Lulu]
+... much, much better journalists and much, much worse journalists, and sometimes you get somebody who is just trying to figure out what they're doing, and they really want the hit. Um, so it definitely depends on who the reporter is too. 
+
+00:12:27,076 --> 00:12:38,024 [Co-host]
+Yeah. Okay, so let's say that the hit piece goes, goes through. They have some good facts.Your enemies have been leaking to them, [chuckles] and you, you messed up. How do you apologize? 
+
+00:12:39,684 --> 00:12:40,904 [Lulu]
+Um, okay. 
+
+00:12:42,364 --> 00:12:52,443 [Lulu]
+Whether to apologize, rich vein of a topic. Whether to apologize. I think first of all, it's like do you apologize or do you double down, right? If it's, um- 
+
+00:12:52,444 --> 00:12:53,324 [Co-host]
+Yeah, I think you just need- 
+
+00:12:53,324 --> 00:12:53,334 [Lulu]
+Okay, yeah, you do 
+
+00:12:53,334 --> 00:12:55,864 [Co-host]
+... like strong moral principles, and you need to under- 
+
+00:12:55,864 --> 00:12:55,914 [Lulu]
+Yeah. Yes 
+
+00:12:55,914 --> 00:12:58,624 [Co-host]
+... did you actually do anything wrong or not? 
+
+00:12:58,624 --> 00:12:58,724 [Lulu]
+Yeah. 
+
+00:12:58,724 --> 00:13:06,984 [Co-host]
+And if you're... And if you believe that in the fullness of time you will be vindicated, then obviously don't apologize for something that's not bad. 
+
+00:13:06,984 --> 00:13:07,044 [Lulu]
+Yeah. 
+
+00:13:07,044 --> 00:13:24,093 [Co-host]
+But if you did mess up, then yeah, I mean, I think you do need to apologize. Um, I mean, the, the, the CrowdStrike apology, we, we, we talked about a little bit, but did you see that they are giving people, like, $10 gift cards? Is that a joke? Is that a meme? Is that complete fake news? Or is that- 
+
+00:13:24,093 --> 00:13:29,204 [Lulu]
+People thought it was a joke. No, I think this is real news. 
+
+00:13:29,204 --> 00:13:30,044 [Co-host]
+It's incred- 
+
+00:13:30,044 --> 00:13:30,074 [Lulu]
+Yeah 
+
+00:13:30,074 --> 00:13:33,453 [Co-host]
+... I, I imagine that this thing costs like a b- like $10,000 a month- 
+
+00:13:33,453 --> 00:13:33,694 [Lulu]
+A zillion dollars 
+
+00:13:33,694 --> 00:13:35,884 [Co-host]
+... like every other enterprise software. Like- 
+
+00:13:35,884 --> 00:13:35,984 [Lulu]
+Yeah 
+
+00:13:35,984 --> 00:13:38,064 [Co-host]
+... how are they doing $10? That's ridiculous. 
+
+00:13:38,064 --> 00:13:42,464 [Lulu]
+Yeah. Yeah, yeah. Also, th- y- yes, like the $10- 
+
+00:13:42,464 --> 00:13:42,594 [Co-host]
+[laughs] 
+
+00:13:42,594 --> 00:14:19,304 [Lulu]
+[chuckles] The, the UberEats of it all. Like it's one thing to, to say, "We're gonna give you a credit for our service," but like go and get yourself something nice on UberEats, like, it's like a pat on the butt as you walk by type of vibe. And then these people just went through a, a, a period of extreme operational load on their company, and are still going through that. So like, why would you take on something that is complex, that you have to rush to get out, that has a lot of room for error 'cause you're also depending on Uber for the code? 'Cause something went wrong with the code. They sent the same code to everybody- 
+
+00:14:19,304 --> 00:14:19,434 [Co-host]
+Yeah, yeah, yeah 
+
+00:14:19,434 --> 00:14:23,084 [Lulu]
+... and then Uber flagged it as spam, and the code stopped working. [chuckles] 
+
+00:14:23,084 --> 00:14:23,214 [Co-host]
+Whoa. 
+
+00:14:23,214 --> 00:14:30,184 [Lulu]
+It's so painful. Like why would you do this to yourself? Your life is already super hard. You've been working for five days straight. 
+
+00:14:30,184 --> 00:14:30,224 [Co-host]
+Yeah. 
+
+00:14:30,224 --> 00:14:34,224 [Lulu]
+Just do something that doesn't require a whole other operation. 
+
+00:14:34,224 --> 00:14:43,583 [Co-host]
+Yeah. I, I think my greatest hope is that there will be just massive, massive, uh, credit redemption fraud. [chuckles] You know how like- 
+
+00:14:43,583 --> 00:14:43,833 [Lulu]
+[laughs] 
+
+00:14:43,833 --> 00:14:46,124 [Co-host]
+... you, you know the refer-a-friend fraud where like- 
+
+00:14:46,124 --> 00:14:46,204 [Lulu]
+Yeah 
+
+00:14:46,204 --> 00:15:00,384 [Co-host]
+... I, I, I know... I, I saw a guy on Twitter who was scrolling through his UberEats credits because he had, like a, like a bot farm sign up, and he had like $10,000 of free UberEats. And you know, I don't like that 'cause obviously that's fraud and stupid, and you know- 
+
+00:15:00,384 --> 00:15:02,064 [Lulu]
+No, you don't like it 'cause you're jealous 
+
+00:15:02,064 --> 00:15:07,833 [Co-host]
+... that's ... But, oh, yeah, yeah. But for this, I want one of our Brazilian fans who has a little bit extra time. 
+
+00:15:07,833 --> 00:15:07,854 [Lulu]
+[laughs] 
+
+00:15:07,854 --> 00:15:11,344 [Co-host]
+You know, as, as we've established, this podcast is huge in Brazil. 
+
+00:15:11,344 --> 00:15:11,414 [Lulu]
+It's huge. 
+
+00:15:11,414 --> 00:15:23,984 [Co-host]
+I, I want, I wanna see a, a leaderboard in the comments of who, who was able to get the most CrowdStrike rebates. I want somebody who's eating for a year purely off of CrowdStrike coupons. 'Cause who knows how- 
+
+00:15:23,984 --> 00:15:24,084 [Lulu]
+Yeah 
+
+00:15:24,084 --> 00:15:30,744 [Co-host]
+... they're tracking this thing. There's probably... It's, it's just $10, so they'll probably give it to you if you just write a nice email. You use GPT. 
+
+00:15:30,744 --> 00:15:30,754 [Lulu]
+Yeah. 
+
+00:15:30,754 --> 00:15:31,273 [Co-host]
+You, you write- 
+
+00:15:31,273 --> 00:15:31,364 [Lulu]
+Yeah 
+
+00:15:31,364 --> 00:15:34,884 [Co-host]
+... 25,000 emails. 10,000 of those get the credit, boom. 
+
+00:15:34,944 --> 00:15:35,394 [Lulu]
+That's true. 
+
+00:15:35,394 --> 00:15:36,564 [Co-host]
+You're eating for free forever. Oh, yeah. 
+
+00:15:36,564 --> 00:15:37,084 [Lulu]
+That's true. 
+
+00:15:37,084 --> 00:15:37,444 [Co-host]
+This is gonna happen. 
+
+00:15:37,444 --> 00:15:42,333 [Lulu]
+Also, like if we have a company with 1,000 people, like do we share the one gift card- 
+
+00:15:42,333 --> 00:15:42,414 [Co-host]
+Do we all get the... Yeah 
+
+00:15:42,414 --> 00:15:44,664 [Lulu]
+... or does everybody... Like who gets- 
+
+00:15:44,664 --> 00:15:45,134 [Co-host]
+Who gets the- 
+
+00:15:45,134 --> 00:15:46,344 [Lulu]
+... who gets to get UberEats? 
+
+00:15:46,344 --> 00:15:56,474 [Co-host]
+Exactly. What... Is it anyone who w- saw a BSOD or blue screen or... It's very unclear. Or if, like if you weren't, you, you don't, you're not a customer, but you were delayed at the airport, do you get $10? 
+
+00:15:56,474 --> 00:15:57,924 [Lulu]
+Yeah, yeah. You should get- 
+
+00:15:57,924 --> 00:16:00,333 [Co-host]
+Arguably, you had a worse experience than just like- 
+
+00:16:00,333 --> 00:16:00,704 [Lulu]
+Much worse 
+
+00:16:00,704 --> 00:16:03,924 [Co-host]
+... you know, someone else at the company who was like, "Oh, okay, I'm not working today." 
+
+00:16:03,924 --> 00:16:08,484 [Lulu]
+Wait. Okay. So your greatest hope is massive fraud on the referral side? 
+
+00:16:08,484 --> 00:16:09,394 [Co-host]
+I just want a really great- 
+
+00:16:09,394 --> 00:16:09,474 [Lulu]
+My greatest hope- 
+
+00:16:09,474 --> 00:16:10,954 [Co-host]
+... story out of it, yeah. [chuckles] 
+
+00:16:10,954 --> 00:16:12,284 [Lulu]
+Okay, my greatest hope- 
+
+00:16:12,284 --> 00:16:12,474 [Co-host]
+Yeah, yeah 
+
+00:16:12,474 --> 00:16:17,484 [Lulu]
+... is that they accidentally sent more codes to white people. [chuckles] 
+
+00:16:17,484 --> 00:16:20,424 [Co-host]
+Oh my God, and then they get canceled or something? 
+
+00:16:20,424 --> 00:16:25,174 [Lulu]
+Like somehow a glitch happened so that the codes went only to men or something. [chuckles] 
+
+00:16:25,174 --> 00:16:25,224 [Co-host]
+Yeah. 
+
+00:16:25,224 --> 00:16:33,244 [Lulu]
+That would be the best. Because every da- like all these, all these are legitimate questions, um, not about whether white people eat more UberEats- 
+
+00:16:33,244 --> 00:16:33,273 [Co-host]
+Yeah 
+
+00:16:33,273 --> 00:16:38,113 [Lulu]
+... but about, like who in an organization gets the card, and how do you get it to them? 
+
+00:16:38,113 --> 00:16:38,144 [Co-host]
+Totally. 
+
+00:16:38,144 --> 00:16:40,064 [Lulu]
+Like how do you have their emails? 
+
+00:16:40,064 --> 00:16:46,884 [Co-host]
+Well, if there are any delays in getting CrowdStrike gift cards to our Brazilian listeners, you'll be hearing about it here first, 'cause we- 
+
+00:16:46,884 --> 00:16:47,134 [Lulu]
+Oh, absolutely 
+
+00:16:47,134 --> 00:16:48,523 [Co-host]
+... we speak for the Brazilians. 
+
+00:16:48,523 --> 00:16:49,624 [Lulu]
+We will, we will not let that stand. 
+
+00:16:49,624 --> 00:16:50,544 [Co-host]
+We will not let that stand. 
+
+00:16:50,544 --> 00:16:56,784 [Lulu]
+It's beyond the pale. So real quick, um, I know this isn't comms, but w- how does someone go from, 
+
+00:16:57,824 --> 00:17:03,404 [Lulu]
+uh, a normal UberEats account to like $1,000 in referrals? [chuckles] Do you just refer yourself to UberEats? 
+
+00:17:03,404 --> 00:17:22,984 [Co-host]
+No, no. I, I, I, I think it's, it was basically like a Mechanical Turk type scam, uh, where there's a lot of people in, in basically foreign countries, India, and, um, and what they would do is they would, is they would put out a task, and y- and, and the task would require you to create a new email, create a new account, and- 
+
+00:17:22,984 --> 00:17:24,484 [Lulu]
+Oh, so you're referring- 
+
+00:17:24,484 --> 00:17:25,104 [Co-host]
+... go through the whole signup flow 
+
+00:17:25,104 --> 00:17:25,894 [Lulu]
+... all of, to all of these, yeah. 
+
+00:17:25,894 --> 00:17:32,804 [Co-host]
+And so there's people there... You, you, you've seen those videos where it's like somebody using like 25 iPads at the same time- 
+
+00:17:32,804 --> 00:17:32,904 [Lulu]
+Yeah 
+
+00:17:32,904 --> 00:17:35,104 [Co-host]
+... to like fraudulently trigger ads- 
+
+00:17:35,104 --> 00:17:35,114 [Lulu]
+Yeah, yeah, yeah 
+
+00:17:35,114 --> 00:17:45,334 [Co-host]
+... in mobile games or whatever. Like there's whole farms for this stuff, and, and this guy was like just good at marshaling like bot farms essentially. And so- 
+
+00:17:45,334 --> 00:17:45,334 [Lulu]
+Incredible 
+
+00:17:45,334 --> 00:17:54,754 [Co-host]
+... he, he was able to do this. And I was like, "I can't believe you're posting this. This is so egregious that you're just openly talking about this." And I, I think it's immoral, but, uh- 
+
+00:17:54,754 --> 00:17:55,984 [Lulu]
+Yeah. [chuckles] It's probably illegal 
+
+00:17:55,984 --> 00:17:59,964 [Co-host]
+... in the CrowdStrike, in the CrowdStrike scenario, it's funny, so we're gonna give them a pass. 
+
+00:17:59,964 --> 00:18:02,094 [Lulu]
+Funny makes everything okay, honestly. 
+
+00:18:02,094 --> 00:18:02,124 [Co-host]
+Exactly. 
+
+00:18:02,124 --> 00:18:07,704 [Lulu]
+You can get away with anything if you're... I, I think that's in the law. Like if it's hilarious enough, you should get a pass. 
+
+00:18:07,704 --> 00:18:09,304 [Co-host]
+The jury, jury has a sense of humor. 
+
+00:18:09,304 --> 00:18:09,684 [Lulu]
+Yeah. 
+
+00:18:09,684 --> 00:18:10,304 [Co-host]
+[laughs] 
+
+00:18:10,304 --> 00:18:11,744 [Lulu]
+Yeah. It should be like severity- 
+
+00:18:11,744 --> 00:18:11,934 [Co-host]
+I don't know 
+
+00:18:11,934 --> 00:18:13,594 [Lulu]
+... of the crime and how funny is it. 
+
+00:18:13,594 --> 00:18:15,244 [Co-host]
+Ask a lawyer before you defraud- 
+
+00:18:15,244 --> 00:18:15,354 [Lulu]
+No, no, this is legal 
+
+00:18:15,354 --> 00:18:17,864 [Co-host]
+... CrowdStrike of their $10 gift card. [chuckles] This is legal advice. 
+
+00:18:17,864 --> 00:18:20,543 [Lulu]
+This is investment advice as well. [chuckles] 
+
+00:18:20,544 --> 00:18:21,924 [Co-host]
+Yeah, yeah. Yeah. 
+
+00:18:21,924 --> 00:18:26,744 [Lulu]
+Uh, okay. Well, on, on, on leaks, um, one other thing on leaks is- 
+
+00:18:26,744 --> 00:18:26,754 [Co-host]
+Yeah 
+
+00:18:26,754 --> 00:18:31,824 [Lulu]
+... if something leaks and they got something wrong, I don't think you should necessarily correct it. 
+
+00:18:31,824 --> 00:18:32,834 [Co-host]
+Hmm. Why? 
+
+00:18:32,834 --> 00:18:37,844 [Lulu]
+Like if it's, if it's devastating to you, and it's like John Coogan murdered a guy, and they're about to- 
+
+00:18:37,844 --> 00:18:38,224 [Co-host]
+Yeah, yeah 
+
+00:18:38,224 --> 00:18:43,674 [Lulu]
+... print that, you, you should try to get them to not print it. Um-Free advice 
+
+00:18:43,674 --> 00:18:44,594 [Co-host]
+Yeah. [laughs] Okay 
+
+00:18:44,594 --> 00:18:51,454 [Lulu]
+But, but if it's like, uh, this article was going to print that Alex Wang had a sibling that he doesn't actually have, like- 
+
+00:18:51,454 --> 00:18:52,134 [Co-host]
+Yeah 
+
+00:18:52,134 --> 00:18:57,833 [Lulu]
+... whatever, that's not your job to correct that for them. Leave it in there. Leave it in there. You can go back to it later. 
+
+00:18:57,834 --> 00:19:07,554 [Co-host]
+My, my two co-founders, they, they met at Caltech. One i- in a PhD program. One of them has a PhD. The other dropped out of the PhD program. 
+
+00:19:07,554 --> 00:19:07,854 [Lulu]
+Hmm. 
+
+00:19:07,854 --> 00:19:10,374 [Co-host]
+That's just word salad, so it often gets- 
+
+00:19:10,374 --> 00:19:10,624 [Lulu]
+Yeah. [laughs] 
+
+00:19:10,624 --> 00:19:14,014 [Co-host]
+... collapsed down to they both have PhDs. 
+
+00:19:14,014 --> 00:19:14,274 [Lulu]
+Yeah. 
+
+00:19:14,334 --> 00:19:34,754 [Co-host]
+And, and w- when you first got to Silicon Valley, there was a, there, there was a, there was another startup team that we were kind of following, and we saw firsthand in the press how it was like they were first like they were interns at McKinsey when the articles were written. Then they were like McKinsey consultants, then they were like big shot consultants at McKinsey. 
+
+00:19:34,754 --> 00:19:34,844 [Lulu]
+Uh-huh. 
+
+00:19:34,844 --> 00:19:43,623 [Co-host]
+Because like, yeah, they worked at McKinsey, but they like were pretty young when they started this company. They were great founders, and they built a great business, but like, the, uh, not because they were big shots at McKinsey. 
+
+00:19:43,623 --> 00:19:43,634 [Lulu]
+Mm-hmm. 
+
+00:19:43,634 --> 00:19:50,654 [Co-host]
+But the press just kind of like needed to amp up the level, and maybe they were egging them on or something, but there were definitely no corrections. [laughs] 
+
+00:19:50,654 --> 00:19:53,664 [Lulu]
+Yeah, it's like a, it's like a human, like a human fishing story. You know- 
+
+00:19:53,664 --> 00:19:53,664 [Co-host]
+Yeah 
+
+00:19:53,664 --> 00:19:55,914 [Lulu]
+... the fish just grows every time you tell the story. 
+
+00:19:55,914 --> 00:20:07,294 [Co-host]
+Yeah, yeah, yeah, yeah. I mean, that stuff can come back to bite you. I've seen a few times where, where like politicians, they'll go back and dig through, and they'll be like, "Oh, there was like credential fraud." And it's like, if there's a- 
+
+00:20:07,294 --> 00:20:07,334 [Lulu]
+Yeah 
+
+00:20:07,334 --> 00:20:18,614 [Co-host]
+... big stack of things, and it seems like it's a pattern, that's where people get really upset. But if you can also go pull a clip of like them talking a podcast, and they're like, "Oh yeah, this is actually the facts," and then it's just- 
+
+00:20:18,614 --> 00:20:18,624 [Lulu]
+Yeah 
+
+00:20:18,624 --> 00:20:26,594 [Co-host]
+... somebody else quoted it, that's a little bit different than like them portraying... Like a lot of people do this like the Harvard Business Extension School, or like- 
+
+00:20:26,594 --> 00:20:26,604 [Lulu]
+Yeah. I know. That's not- 
+
+00:20:26,604 --> 00:20:28,134 [Co-host]
+... there's these, there's these fraudulent- 
+
+00:20:28,134 --> 00:20:28,144 [Lulu]
+It's not a thing 
+
+00:20:28,144 --> 00:20:35,654 [Co-host]
+... have you seen these fraudulent things where you can pay like 10 grand, and you can go and give a talk at Harvard? And what they do is they just- 
+
+00:20:35,654 --> 00:20:35,674 [Lulu]
+No. 
+
+00:20:35,674 --> 00:20:40,594 [Co-host]
+Yeah. Yeah. They just rent a classroom, and they put up like the Harvard insignia- 
+
+00:20:40,594 --> 00:20:40,604 [Lulu]
+No 
+
+00:20:40,604 --> 00:20:43,904 [Co-host]
+... and they give you a microphone. There's no one in the audience, and they'll film you. 
+
+00:20:43,904 --> 00:20:43,934 [Lulu]
+No. 
+
+00:20:43,934 --> 00:20:52,083 [Co-host]
+Yeah, and they'll film you, and it'll be like, Lulu, a Har- a speaker at Harvard, a Harvard speaker, distinguished speaker, 'cause they do have people like, uh- 
+
+00:20:52,083 --> 00:20:52,123 [Lulu]
+This is crazy 
+
+00:20:52,123 --> 00:20:53,474 [Co-host]
+... Kim Kardashian come and- 
+
+00:20:53,474 --> 00:20:53,674 [Lulu]
+Yeah. Yeah 
+
+00:20:53,674 --> 00:20:54,653 [Co-host]
+... and listen to these presentations to real- 
+
+00:20:54,654 --> 00:20:56,414 [Lulu]
+Like stolen valor 
+
+00:20:56,414 --> 00:20:56,494 [Co-host]
+... to real like- 
+
+00:20:56,494 --> 00:20:57,814 [Lulu]
+Stolen Harvard valor. 
+
+00:20:57,814 --> 00:20:58,174 [Co-host]
+Yeah, yeah. 
+
+00:20:58,174 --> 00:20:58,194 [Lulu]
+Wow. 
+
+00:20:58,194 --> 00:21:00,354 [Co-host]
+Stolen valor. It's huge, huge, huge. 
+
+00:21:00,354 --> 00:21:01,574 [Lulu]
+That's huge. Well, so- 
+
+00:21:01,574 --> 00:21:01,774 [Co-host]
+Yeah 
+
+00:21:01,774 --> 00:21:06,384 [Lulu]
+... uh, you know how people would put on the podcast gear and talk into a podcast mic, and they're not- 
+
+00:21:06,384 --> 00:21:06,384 [Co-host]
+Yeah, yeah, yeah 
+
+00:21:06,384 --> 00:21:07,433 [Lulu]
+... on a podcast? 
+
+00:21:07,434 --> 00:21:07,924 [Co-host]
+Yeah, yeah, yeah. 
+
+00:21:07,924 --> 00:21:09,094 [Lulu]
+And it just looks like someone- 
+
+00:21:09,094 --> 00:21:09,474 [Co-host]
+Just to make some better clips. 
+
+00:21:09,474 --> 00:21:10,044 [Lulu]
+Yeah, yeah. 
+
+00:21:10,044 --> 00:21:10,094 [Co-host]
+Yeah. 
+
+00:21:10,094 --> 00:21:13,134 [Lulu]
+I need to do that, by the way. This is not... I keep trying different stuff. This is- 
+
+00:21:13,134 --> 00:21:13,664 [Co-host]
+[laughs] 
+
+00:21:13,664 --> 00:21:14,683 [Lulu]
+... this is still a work in progress. 
+
+00:21:14,683 --> 00:21:14,694 [Co-host]
+Thought it was good. 
+
+00:21:14,694 --> 00:21:17,974 [Lulu]
+But did you see that, um, uh, uh- 
+
+00:21:17,974 --> 00:21:17,984 [Co-host]
+[laughs] 
+
+00:21:17,984 --> 00:21:23,654 [Lulu]
+... Elon said it was not true that he's donating 45 million, uh, a month to Trump? But it was out there for like a week. 
+
+00:21:23,654 --> 00:21:24,574 [Co-host]
+I did see that. I did see that. 
+
+00:21:24,574 --> 00:21:26,714 [Lulu]
+And didn't Trump said it in a speech, didn't he? 
+
+00:21:26,714 --> 00:21:31,114 [Co-host]
+Oh, I, I don't know. I, I went back and I read the original Wall Street Journal article. 
+
+00:21:31,174 --> 00:21:31,264 [Lulu]
+Yeah. Yeah. 
+
+00:21:31,264 --> 00:21:43,454 [Co-host]
+And the article has now been [laughs] changed to the third paragraph is, uh, after this article published, Elon Musk replied, "Fake G-N-U-S," which is like news- 
+
+00:21:43,454 --> 00:21:43,463 [Lulu]
+[laughs] 
+
+00:21:43,463 --> 00:21:46,874 [Co-host]
+... but it's spelled like new GNU Linux, which I- 
+
+00:21:46,874 --> 00:21:47,484 [Lulu]
+Yeah, yeah. It's, it's probably the L 
+
+00:21:47,484 --> 00:22:04,824 [Co-host]
+... don't even know if that Elon's joke, but basically, as soon as that published, Elon was like, "This is wrong." But then I think what happened was like somebody else posted like, like, "It's so crazy that the Democrats have pushed Elon to the point where he's supporting Trump," and he was like, "The, you have spoken the truth," [laughs] or whatever. 
+
+00:22:04,824 --> 00:22:04,864 [Lulu]
+Yeah. [laughs] 
+
+00:22:04,864 --> 00:22:13,634 [Co-host]
+And so they took that as a confirmation, and then Elon denied it again saying, "Hey, I never said that I was donating $45 million a month." 
+
+00:22:13,634 --> 00:22:14,674 [Lulu]
+Oh. 
+
+00:22:14,674 --> 00:22:17,954 [Co-host]
+But also, it's like I don't even know how, how, how we got here- 
+
+00:22:17,954 --> 00:22:18,084 [Lulu]
+Yeah 
+
+00:22:18,084 --> 00:22:24,634 [Co-host]
+... because like, I don't know, is, is he? Isn't he? Does it matter? We'll, we'll see it in the FEC filings, like this is gonna happen. 
+
+00:22:24,634 --> 00:22:25,414 [Lulu]
+Yeah, yeah, right. 
+
+00:22:25,414 --> 00:22:26,574 [Co-host]
+Like what we, we, we'll get the data. 
+
+00:22:27,794 --> 00:22:34,574 [Lulu]
+I didn't realize, I didn't realize he had actually denied it really early on, which is good and smart. All you need is like one of your own receipts- 
+
+00:22:34,574 --> 00:22:34,584 [Co-host]
+Yeah 
+
+00:22:34,584 --> 00:22:39,834 [Lulu]
+... saying that you tried to correct this at some point. Like, if somebody ever us- tries to use it against you, you just need one receipt. 
+
+00:22:39,834 --> 00:22:39,864 [Co-host]
+Yeah. 
+
+00:22:39,864 --> 00:22:43,994 [Lulu]
+And maybe this is like, maybe I am spreading fake news. 
+
+00:22:43,994 --> 00:22:44,454 [Co-host]
+Yeah. 
+
+00:22:44,454 --> 00:22:53,554 [Lulu]
+But, um, I thought that Trump in his 77-minute speech that I tapped out of but you said you watched, didn't he say that Elon was- 
+
+00:22:53,554 --> 00:22:55,454 [Co-host]
+I don't remember that part 
+
+00:22:55,454 --> 00:22:56,734 [Lulu]
+... maybe in the next, like in a rally? 
+
+00:22:56,734 --> 00:22:59,813 [Co-host]
+I don't, I don't remember him mentioning M- Elon at all because, uh- 
+
+00:22:59,813 --> 00:23:04,774 [Lulu]
+I think it was the next speech. It was like the, the next rally he had. He said that Elon was donating- 
+
+00:23:04,774 --> 00:23:05,954 [Co-host]
+Oh, maybe the next rally 
+
+00:23:05,954 --> 00:23:06,104 [Lulu]
+... a ton of money to him. 
+
+00:23:06,104 --> 00:23:07,214 [Co-host]
+Yeah, that's possible. I don't- 
+
+00:23:07,214 --> 00:23:07,894 [Lulu]
+I think he said that amount 
+
+00:23:07,894 --> 00:23:11,434 [Co-host]
+... I don't watch every Trump rally. [laughs] And I listen to the, the- 
+
+00:23:11,434 --> 00:23:13,174 [Lulu]
+You don't, you don't get the RSS of all the Trump speeches? [laughs] 
+
+00:23:13,174 --> 00:23:21,774 [Co-host]
+No, no. And I listened to the, the, the speech on 2X, which was good. I've determined that like, you know, Trump is a 2X president. Biden is a 3X president. 
+
+00:23:21,774 --> 00:23:21,794 [Lulu]
+3X. 
+
+00:23:21,794 --> 00:23:27,724 [Co-host]
+If you put Biden on 3X, he actually sounds pretty good. Um, I, I, you know, I think they should've done a lot of his speeches on, on higher speed- 
+
+00:23:27,724 --> 00:23:27,724 [Lulu]
+Yeah 
+
+00:23:27,724 --> 00:23:29,114 [Co-host]
+... I would like more, but- 
+
+00:23:29,114 --> 00:23:30,724 [Lulu]
+I'm gonna go on record, by the way- 
+
+00:23:30,724 --> 00:23:31,034 [Co-host]
+Yeah 
+
+00:23:31,034 --> 00:23:33,594 [Lulu]
+... as Kamala.5X. I think this is fair to- 
+
+00:23:33,594 --> 00:23:34,954 [Co-host]
+Oh, yeah? You gotta slow her down? 
+
+00:23:34,954 --> 00:23:35,434 [Lulu]
+Yeah. 
+
+00:23:35,434 --> 00:23:35,794 [Co-host]
+Interesting. 
+
+00:23:35,794 --> 00:23:36,874 [Lulu]
+I think you slow her down- 
+
+00:23:36,874 --> 00:23:36,924 [Co-host]
+You all done? 
+
+00:23:36,924 --> 00:23:39,034 [Lulu]
+... I think she wins the hearts and minds of all of the people. 
+
+00:23:39,034 --> 00:23:39,934 [Co-host]
+Yeah. [laughs] 
+
+00:23:39,934 --> 00:23:39,964 [Lulu]
+Yeah. 
+
+00:23:39,964 --> 00:24:28,044 [Co-host]
+Yeah. Uh, the, the, the game will be won on, on the speed settings for all this stuff. Um, but yeah, I mean, the, the, the, the, the, the Trump RNC speech was controversial for the first like 45 minutes because he said like, you know, "And we're not doing this electric mandate. Like, if you want a gas car, you can have it." And everyone was like, "Oh, he's taking shots at Elon. Oh, you know, he's, he's anti, he's anti, uh, you know, electric car." And then later in the speech, he came back to it and was like, "Look, I think you should have, you should be able to drive whatever you want. If you wanna drive an electric car, that's great, but you shouldn't not be able to drive a gas car," which is kind of funny 'cause like I, I wonder if that was written in the speech or like if he like... It seems like he had an earpiece being like, "People are talking trash on Twitter. Like, you should [laughs] address this." It was like kinda crazy that I saw people tweeting about it, and then he addressed it while on stage. Like, [laughs] is somebody writing this stuff? 
+
+00:24:28,044 --> 00:24:42,534 [Lulu]
+If you ask... Yo, okay, but if you ask like what's more likely, scenario A, he has an earpiece where he has asked someone to read him Twitter replies to what's he, what he's saying, versus scenario two, they thought it made sense in the speech to break up those sections- 
+
+00:24:42,534 --> 00:24:42,564 [Co-host]
+He did 
+
+00:24:42,564 --> 00:24:45,294 [Lulu]
+... 20 minutes apart, it's, it's clearly A. 
+
+00:24:45,294 --> 00:24:51,744 [Co-host]
+Or, or he knows about, you know, clickbait, like get people riled up and then debunk them- 
+
+00:24:51,744 --> 00:24:51,774 [Lulu]
+Could be 
+
+00:24:51,774 --> 00:24:53,034 [Co-host]
+... in the same speech. 
+
+00:24:53,034 --> 00:24:53,323 [Lulu]
+Could be. 
+
+00:24:53,323 --> 00:25:01,134 [Co-host]
+He does that a lot, where he'll clearly word something in a way that can be taken out of context. Like the dictator on day one thing was kind of like that. 
+
+00:25:01,134 --> 00:25:01,294 [Lulu]
+Hmm. 
+
+00:25:01,294 --> 00:25:13,414 [Co-host]
+Where like you only use that word if you know that people are gonna call you a dictator, and then it's kind of like this weird puzzle for your fans because when people dig into it, it's like, "Oh, no, he's just talking about like the executive orders that he's gonna do- 
+
+00:25:13,414 --> 00:25:13,424 [Lulu]
+[laughs] 
+
+00:25:13,424 --> 00:25:18,534 [Co-host]
+... and like he's kind of dictatorial." And so, so he's kind of creating these like breadcrumbs for people to like- 
+
+00:25:18,534 --> 00:25:18,734 [Lulu]
+Yeah, yeah, yeah 
+
+00:25:18,734 --> 00:25:19,084 [Co-host]
+... go and hunt it down 
+
+00:25:19,084 --> 00:25:22,994 [Lulu]
+It's, it's finding the Zodiac Killer just to understand what he's trying to say. [laughs] 
+
+00:25:22,994 --> 00:25:37,284 [Co-host]
+Yeah, yeah, yeah. He does this a lot where it's like the, the, the true fans, they feel like, "Oh, no, everyone's taking him out of context." When you look at it in the context, like there's a deeper meaning here, and, and it, and he's creating like these like clues, which is like it, it, it's more- 
+
+00:25:37,284 --> 00:25:37,644 [Lulu]
+I wouldn't put it past him 
+
+00:25:37,644 --> 00:25:38,834 [Co-host]
+... it's more for the fans. 
+
+00:25:38,834 --> 00:25:44,254 [Lulu]
+He, he has a genius for virality on a level that I don't think I even understand. 
+
+00:25:44,254 --> 00:25:44,354 [Co-host]
+Yeah. 
+
+00:25:44,354 --> 00:25:45,934 [Lulu]
+So maybe it makes- 
+
+00:25:45,934 --> 00:25:45,944 [Co-host]
+Yeah 
+
+00:25:45,944 --> 00:25:48,154 [Lulu]
+... no sense [laughs] on its surface. 
+
+00:25:48,154 --> 00:25:50,314 [Co-host]
+I mean, he's been doing entertainment for like 60 years. [laughs] 
+
+00:25:50,314 --> 00:25:51,924 [Lulu]
+It's working. Yeah, it's working. It's working.

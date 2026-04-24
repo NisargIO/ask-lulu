@@ -1,0 +1,1694 @@
+00:00:00,080 --> 00:00:11,700 [Lulu]
+The surface area of the opportunity we have to latch on is getting more and more fine which means that the hook that we need to use has to get more and more sharp 
+
+00:00:11,700 --> 00:00:47,280 [Interviewer]
+Lulu Cheng Meservey is one of the sharpest minds in communications today. Having been CCO and EVP of Corporate Affairs at Activision Blizzard and VP of Comms at Substack, she is now the creator of Rostra, the only advisory firm focused on founder-led comms. Lulu is known as the go-to strategist for CEOs, founders, and policymakers navigating high-stakes moments. In this episode, she explains how to grab attention in a noisy world filled with AI slop, appeal to human psychology, and build trust instead of farming engagement. 
+
+00:00:48,300 --> 00:01:20,780 [Lulu]
+If someone is fighting you with stories, you have to fight with stories. Under the statistics are more powerful stories. If you're trying to relieve pressure, you don't get to change how much force is coming at you, but you can change the surface area. You're not just attacking me, you're attacking all of us. The loss in trust, the loss in future prospects, customers, employees who defect, that recruit that doesn't accept the job offer, it could add up to billions. The three things for actually making a difference with your story are one, two, what are the right... And then lastly 
+
+00:01:28,160 --> 00:01:30,180 [Interviewer]
+Lulu, welcome to the podcast. 
+
+00:01:30,180 --> 00:01:31,760 [Lulu]
+Thank you. Thanks for having me. 
+
+00:01:31,760 --> 00:01:44,200 [Interviewer]
+In a world that is so noisy, it's full of AI-generated content, there's, uh, people trying to get your attention, how do we get people to pay attention to us? 
+
+00:01:44,200 --> 00:05:01,980 [Lulu]
+I've been thinking about this a lot because the flood of just sheer content is completely unrelenting, and the people are doing things all the time now too. Like, people are creating genuinely interesting things with new tools. Where it used to be, so if you look at the world of company launches, it used to be every few months there was some big announcement or some new launch. Now, it's multiple a day every single day, including weekends and evenings and holidays. And so the way to stand out from that I think is a few things. One is it's about human beings. We've always gravitated to human beings and human stories, and I think we gravitate to that even more now because it gives you something to care about that's not just, uh, generic content. Like, content is infinite, but individual human characters stand out from that. It gives you a person to root for. It gives you something to get attached to. It gives you a thing to care about. And so having it be attached to a human, um, whether it's a product launch or a company launch or some, some piece of information, having a human mascot represent it is really important. Another is human conviction. Like, there's something within us that responds to another person's conviction. Like, when you see cult leaders being able to recruit or terrorist group leaders being able to recruit, their actual pitch on the merits is horrible. It's like that meme of, like, you get this and I get that, and it's like you get basically nothing, poor pay, extremely poor prospects of, of success, leave your family behind, and I get rights to your life, and then also maybe you die. Right? On the merits, the pitch is horrible, but there's something within us that finds it really hard to resist when someone is just looking us in the eye and telling us with absolute conviction that something is true. This is why pathological liars are so powerful and sociopaths are so powerful, because we can't resist the gravity of someone telling us these things, and if they happen to be false, then we're actually very vulnerable to it. But we have this vulnerability to human conviction, and you can't convey that through any other means. There's, like, a unique way that people can convey conviction that makes us buy in. And then another is having it play into some kind of narrative arc. So whatever you're saying, if you just say it in a vacuum, here's just, like, a little pile of facts that I drop in front of you, well, there's pile of facts, piles of facts around as far as the eye can see in every direction. But if I tell you that this is part of something bigger and you need to stay tuned, then it gives you something to hang onto. So this is like the One Thousand and One Nights Scheherazade. You know the story. Um, she was gonna be beheaded, and then she told a little bit of a story and had to wait till the next day, and then told a little bit, and then after 1,001 nights, he was like, "You know what? Great. You can go. [laughs] You made it this far." Even journalists when they're following a beat, they try not to write one news story as a standalone. They try to cover the narrative arc of something that's happening. So when you see people right now covering hires at Meta for their new superintelligence, they're, they're covering what is the long-term goal of this and how is it progressing over time and what does it... Like, they're thinking of it as a 12 stories that link together. And so all of this put together means when you're trying to cut through the noise, you tell it through a human with extreme conviction, and you tie facts together in a chain such that it forms this bigger narrative that people feel compelled to follow. 
+
+00:05:01,980 --> 00:05:05,520 [Interviewer]
+How do we go about determining what that narrative is? 
+
+00:05:05,520 --> 00:05:14,660 [Lulu]
+The wrong way is here's what I wanna say, here it is, because the thing that you, you care about might not be what anybody else is caring about. 
+
+00:05:15,720 --> 00:05:49,000 [Lulu]
+I think the right way is to take two things. One is here's what I care about. Uh, so, like, think of it as a circle of information. Here's what I care about and what I wanna say. Then there's another circle of here's what the person I'm speaking to cares about and what they're thinking about, and it's probably a little bit different from what's on, on my mind. If it were identical, then what's the point of saying anything? But there's probably gonna be some overlap. And so what people tend to say is the circle of things that are on their mind and then just put it out there and hope that somebody latches onto it. 
+
+00:05:50,140 --> 00:06:15,484 [Lulu]
+The real story to tell is what's in the center of that Venn diagram. So don't tell the story that's in your circle because it, it's hard to get other people to care. Don't tell the story that's in the other person's circle because you don't get anything out of it. It's not strategic. Tell the story that's in the Venn diagram, and then once you meet them in the Venn diagram, you can kinda walk themInto the rest of your circle and you give them a gateway drug. 
+
+00:06:15,484 --> 00:06:26,484 [Co-host]
+That intuitively makes sense to me on a one-to-one basis. What about a one to many, where you're communicating with a group of people, whether they work at a company, whether they're society at large? 
+
+00:06:26,484 --> 00:07:40,514 [Lulu]
+I was actually thinking of it in terms of one to many. I think it works really well with one to many. The key is many can't be infinite. The many can't be eight and a half billion people. That just doesn't work because if you're talking to that many people, if you're talking to the whole wide world you have to water down your message so much that it becomes, you know, a drop in the ocean. It, it's just a nothing. The many should be the people who work at my company or the people who are really passionate about robotics or the people who are really worried about conflict with China. The many has to be like an actual circumscribed set of people. And then once you have that circumscribed set of people, then you think about what do all those people have in common that people outside of that circle don't necessarily have in common? So let's say that you are starting a new company, and the company is something to do with American defense tech. It's something between Palantir and Anduril type of vibe, and you wanna talk to people who are really concerned about geopolitical competition and rivalry with China. So think about what are things that they specifically are thinking about right now. They're not thinking about your company, so the circle of stuff that you really wanna talk about is, like, marketing drivel for your company. [laughs] 
+
+00:07:40,514 --> 00:07:41,324 [Co-host]
+[laughs] 
+
+00:07:41,324 --> 00:07:49,094 [Lulu]
+And then the circle of things that they're thinking about is if there's an invasion of Taiwan, what might that look like, and how do we plan for it? 
+
+00:07:49,094 --> 00:07:49,104 [Co-host]
+Right. 
+
+00:07:49,104 --> 00:08:19,664 [Lulu]
+But there's a overlap in the Venn diagram where part of planning for it means integrating the software that we are making [laughs] and, and to join us and help us build this so that we can be ready and so identifying that this is what they care about, speaking about the overlap part in terms of what they care about, and once they're with you there, then you can tell them, "Well, here's what we're building, and here's how we approach software," and then they actually already are with you. I think that's a good way to approach it, just, like, picture the circles and then find the overlap. 
+
+00:08:19,664 --> 00:08:34,784 [Co-host]
+Do you think of that as sort of like an API into people, or is it positioning something so that people can be receptive to it, and then at that point, once you've got a hook, you can pull them along to sort of the message you actually wanted to say? 
+
+00:08:34,784 --> 00:08:49,554 [Lulu]
+Yeah. It's the API into their mind, um, or it's the gateway drug. Whatever it is, it's, it's not just the thing you wanna say. It's the hook. You start with the hook, and then once the hook is in, then you can do the reeling. But some people are like, 
+
+00:08:50,673 --> 00:09:43,464 [Lulu]
+"Here's the fish sandwich I'm gonna make for dinner," before they think about what goes on the hook, and is any fish gonna bite the hook? So the hook is probably the most overlooked part. I would say in order of how much it matters, it's the hook, then how you tell your story, and then where you tell it. Most people get this reversed, where they spend an inordinate amount of time thinking about where can I go talk, what podcast can I go on, how do I pitch Shane Parrish, how do I get on TV, do I start a pod, do I do a blog? And they think about the form factor and the medium, and they don't think enough about how can I become so interesting that my distribution method is people telling other people because they can't get it out of their heads and they have to... It's, it's, it's in there, and it's tickling their brain, and they have to share it with their families, and they have to go have a conversation about it. That is the most powerful, most high leverage thing, and nobody thinks about it. 
+
+00:09:43,464 --> 00:09:54,104 [Co-host]
+I wanna double-click on that one second. I just wanna come back to the hook. Is that... There's a lot of research that seems to indicate that you have sort of 12 seconds-ish- 
+
+00:09:54,104 --> 00:09:54,344 [Lulu]
+Hmm 
+
+00:09:54,344 --> 00:09:57,164 [Co-host]
+... to get somebody's attention. Is that what you mean by a hook? 
+
+00:09:57,164 --> 00:11:05,644 [Lulu]
+I don't know about seconds because now a lot of the way that people interact with people that they don't know personally is through these parasocial relationships on the internet. Like, there's a lot of people who watch your podcast who feel like they have a sense of who you are, like they've created, they've created this model of you in their minds that's this kinda, like, weird Shane homunculus that's sort of resembling of you but not, not the full picture. They don't necessarily do that through time spent with you. They see it through your writing, your newsletter, your clips. So if it's, um, time in person, okay, maybe 12 seconds. If it's time through a clip on the internet, I would say, like, first five seconds they decide whether they're gonna keep scrolling or not, like less than five. When you see the metrics... This is so almost crass and pragmatic to start talking about video metrics, but when you see the video metrics of things posted on social media, after 30 seconds, like, 99% of people are gone, right? And, and you pay closer attention to this than I do, so y- your, your metrics will be, like, more precise. But basically, in the first few seconds it can drop off precipitously. People are just, like, scrolling. Like, when you see people looking at videos, 
+
+00:11:06,764 --> 00:11:07,864 [Lulu]
+what do you picture, this 
+
+00:11:08,964 --> 00:11:10,004 [Lulu]
+or this? 
+
+00:11:10,004 --> 00:11:10,484 [Co-host]
+Yeah. 
+
+00:11:10,484 --> 00:11:11,804 [Lulu]
+It's actually more the latter. 
+
+00:11:11,804 --> 00:11:12,204 [Co-host]
+Yeah. 
+
+00:11:12,204 --> 00:11:50,144 [Lulu]
+So you get, like, a couple seconds. I bet our attention span is going down, too. Who- who- whoever did the study that came up with the 12 seconds, I would love to see them redo it and see if that's gone down to 10 or eight or something as our patience has worn. And then in terms of text, because some of the ways that people get to know you is through your writing, I don't know about seconds, but it's like the first paragraph. For an email, it's a subject line. For a tweet, it's the first line, first sentence, the hook. So, like, the opportunity, like the surface area of the opportunity we have to latch on is getting more and more fine, which means that the hook that we need to use has to get more and more sharp. 
+
+00:11:50,144 --> 00:12:00,244 [Co-host]
+So should that hook be, uh, like emotion? Should it be tension? Should it be stakes, like you get invested in reading this? Should it be like, what's in it for me? 
+
+00:12:00,244 --> 00:12:00,884 [Lulu]
+Mm-hmm. 
+
+00:12:00,884 --> 00:12:01,944 [Co-host]
+How do you think about that? 
+
+00:12:01,944 --> 00:12:37,114 [Lulu]
+It could be any of the above. The most common ones that I've just observed online are humor, curiosity, or some strong emotion.It can be a wow emotion. It can be a WTF emotion or it could be, here's a topic that I'm already thinking about, and this is gonna give me some new angle on the topic. Depends on who you're talking to. Like, if you're talking to brainwrought teens [laughs] it might be a little bit different from if you're talking to AI researchers or if you're talking to academics, you can use slightly different things, but, but it's humor, curiosity, 
+
+00:12:38,164 --> 00:12:39,374 [Lulu]
+a strong emotion 
+
+00:12:40,444 --> 00:12:47,884 [Lulu]
+outrage, shock, surprise, or they're about to learn something about a topic that they're already following. 
+
+00:12:47,884 --> 00:12:52,674 [Co-host]
+I wanna go back to be interesting. What does that mean? Like, it, it sounds very simple. 
+
+00:12:52,674 --> 00:12:52,674 [Lulu]
+Yeah. 
+
+00:12:52,674 --> 00:12:55,564 [Co-host]
+But you can't go to somebody and say, "Hey, be more interesting." 
+
+00:12:55,564 --> 00:14:35,343 [Lulu]
+It's be interesting to whom? So all of these things I, I hear sometimes in a vacuum, so it's like, uh, say the message, and, and we've talked about this, like who's saying the message and to whom? And depending on who's the messenger and who's the receiver, the nature of the message completely changes. It's the same with be interesting. So what's interesting to one person might not be interesting to another, and if you're very clear on who you're speaking to, then you can make it maximally interesting for them, which will mean trade-offs in making it less interesting for someone that you don't care about. Um, if you're trying to be somewhat interesting to everybody, now you're back to the eight billion people problem, where it's so, so, so minutely interesting in order to capture everybody that it's actually marginal. It's like evanesces into the air. So once you identify who the people you're talking about, the way you're interesting is to speak to their interests. If you know what are their cultural and intellectual erogenous zones, what do they care about? What are they interested in? What are they thinking about? Then link it from there. So at the bottom of all of this, the way to be interesting is to find that sliver of the Venn diagram overlap of what you're trying to say and what they already care about, and meet them there. And if you misfire and you end up somewhere else, then you're not doing your job as a good storyteller. Or if you misidentify the audience. I would say the number one mistake is misidentifying the audience and trying to speak to the general public, and then the, the narrow sliver of people that super-duper matter to you in that moment, whether it's people you're trying to hire, people you're trying to even befriend, whatever your goal is, that you miss them because you've just sprayed it out into the air. 
+
+00:14:35,344 --> 00:14:41,514 [Co-host]
+Why do you think a lot of corporations and governments, uh, communicate so poorly? 
+
+00:14:41,514 --> 00:14:57,324 [Lulu]
+The people who have done the communicating are larping as company executives. They're larping as what they think a business should speak like. So right now, you know, AI is really sublime and wonderful at many things, like really truly astounding. 
+
+00:14:58,704 --> 00:15:16,224 [Lulu]
+When you ask AI for anything related to comms or PR, it turns into kind of a blabbering idiot. Like even the most advanced models that are creating these wonderful insights and writing poetry, you ask it to do anything related to comms or PR, and it'll give you the worst thing you've seen. 
+
+00:15:16,224 --> 00:17:01,424 [Co-host]
+Introducing the Remarkable Paper Pro Move. It's a paper tablet, a digital notebook that combines the familiar feel of paper with the digital powers of a tablet. Start by taking notes with any of the dozens of built-in templates, then turn your handwriting into typed text and share it by email or Slack. You can even continue your work on the desktop or mobile apps. Too much technology draws us in and shuts out the world. This paper tablet doesn't. It will never beep or buzz or try to grab your attention, so you can devote your focus to what or who is right in front of you. It can fit all your notes and documents and lasts up to two weeks on a single charge, but slips easily inside your jacket pocket. And most importantly, Remarkable's mission is about helping you think better. That means no apps, social media or any other distractions. You can try Remarkable Paper Pro Move for a hundred days for free. If it's not what you were looking for, you get your money back. Visit remarkable.com to learn more and get your paper tablet today. This one's for the tech founders. You know the moment you finally land on the perfect name for your startup, but then you check the .com and it's taken or parked or priced like a penthouse in New York, so you settle. You add random letters, you force a weird spelling or tack on an extra word. It feels like a compromise because it is. But here's the thing, you don't have to compromise anymore because now there's a domain built for founders like you. .tech isn't an afterthought. It's a signal to your customers, investors, and team that you're building technology at the highest level. I've seen fast-growing startups proudly use .tech domains, not as a fallback, but as a deliberate choice. So if you have a name in mind, don't wait. Search for it today with .tech on a trusted registrar like GoDaddy, Namecheap or Cloudflare. 
+
+00:17:03,684 --> 00:17:11,154 [Lulu]
+And it's because that's what it's seeing, and that's what it's learning from, and I think that's the same effect with people. Like somebody 
+
+00:17:12,404 --> 00:17:49,544 [Lulu]
+starts their career and then goes into the company doing PR, and then they look around at what does PR look like? And they're like, "Okay, let me just do some version of that." And it's, it's like this experiment that I read about where they had mice in a cage, and they were trained to run a certain route, and then they would put in a new mouse and take out the old mouse, and they had fully replaced all of the mice like a ship of Theseus with mice. And all of the new mice were doing all of the behaviors of the old mice for literally no reason at this point. The old mice were getting cheese or whatever. They just, they were just following one by one. So I actually think we're in this like very 
+
+00:17:50,724 --> 00:18:51,295 [Lulu]
+hollow, meaningless corporate zeitgeist of everybody copying everybody else, and there's just no there there. And I think the way to break the cycle is every once in a while somebody just does something totally different and it works, and then the copying can at least glom on to copying something better. So, so the leaders will do something more interesting, and then the copiers will try to do something similar to that, and the leader will get the A+ result, and the copiers will get the C+ result. Then someone else will get an A+ result, and the copiers might get a B+ result. And I think that's the way you-- So, um, Tobi Lütke of Shopify-He has done a number of things that are original, courageous, for the first... We're, we're both Toby fans and then you see other companies kind of falling in line. So it's like the number one most courageous does it first and then the number two and three do it, and then eventually five years later, the number 50 is doing it, too. And so you do this enough times that over the years, hopefully things get better. 
+
+00:18:51,296 --> 00:19:09,796 [Co-host]
+I don't know if he realizes it, but he probably single-handedly changed the number of people speaking out in Canada on the election because he started having an opinion, having a voice, and that, that sort of made it safe for other people to have an opinion, have a voice, and that might go counter to the norm. 
+
+00:19:09,796 --> 00:19:10,536 [Lulu]
+Yeah. 
+
+00:19:10,536 --> 00:19:15,896 [Co-host]
+But government communications in particular, I mean, I, I think of this as a tax on citizens. 
+
+00:19:15,896 --> 00:19:16,145 [Lulu]
+Yeah, it is. 
+
+00:19:16,145 --> 00:19:21,896 [Co-host]
+A tax on educated citizens because you have to spend... You know, they communicate in one page- 
+
+00:19:21,896 --> 00:19:22,436 [Lulu]
+Mm-hmm 
+
+00:19:22,436 --> 00:19:25,836 [Co-host]
+... uh, what should be maybe two, max three sentences. 
+
+00:19:25,836 --> 00:19:26,316 [Lulu]
+Mm-hmm. 
+
+00:19:26,316 --> 00:19:28,366 [Co-host]
+And you have to spend your time deciphering it. 
+
+00:19:28,366 --> 00:19:28,366 [Lulu]
+Yeah. 
+
+00:19:28,366 --> 00:19:33,035 [Co-host]
+And it's almost like a race to see how much we can say without saying anything. 
+
+00:19:33,035 --> 00:19:39,716 [Lulu]
+Yeah. It's incredible. I mean, someone like you, your billable hours would be like in the thousands. 
+
+00:19:39,716 --> 00:19:40,046 [Co-host]
+Yeah. 
+
+00:19:40,046 --> 00:20:16,816 [Lulu]
+And over the course of a week of reading these communications where you're just trying to understand what's happening with government or with the private sector, if you spend an extra couple hours cumulatively, and then that adds up over the course of a lifetime, that is that much productivity added together from everyone who's doing it, and the more, um, productive someone is in the economy, the more time they're probably spending reading this stuff, like from the news and from government announcements. And so it really adds up. I would love to see someone do a study of the financial cost of jargony gov speak and corpo speak. 
+
+00:20:16,816 --> 00:20:46,656 [Co-host]
+I think... I wonder if this comes from the idea that we need more communications that doesn't make better communications. Like, the answer for a long time, I don't know what it's like inside companies now, but for a long time, uh, in the government and, and in large corporations that I was working with, the answer was always like more comms. But nobody was asking like, "What's better comms?" You know, it's not like we need to communicate more. It, it, you know, we need to be more effective at our communication. How do you think about that? 
+
+00:20:46,656 --> 00:21:03,296 [Lulu]
+This is the, um, this is sort of Goodwin's law where once the measure becomes the goal, it ceases to be a good measure. And what we've done is we've taken a group of people and said, "Your job is communications, and your metric is communicating a lot," presumably. 
+
+00:21:04,736 --> 00:21:22,736 [Lulu]
+If you picture a scenario where people have a job and their job is just to communicate versus a scenario where the goal is to help people understand something important, this plays out completely differently. In the first scenario, the people whose job is communicating are just generating activity- 
+
+00:21:22,736 --> 00:21:22,856 [Co-host]
+Yeah 
+
+00:21:22,856 --> 00:21:27,966 [Lulu]
+... to try to show that they should hold onto their jobs and be able to get jobs in the future. 
+
+00:21:29,096 --> 00:22:30,466 [Lulu]
+Whereas in the second scenario, if the goal is to help people understand something important so that we can effect a change in the world together, that's more the paradigm that I think is the reality today. It's just not evenly distributed, but the, the top leaders, like the Toby Lutke, Brian Armstrong types, they already get it, and that is the most effective person to speak is the person who's leading the enterprise. If you were building a cult, and I would say that most successful startups are like cults in many ways, if you were building a cult, you would never be like, "Let's not let have the cult leader speak. He, he might go off the reservation, and he's kind of quirky and eccentric, a little bit weird. Let's just have somebody who's like really polished and professional and normal speak on his behalf in a way that'll never offend anybody." Like, you would never build a cult that way. What the best communicating companies are doing is having the cult leader, having the leader of the enterprise speak directly about their, what their vision is because if you're trying to do something different that hasn't been done before, in my mind, that's the only thing kind of worth doing because otherwise just go be an employee. 
+
+00:22:30,466 --> 00:22:30,596 [Co-host]
+Yeah. 
+
+00:22:30,596 --> 00:22:35,336 [Lulu]
+If you're trying to be some- uh, do something original and different that has not been done and doesn't exist, 
+
+00:22:36,516 --> 00:23:13,716 [Lulu]
+it's very hard to prove to people that it's gonna work, especially in the early days. And what I said before about human conviction and that being contagious, you need the person who leads the enterprise to say in the first person, "We are going to do this. It is going to work. Look me in the eyes, follow me, join me on this because we're gonna do something great. I swear to you on my life, this will be my life's work. It could be your life's work, too." There's nobody else who can do that in the first person. Like, imagine that recruiting speech given in the form of, "My boss has told me to tell you [laughs] that." 
+
+00:23:13,716 --> 00:23:13,726 [Co-host]
+Yeah. 
+
+00:23:13,726 --> 00:23:30,656 [Lulu]
+You know, whatever it looks like. So I, I, um, going back to your question of why has it gotten so sucky, it's because the, we have designated a group of people who have less skin in the game to be the communicators and given them a metric of just saying stuff. 
+
+00:23:30,656 --> 00:23:37,856 [Co-host]
+What is the skin in the game from the person doing the communicating if it's not the founder? Sort of like if it's a big cor- a government, for example- 
+
+00:23:37,856 --> 00:23:38,026 [Lulu]
+Yeah 
+
+00:23:38,026 --> 00:23:39,066 [Co-host]
+... or a big corporation puts- 
+
+00:23:39,066 --> 00:23:39,066 [Lulu]
+Yeah 
+
+00:23:39,066 --> 00:23:42,316 [Co-host]
+... out a press release. Like, what is the skin in the game for- 
+
+00:23:42,316 --> 00:24:01,946 [Lulu]
+I don't think there is any. Nobody has real glory if it goes right. Nobody has humiliation and despair if it goes wrong. It just sort of is out there for the purpose of checking a box, and for some public companies, they need to literally check a box according to like SEC rules. 
+
+00:24:01,946 --> 00:24:02,376 [Co-host]
+Yeah. 
+
+00:24:02,376 --> 00:24:10,136 [Lulu]
+But the press release as a means of communication I think is obsolete by like a decade. 
+
+00:24:10,136 --> 00:24:20,586 [Co-host]
+I wanna come back to something you said where the founder with conviction is, like, giving this message. It's ve- very different than so, uh, having an intermediary between people. 
+
+00:24:20,586 --> 00:24:20,616 [Lulu]
+Mm-hmm. 
+
+00:24:20,616 --> 00:24:28,675 [Co-host]
+How much of that appeals to us from a psychological level because it's uncertainty avoidance? This person's certain. Like, I believe it- 
+
+00:24:28,676 --> 00:24:29,086 [Lulu]
+Mm-hmm 
+
+00:24:29,086 --> 00:24:32,756 [Co-host]
+... because there's no surface area for any non-belief.
+
+00:24:33,356 --> 00:24:34,336 [Lulu]
+What do you mean? 
+
+00:24:34,336 --> 00:24:36,536 [Co-host]
+Well, if they're saying this is true- 
+
+00:24:36,536 --> 00:24:36,756 [Lulu]
+Yeah 
+
+00:24:36,756 --> 00:24:37,816 [Co-host]
+... and we're gonna go to the moon- 
+
+00:24:37,816 --> 00:24:38,336 [Lulu]
+Yeah 
+
+00:24:38,336 --> 00:24:40,076 [Co-host]
+... and it's going to happen- 
+
+00:24:40,076 --> 00:24:40,156 [Lulu]
+Yeah 
+
+00:24:40,156 --> 00:24:41,796 [Co-host]
+... and I'm, this is my life's work. 
+
+00:24:41,796 --> 00:24:42,496 [Lulu]
+Mm-hmm. 
+
+00:24:42,496 --> 00:25:06,416 [Co-host]
+And I might be thinking, you know, practically speaking, that's probably not, you know, going to happen, or go to Mars, or it's not gonna happen in the next five years, but because this person's so convincing and they're so passionate about it, there's n- like, my uncertainty I would feel diminishes. And, like, eventually you hear that message over and over again, repetition, repetition, and then you start to believe it. 
+
+00:25:06,416 --> 00:25:51,456 [Lulu]
+Mm-hmm. Yeah. That is how people believe things. Repetition is one of the ways that people believe things, and another is being told something by someone that they trust. So earlier, when I thought there, there was a ghost in your studio, if [laughs] if I had been like, "Shane, th- there's a ghost here. [laughs] I'm telling you, I know what I saw. There's a ghost here," at first you would be like, "This, you know, she's a little cuckoo. Maybe we scrap this episode." But if I just kept following up with you and telling you and like, "I swear to you, I saw this. I'm not lying," you would be a little bit creeped out. Have you ever had, like, a kid say to you, "I think I saw something," or, "There's a monster under my bed," and they're just so sure. And you're like, "No, there's not." 
+
+00:25:51,456 --> 00:25:52,436 [Co-host]
+But there's the hint of- 
+
+00:25:52,436 --> 00:25:53,636 [Lulu]
+Is there? 
+
+00:25:53,636 --> 00:25:54,006 [Co-host]
+Yeah. 
+
+00:25:54,006 --> 00:25:54,006 [Lulu]
+Is there? 
+
+00:25:54,006 --> 00:25:54,036 [Co-host]
+Yeah. 
+
+00:25:54,036 --> 00:26:47,375 [Lulu]
+You know, um, it actually is very hard to resist. And so one of the main ways to turn something from being perceived as totally impossible and insane is to have a person that you trust tell you with total confidence that it's real and it's gonna happen. Now, the two things in there are it has to be a person you trust, and they have to say it with total confidence. If it's not a person you trust, if it's someone screaming on the street that your studio has a ghost, you're not gonna take that seriously. And if I don't say it with confidence, you're not gonna take that seriously. So let's say you and I trust each other and I say, "Shane, I think I saw it," and you're like, "No, that was just the thing. That was just a shadow. There's..." And I'm like, "Oh, yeah, probably. Oh, oh, okay," that doesn't do anything to you either. It's someone that you trust speaking with complete conviction and doing it over and over, and those three ingredients can be engineered. 
+
+00:26:48,576 --> 00:26:53,736 [Lulu]
+You can engineer trust. There's, there's a formula. Let, let's talk about it. You can engineer trust. 
+
+00:26:54,846 --> 00:27:24,056 [Lulu]
+The conviction should be real 'cause otherwise, what are you doing? Just go get a normal job. So hopefully, the founder already has conviction, but the, but there's ways to convey that and impress that upon people, and to do it repeatedly with insistence over the years. So yeah, going to Mars sounds super wacky, but people who have been around Elon and have heard him say it over and over, and people who know him and trust him believe that we will go to Mars- 
+
+00:27:24,056 --> 00:27:24,196 [Co-host]
+Yeah 
+
+00:27:24,196 --> 00:27:24,816 [Lulu]
+... in our lifetime. 
+
+00:27:24,816 --> 00:27:25,896 [Co-host]
+I believe him. 
+
+00:27:25,896 --> 00:27:26,276 [Lulu]
+Yeah. 
+
+00:27:26,276 --> 00:27:26,676 [Co-host]
+Yeah. 
+
+00:27:26,676 --> 00:27:28,526 [Lulu]
+Yeah. But if you, if you find people who- 
+
+00:27:28,526 --> 00:27:30,655 [Co-host]
+But the first time he said it, I thought he was crazy. 
+
+00:27:30,656 --> 00:27:33,826 [Lulu]
+I'm sure. [laughs] Maybe the 10th time, maybe the 100th time. 
+
+00:27:33,826 --> 00:27:33,826 [Co-host]
+Yeah. 
+
+00:27:33,826 --> 00:27:56,296 [Lulu]
+But by the 10,000th time, you're sort of like, "Maybe he sees something that we don't see." And if you look at people who do not like or trust Elon, they don't believe it as much 'cause they think he's a charlatan, they think he's a liar, they think he's a bad guy, and so anything he says, they don't take seriously. But if you take him seriously and you trust him and you believe him, then that carries a lot of weight, especially when he says it over and over and over. 
+
+00:27:56,296 --> 00:27:57,956 [Co-host]
+So you use the word trust- 
+
+00:27:57,956 --> 00:27:58,136 [Lulu]
+Mm-hmm 
+
+00:27:58,136 --> 00:28:12,036 [Co-host]
+... and I'm wondering, is there a nuance with likability? 'Cause I had heard before, and I don't know where I got this from, but I remember reading something about, like, we're more convinced by people we like. And you used the word trust, and I'm wondering if that was conscious. 
+
+00:28:12,036 --> 00:28:17,336 [Lulu]
+We're more convinced by people we like, and we like people that we trust. 
+
+00:28:17,336 --> 00:28:17,656 [Co-host]
+Okay. 
+
+00:28:17,656 --> 00:28:51,655 [Lulu]
+Um, so they are related. It is, it is possible to believe someone you don't like, right? It is, um... Like, picture someone that you really dislike and they say they're gonna do something, but you immediately believe that they're going to do it. So let's say that there's some foreign adversary who makes a threat, and you believe that they'll follow through on their threat because they usually do. Even if you don't like them, that is possible. But there definitely is a link between, um, if you like someone, you're more likely to believe them, and if you, if you believe someone, you're more likely to like them. Uh, and I think that liking is actually really underrated. So have you heard of the affect heuristic? 
+
+00:28:51,655 --> 00:28:52,035 [Co-host]
+No. 
+
+00:28:52,035 --> 00:29:13,216 [Lulu]
+It's... You know, we have different decision-making heuristics. We have mental shortcuts because we don't have all the time in the world. This is, like, an evolutionary thing that everybody has this. We, we don't train it, just, it just comes with us, you know, out of the box. We don't have all the time in the world to take in every single piece of information and make a decision all the time. Sometimes it's like if you see smoke, you just gotta go. 
+
+00:29:13,216 --> 00:29:13,316 [Co-host]
+Yeah. 
+
+00:29:13,316 --> 00:29:33,846 [Lulu]
+Right? And so we make, um, we take mental shortcuts all the time, and one of the big mental shortcuts is if we like something and feel comfortable with something, it's more likely to be real. Someone we like is more likely to be competent. Someone we like is more likely to be smart. All these things just kinda go together, and so liking is at the center of that. 
+
+00:29:34,956 --> 00:29:37,386 [Co-host]
+You mentioned that we can engineer trust. 
+
+00:29:37,386 --> 00:29:37,436 [Lulu]
+Mm-hmm. 
+
+00:29:37,436 --> 00:29:38,496 [Co-host]
+How do we do that? 
+
+00:29:38,496 --> 00:29:52,716 [Lulu]
+One is repeated exposure. So in order to trust somebody, first you have to have a sense of who they are. Like, you won't, you wouldn't trust a stranger. You wouldn't trust a mystery man. So one is you have to know who, who are they. They have to 
+
+00:29:53,836 --> 00:30:36,336 [Lulu]
+show up enough for you get a s- for you to get a sense of you actually know them and they're not a total stranger to you. It's hard to trust a stranger, but it's easy to trust even a stranger that you have a parasocial relationship with because they're not a stranger. They are people that you've never met in your life who would trust you because to them, you're not a stranger. So first is just become not a stranger. Second is establish a set of shared values. I wouldn't necessarily trust your opinion on a restaurant unless I knew that you and I like the same type of food. So if you are, like, a vegan that hates spicy food and wh- whatever, I, I probably wouldn't take your restaurant recommendation, um, even if I like you as a person. 
+
+00:30:36,336 --> 00:30:36,736 [Co-host]
+Right. 
+
+00:30:36,736 --> 00:31:46,264 [Lulu]
+So you, you have to establish some shared baseline of values. Here are some core things that I believe about the world, and if you share them, then listen to what I have to say next. If you don't share them, that's okayRight? Not everybody has Dushanum. So they have to get a sense of who you are, and you're not a stranger, and they have to get a sense of how you think and how you view things such that when you say other things, they already have ingrained in their mind that they think like you think, and therefore, if you believe this thing, they're more likely to believe that thing too. This is how to resolve a debate or an argument, by the way. The better way to argue, and you see really, uh, smooth people like Go-Gavin Newsom does this on his podcast, maybe a little bit too slick, but he's clearly very good at it, is he'll have somebody who totally disagrees with hi- with him on a bunch of things, and he'll always make sure to start with agreeing with them on something, even if it's trivial. "I agree with you that that thing was totally insane, and now we can have a productive conversation because we've established that it's even possible for you and me to see things the same way as opposed to your knee-jerk assumption that it wouldn't be possible." 
+
+00:31:46,264 --> 00:31:54,604 [Co-host]
+I wonder if that's why sommelier almost never disagree with you. When you are like, "Oh, I taste whatever in this wine," they're like, "Possibly," or, you know? 
+
+00:31:54,604 --> 00:31:55,473 [Lulu]
+[laughs] 
+
+00:31:55,473 --> 00:31:58,054 [Co-host]
+Like in their head, they're like, "No way." Like that's- 
+
+00:31:58,054 --> 00:31:58,054 [Lulu]
+Yeah 
+
+00:31:58,054 --> 00:31:59,664 [Co-host]
+... a completely different taste. But- 
+
+00:31:59,664 --> 00:31:59,824 [Lulu]
+Yeah 
+
+00:31:59,824 --> 00:32:04,234 [Co-host]
+... they, they never actually come out and say no. They always sort of like bridge a little bit of a gap. 
+
+00:32:04,234 --> 00:32:05,063 [Lulu]
+Hmm. That's interesting. 
+
+00:32:05,064 --> 00:32:09,824 [Co-host]
+And then they'll, like, direct you or steer you towards what they want you to notice. 
+
+00:32:09,824 --> 00:32:17,264 [Lulu]
+That's interesting. I'm a teetotaler, so I'm the person that if I sniff a wine, I'm like, "I think it's wine." [laughs] 
+
+00:32:17,264 --> 00:32:17,824 [Co-host]
+[laughs] 
+
+00:32:17,824 --> 00:32:39,664 [Lulu]
+But, but what I have noticed, which is related to this, is do you ever see online when people are insulting someone or dunking on someone, but then that person shows up and says, "Thanks for your feedback," the original person who was insulting them or dunking on them almost immediately folds like a cheap suit. Have you seen this? 
+
+00:32:39,664 --> 00:32:40,344 [Co-host]
+Yeah. 
+
+00:32:40,344 --> 00:33:30,864 [Lulu]
+Almost immediately they fold. "Hey, man, thank you. No, totally understand. I would be doing the same thing. I got you." We're like, "What, what just happened?" And it's because once you're actually confronted by a person instead of just, like, a concept or some kind of nebulous idea of a person or, or some representation of a person, like once the person is there talking to you, even if it's online, we behave in a completely different way. And so one of the things I tell founders to do is just to show up and defend yourself, you know, defend your people, defend your companies. Sam Altman is really good at this. He defends his employees, and it's very hard. Even a- as much as with any public figure, people like to dunk and hate and insult. And when he shows up, a lot of the time, you see the person immediately fold 'cause they're just, like, 
+
+00:33:31,924 --> 00:33:38,184 [Lulu]
+flattered, or they don't wanna fight with him directly or something. It's one of the most powerful things is just to put a human in their way. 
+
+00:33:38,184 --> 00:33:51,784 [Co-host]
+That's really interesting. Do you think that founders have to rebut everything? I want to get into sort of negative media later, but do you think they have to rebut everything, or is it that if they do it enough, it sort of like deters attacks? 
+
+00:33:51,784 --> 00:34:00,604 [Lulu]
+I think there's a big, um, deterrent effect with some founders. So, like, Palmer Luckey has extremely strong deterrent. Have you ever read The Three-Body Problem? 
+
+00:34:00,604 --> 00:34:01,183 [Co-host]
+No. 
+
+00:34:01,184 --> 00:34:01,974 [Lulu]
+You'd love it. 
+
+00:34:01,974 --> 00:34:02,264 [Co-host]
+Tell me about it. 
+
+00:34:02,264 --> 00:34:32,234 [Lulu]
+You'd, you'd love this trilogy. The Three-Body Problem, it's, it's, it's, uh, actually three books, and there's an alien civilization, and they probably want to come to Earth and take all of our resources, and we would be destroyed, and it turn- it turns into a game of deterrence. It turns into game theory of how do we prevent them from doing that when they're so much more technologically sophisticated than us. And I won't spoil it, but a large part of the book centers on how do we deter them. 
+
+00:34:32,234 --> 00:34:32,454 [Co-host]
+Mm. 
+
+00:34:32,454 --> 00:35:53,304 [Lulu]
+And again, they are technologically dominant over us. They've actually sent sensors and spies to come here and can see everything that's happening. And so Earth has designated certain people to be what they call wall facers, as in they are metaphorically facing a wall and not interacting with the outside world, uh, in a normal way. They're making secret plans, and their job is to be deceptive so that anyone watching, whether you're a human or you're a Trisolaran alien civilization, you can't tell what they're really up to. And among some of the people in, in the second book, they have the power to do the equivalent of, of pulling a trigger, and the aliens have to determine who's really gonna do this. So the aliens decide which people have strong deterrence and weak deterrence, and there's one guy who has, I think they call it perfect deterrence, which is he will 100% [laughs] pull the trigger if needed. He doesn't care about dying. He i- he doesn't care. He's not worried about protecting his family. He's not worried about literally anything. He's just like a perfect algorithm where if this, then trigger. He has perfect deterrence, and during the time that he's around, the aliens do nothing. They're completely deterred. When he's gone, that power passes to this woman who has actually very weak deterrence. 
+
+00:35:53,304 --> 00:35:53,644 [Co-host]
+Okay. 
+
+00:35:53,644 --> 00:36:54,664 [Lulu]
+She just, like, feels bad. She's got other stuff going on, and the aliens call her bluff. They realize that she has weak deterrence, and they are not deterred, and then things go very badly from there. All of this is to say that some people have strong deterrence or weak deterrence, and you can signal that through your behavior. Someone like Palmer, whom I love [laughs] and I literally like this about him, has basically perfect deterrence, which is that if you come after him in some material way, he will come after you basically guaranteed 100% of the time. His comms team isn't holding him back. His cofounders aren't holding him back. Investors, nothing, nothing is holding him back from coming after you and probably continuing to come after you for maybe the rest of his life. [laughs] Like extremely strong deterrence, which doesn't mean that there are not, like, internet goons who sometimes still take a shot, but I actually haven't seen it for a very long time. I can't remember the last time that someone took a meaningful shot at Palmer, that someone landed a blow.
+
+00:36:56,224 --> 00:38:06,244 [Ad]
+Are you struggling to manage your projects at work using lots of different tools for communication, task management, and scheduling? It doesn't have to be this hard. Basecamp is the refreshingly straightforward, reliable project management platform. It's designed for small and growing businesses, so there's none of the complexity you get with software designed for enterprises. Complexity kills momentum. Basecamp clears the path so your team can actually move. Do away with scattered emails, endless meetings, and missed deadlines. With Basecamp, everything lives in one place: to-do lists, message boards, chat conversations, scheduling, and documents. When information is scattered, attention is, too. Basecamp brings both back together. Basecamp's intuitive design ensures that everyone knows what's happening, who's responsible, and what's coming next. My head of operations swears by this platform and is the first person to suggest it to anyone. If you need another decorated referral, you should call her. Whether you're a small team or a growing business, Basecamp scales with you. Stop struggling. Start making progress. Get somewhere with Basecamp. Sign up for free at basecamp.com. 
+
+00:38:07,404 --> 00:38:11,084 [Co-host]
+I remember being in the audience at the Miami- 
+
+00:38:11,084 --> 00:38:11,164 [Lulu]
+Yeah 
+
+00:38:11,164 --> 00:38:12,024 [Co-host]
+... all-in- 
+
+00:38:12,024 --> 00:38:12,424 [Lulu]
+Yeah 
+
+00:38:12,424 --> 00:38:13,024 [Co-host]
+... summit. 
+
+00:38:13,024 --> 00:38:13,563 [Lulu]
+Yeah. 
+
+00:38:13,564 --> 00:38:25,904 [Co-host]
+And him and Jason just went off on each other, and I thought it was brilliant. Like, I liked the fact that he was, like, standing up for himself and, you know, sort of arguing. He was doing it respectfully. 
+
+00:38:25,904 --> 00:38:26,524 [Lulu]
+Mm-hmm. 
+
+00:38:26,524 --> 00:38:28,824 [Co-host]
+Uh, but he was sort of just calling bullshit, you know? 
+
+00:38:28,824 --> 00:38:47,774 [Lulu]
+And he was doing it on his own, and not everyb- Like, I wouldn't have done that. A lot of people either wouldn't or couldn't get away with it, but this is authentically him. This is not like his PR team wrote a script for him, and they're like, "Hey, read this and get really mad." Like, this is him. I think he had it on his Apple Notes and just, like, did himself like, "Hey, I'm gonna do this," 
+
+00:38:48,804 --> 00:39:20,404 [Lulu]
+and then, and then did. The, the way this goes wrong is if people try to affect being someone that they're really not, and then once you see through that, not only do you not have the original intended effect, but then you also lose all your other credibility, too. Who else is like that? I, I think Sam Altman has a fairly strong deterrent, but the way that you respond to attacks establishes how strong or weak of a deterrent that y- you have, and it's painful upfront, but then it gets a lot easier later because people stop coming after you. 
+
+00:39:20,404 --> 00:39:25,784 [Co-host]
+Well, let's talk about responding to attacks first. Palmer, if you're listening, I'd love to have you on the podcast. 
+
+00:39:25,784 --> 00:39:26,784 [Lulu]
+Palmer, Shane's great. 
+
+00:39:26,784 --> 00:39:45,784 [Co-host]
+[laughs] Let's talk about how, uh, to respond during an attack. What are, what are sort of... There's a, let's say, um, two scenarios that come to mind are, like, a negative article about your company or, like, maybe an accusation against the CEO. What, what's the playbook for responding to these things? 
+
+00:39:45,784 --> 00:40:24,344 [Lulu]
+The first thing is: Does it actually matter? 'Cause, like, don't waste your one wild and precious life responding to every single thing if it doesn't matter, not because it'll necessarily hurt you, but just you have better things to do with your time. Go for a walk. So the first is deciding whether it matters, and there's a couple things to decide whether it matters. Number one, is it reaching people that matter? 'Cause if it's at some dark corner of the internet with some crank, and your actual audience is not there and don't care, that's totally fine. Or i- let's say that you are a Republican politician, and your audience is, like, right-wing Americans, and AOC attacks you. 
+
+00:40:25,624 --> 00:40:34,103 [Lulu]
+Great. Congratulations. That's good for you. You do... You don't have to do anything there. That's actually, like, a wonderful compliment. You might turn it into an ad. Like, lean into it. 
+
+00:40:34,104 --> 00:40:34,323 [Co-host]
+Yeah. 
+
+00:40:34,324 --> 00:41:04,504 [Lulu]
+So, so the first is just, like, who is it, and who are they reaching, and is that gonna do damage? And then the second is: Is it something material? So if it's I write a blog post, and I'm like, "I went to Shane Parrish's studio, and his snacks weren't that good," but if it's like, "I went to his studio, and he lied to me about what we were gonna cover. Um, he tricked me into coming on with promises of an interview, then... and it went in a totally different direction." 
+
+00:41:04,504 --> 00:41:04,734 [Co-host]
+Yeah. 
+
+00:41:04,734 --> 00:41:15,483 [Lulu]
+"And after he lied, he used that to... You know, he put my face on an ad without getting my permission. He used it to, like, shill his new supplements company or something," that would be pretty material to you- 
+
+00:41:15,483 --> 00:41:15,594 [Co-host]
+Yeah 
+
+00:41:15,594 --> 00:41:21,924 [Lulu]
+... in trying to get future guests and in, in the image that you have with people that you respect, and so that would be worth addressing. 
+
+00:41:21,924 --> 00:41:22,224 [Co-host]
+Yeah. 
+
+00:41:22,224 --> 00:42:57,324 [Lulu]
+So, so who are the people involved? Do they matter to you? And then what is the actual accusation? Does that matter to you? If both are a yes, then you gotta respond immediately and aggressively right away. You can't kinda, "Oh, I don't know. It feels so bad. Maybe it'll go away." The, the instinct is, "Let me just... Maybe it'll just go away by itself." It doesn't go away by itself. So this is like... So I broke my nose, um, multiple times [laughs] in college. You can sort of see. It's, like, curved. And the... What I learned about broken noses is if you break your nose, you gotta break it back right away so that it can heal. If you don't do that, you either have a crooked nose forever and learn to live with it, or if you wanna get it fixed five years later, you gotta break it back five years later. So you can either break it back now while it's already broken and then let it heal, hopefully once and for all, or you can kinda wait for it to go away and then decide that you're not happy with it, and it bugs you, and then you have to fix it, and then five years later you're stuck breaking your nose from scratch. This is the way that I think about a reputational blow is if, if there has been material reputational damage, you can either handle it in that moment and break the nose back and, and just fix it then and there while things are already bad or kinda let it fester, and then eventually you'll realize, like, you don't wanna live with this, and you have to address it. And now you're stuck with do I have a crooked nose forever, or do I have to break it from scratch?
+
+00:42:57,876 --> 00:43:08,736 [Co-host]
+One of the things that I read that's related to, uh, accusations and sort of corporate crises, you said, "If you're fighting a story with a statistic, you're losing." 
+
+00:43:08,736 --> 00:43:09,276 [Lulu]
+Yes. 
+
+00:43:09,276 --> 00:43:10,615 [Co-host]
+Double-click on that for me. 
+
+00:43:10,616 --> 00:44:12,836 [Lulu]
+You know the probably apocryphal Lenin quote about one death is a tragedy, a thousand deaths is a statistic? This is so true, and I think a good example of this is probably during the NAFTA debates, where it was about should we have free trade or not free trade. And the people who are pro-NAFTA or pro-trade would say, "It'll lift our GDP by this much. It'll, it'll help facilitate this much, um, flow of trade and do these..." It was, like, very nebulous, 'cause what is 2% versus 1% versus 8%? Like, the average person, it doesn't- that doesn't mean anything to them. Whereas if you're anti-trade and you could say, like, "This is Shane. He's got 12 children. He just lost his job," people will do anything to help Shane with 12 children who just lost his job versus the 2% of potential growth just doesn't mean anything. It's why when, um, charities try to get you to give money, they're like, "This specific child." So on the, on the poster, on the recruiting thing- 
+
+00:44:12,836 --> 00:44:12,906 [Co-host]
+Yeah 
+
+00:44:12,906 --> 00:44:29,646 [Lulu]
+... it's never, like, 50,000 children, or at least if they're doing a good job, it's not. If they're doing a good job, it's like, "This is one little girl, you know, staring into the camera. She has this sickness. She needs $10. Right? Can you just do that?" Or even if it's save the pandas- 
+
+00:44:29,646 --> 00:44:29,696 [Co-host]
+Yeah 
+
+00:44:29,696 --> 00:44:32,166 [Lulu]
+... it's like, "This panda [laughs]" 
+
+00:44:32,166 --> 00:44:32,886 [Co-host]
+Yeah. It's very specific. 
+
+00:44:32,886 --> 00:44:57,416 [Lulu]
+"This panda, it has a name." And so we always want to, we, we want to influence a story and help a person. For us, the reward of getting cataract surgery for one person is much more powerful than changing a percentage from 2.1 to 2.105. 
+
+00:44:57,416 --> 00:45:00,236 [Co-host]
+How does that influence politics and, like, the way that- 
+
+00:45:00,236 --> 00:45:00,306 [Lulu]
+Yeah 
+
+00:45:00,306 --> 00:45:01,416 [Co-host]
+... people think en masse? 
+
+00:45:01,416 --> 00:45:01,576 [Lulu]
+Yeah. 
+
+00:45:01,576 --> 00:45:02,266 [Co-host]
+'Cause politics- 
+
+00:45:02,266 --> 00:45:02,376 [Lulu]
+Yes 
+
+00:45:02,376 --> 00:45:03,136 [Co-host]
+... is so much about- 
+
+00:45:03,136 --> 00:45:03,206 [Lulu]
+Yes 
+
+00:45:03,206 --> 00:45:04,496 [Co-host]
+... this story. 
+
+00:45:04,496 --> 00:45:06,376 [Lulu]
+The great presidential, uh, 
+
+00:45:07,436 --> 00:45:07,995 [Lulu]
+campaigns 
+
+00:45:08,996 --> 00:46:05,616 [Lulu]
+w- are very good at telling specific stories about here's the way something should've been, here's where it all went wrong, and here's what needs to do to bring about a happy ending, and we're almost there, and help me take us to the happy ending. Like, that's every story, right? The Shire is green and beautiful, and then Sauron starts to wage war, and in order to make things right again, the ring needs to go into the volcano. Every great story is some version of here's how things should be and here's something wrong and here's what it takes to fix it, and the great politicians make themselves the thing that it takes to fix it, and you can help them get there. And along the way, they're telling stories about this one single mother sitting at the breakfast table over this bill for this specific type of cancer that her husband, whose name is Joe... Like, that is the message that gets people to care as opposed to help me take, help me turn 2% into 2.1%. 
+
+00:46:05,616 --> 00:46:21,476 [Co-host]
+In the interest of better political discourse around the world, how do you argue with that if you're the opposition when your opponent is telling a story, but factually it has no basis in reality and you're coming out arguing with facts, which isn't gonna win? How do you, how do you counter that? 
+
+00:46:21,476 --> 00:46:27,946 [Lulu]
+You have to fight story with story. There's no... Like, the most powerful statistic 
+
+00:46:29,116 --> 00:46:49,656 [Lulu]
+is probably not as powerful as the median story. [laughs] Like, the most powerful statistic is not as powerful probably as the average story. If someone is fighting you with stories, you have to fight with stories. Out of the statistics will be better stories. Under the statistics are more powerful stories. So the facts are on your side, better stories can be found, 
+
+00:46:50,736 --> 00:47:27,986 [Lulu]
+and if your opponent is actually lying and there's skullduggery, maybe there's a story about that. Like, in the, in the tech world, we're seeing a very interesting story play out between Rippling and Deel, which are these two payroll processors, and Deel planting a spy, and the spy, like, [laughs] running into the bathroom and then try to flush a phone. I mean, it's very vivid. And so all this back and forth about you spied on us and we spied on you, and you told pe- people this, and our revenue is this, but you claim you're... Like, all of that fades into the noise, and people are just picturing, like, the spy hiding into the bath- in the bathroom trying to flush a phone. 
+
+00:47:28,996 --> 00:47:34,356 [Lulu]
+So if someone is actually lying and attacking you, maybe there's a story to be told about that. 
+
+00:47:34,356 --> 00:47:41,496 [Co-host]
+How much of our minds are driven by headline when it comes to this stuff? Whoever frames it seems to have an advantage. 
+
+00:47:41,496 --> 00:47:52,196 [Lulu]
+Whoever comes out first has an advantage. Um, this is... Winston Churchill says the, "A lie makes its way around a r- around the world before the truth can get its pants on." And when you- 
+
+00:47:52,196 --> 00:47:53,416 [Co-host]
+That's a great quote. 
+
+00:47:53,416 --> 00:47:54,746 [Lulu]
+[laughs] Yeah. Yeah. 
+
+00:47:54,746 --> 00:47:54,746 [Co-host]
+[laughs] 
+
+00:47:54,746 --> 00:48:33,656 [Lulu]
+Half the quotes attributed to Churchill are apocryphal, but they're, all of them are excellent whether they, he actually said it or not. [laughs] He spiritually said it. Uh, online you see this constantly where somebody will post something, and then sometimes there's a great rebuttal, and the rebuttal will get, like, one-tenth as much engagement as the original thing. And so there's a lot of value in simply saying the thing first, and if you think someone is gonna attack you for something, then you can get ahead of it and do the pre-rebuttal, the prebuttal. Uh, I think the prebuttal should be a thing. Y- if you know what people are gonna attack you for, do the prebuttal. So have you seen the Eminem rap battle in 8 Mile? 
+
+00:48:33,656 --> 00:48:37,336 [Co-host]
+Yes, the final one, "I know everything you're about to say against me"? 
+
+00:48:37,336 --> 00:48:37,796 [Lulu]
+Yes. 
+
+00:48:37,796 --> 00:48:38,116 [Co-host]
+Yeah. 
+
+00:48:38,116 --> 00:49:18,471 [Lulu]
+And everybody should do this. I actually think, um, there should be just a clip. I, I wanna find a clip of the final rap battle and just make it mandatory viewing for anyone who's in the public eye and has haters and people attacking them because what he says, hopefully everyone's already seen this, uh, cinematic masterpiece, but what he does is in this rap battle, Eminem's character, he goes first, and everything that the guy would've used against him-He uses against himself and addresses all of it, and he either owns it or diffuses it, and then by the end, the other guy actually has nothing left to say. So just being first means that you have the opportunity to do that. If that, if the order had been reversed, the whole thing wouldn't have worked. 
+
+00:49:18,472 --> 00:49:29,292 [Co-host]
+That was a... I love that final, uh, battle. And apparently, and for people who geek out on this stuff, there's a lot of unedited clips from when they were recording where they actually did freestyles. 
+
+00:49:29,292 --> 00:49:29,712 [Lulu]
+Mm. 
+
+00:49:29,712 --> 00:49:32,811 [Co-host]
+Uh, and everybody wanted to challenge Eminem. 
+
+00:49:32,812 --> 00:49:33,392 [Lulu]
+Oh, I'm sure. 
+
+00:49:33,392 --> 00:49:38,042 [Co-host]
+Of, you know, I'm never gonna be on stage with you, but, like, in this studio right now. 
+
+00:49:38,042 --> 00:49:38,052 [Lulu]
+Mm. 
+
+00:49:38,052 --> 00:49:40,092 [Co-host]
+And so people were going off script all the time. 
+
+00:49:40,092 --> 00:49:50,442 [Lulu]
+Oh, that's cool. Yeah, I talked to a UFC fighter who's actually, like, UFC Hall of Fame, and he says that whenever he goes to a bar, he doesn't want people to know that he's a professional fighter 'cause all the guys try to fight him. [laughs] 
+
+00:49:50,442 --> 00:49:55,392 [Co-host]
+Of course, yeah. Legend has it, Ken Shamrock used to use bars as training. 
+
+00:49:55,392 --> 00:49:55,732 [Lulu]
+Oh. 
+
+00:49:55,732 --> 00:49:57,362 [Co-host]
+So he used to go to the bars- 
+
+00:49:57,362 --> 00:49:57,362 [Lulu]
+That's pretty good 
+
+00:49:57,362 --> 00:49:59,372 [Co-host]
+... and, like, use it as training ground. 
+
+00:49:59,372 --> 00:50:58,222 [Lulu]
+On that, a lot of power in just sparring. Like, when you listen to, whether they're CEOs or f-founders, political figures, the people who spend a lot of time sparring are sharper than the people who haven't had to spar. They are just sharper and better. So, like, Charlie Kirk, um, he's a right-wing activist. He goes around to campuses. He literally just parks himself at a campus, and then all these college students who hate him line up and fight with him verbally. They argue with him, and he just, like, chops them down systematically, or he engages with them. Like, it's not disrespectful. He engages with their ideas, and then he has these debates, and this, he just does this basically as a full-time job, and he is now incredibly sharp. Ben Shapiro is the same. These are people who have had to defend every single thing. If you're Ben Shapiro, you walk outside and say the, "The sky is blue," people would say, "Well, of course you would think that, you Zionist." He would have to defend it. Like- 
+
+00:50:58,222 --> 00:50:58,222 [Co-host]
+Yeah 
+
+00:50:58,222 --> 00:52:01,512 [Lulu]
+... everything, they've had to defend repeatedly, and as a result, they're very sharp. You can say that you disagree and you think their opinions are bad and wrong. It's very hard to say that they're not sharp or they're not smart and they're not great on the stump because they objectively are. Even the people who hate them and hate their positions can't say that they're dumb. Um, and that's the same for CEOs like Palmer or like Toby where they don't surround themselves with yes men. They put themselves into situations that might be mixed, hostile, skeptical. They welcome the skepticism. They engage, and as a result, they are incredibly sharp, and they don't freeze when they're confronted with skepticism. Whereas when you see sometimes CEOs that have been more coddled, where they've been, like, the god-king of their company and everything they say is right and true and brilliant, they're the most handsome and smart person everywhere they go, if someone disagrees with them online or they're getting dunked on, they actually don't really know what to do, and so they outsource it to the comms team, and it just sort of unravels from there. 
+
+00:52:01,512 --> 00:52:14,322 [Co-host]
+That's really interesting. How would you go about getting better at sparring? Like, if you wanted to start learning how to defend your opinions better or to realize that you're wrong, so it's not even defending your opinions, it's, like, putting them out there and then- 
+
+00:52:14,322 --> 00:52:14,322 [Lulu]
+Mm 
+
+00:52:14,322 --> 00:52:17,972 [Co-host]
+... sort of getting feedback from the world and adapting. How do you think about that? 
+
+00:52:17,972 --> 00:53:35,612 [Lulu]
+I think it's about who you surround yourself with and getting people who will tell you in the safety of your inner sanctum when you're wrong so that you can start sparring in a s- in a more sterile environment. Like, you can start... You don't have to go and start sparring with the blue water internet. You can start with just people that you trust, and it's not gonna do any damage. But if you don't even allow people close to you to disagree and spar with you, and if you penalize people who speak up against you, then what you're doing is you're making yourself incredibly intellectually brittle so that when you go out into the world and get faced with who knows what, you're completely unprepared. And that unpreparedness e- shows either in live interviews. Sometimes you see people in live interviews just, like, lock up and they freeze. No one on their team has told them that they sound bullshitty, and so suddenly the reporter's telling them and they don't know what to do. Or they just freeze and hide and go away, and they don't engage. And now it's just like you're lying on the ground while people punch you. So I think it's just who you surround yourself with. It's kind of like you want your friends and family to tell you if you have broccoli in your teeth so that you don't have to go out into the street. But if you yell at them for doing that and they stop telling you, now you just walk around all day with broccoli, and then someone else will point it out. 
+
+00:53:35,612 --> 00:53:45,522 [Co-host]
+One person I know, and I, I won't mention their name, but they block everybody who sort of disagrees with them on Twitter or X or whatever you call it now, and I worry about this in my head- 
+
+00:53:45,522 --> 00:53:45,882 [Lulu]
+I've seen them do that. [laughs] 
+
+00:53:45,882 --> 00:53:48,702 [Co-host]
+... because, like, how does this play out, right? 
+
+00:53:48,702 --> 00:53:48,712 [Lulu]
+Yeah. 
+
+00:53:48,712 --> 00:54:01,952 [Co-host]
+Like, for the long term, you know? It's like you stop getting information that's different than your worldview, and if you become a bit more fragile, I think, in that case. Do you agree with that? Or, like, what, when do you block? When do you not? What do you think? 
+
+00:54:01,952 --> 00:54:03,992 [Lulu]
+I'm, I'm a big muter. 
+
+00:54:03,992 --> 00:54:04,172 [Co-host]
+Okay. 
+
+00:54:04,172 --> 00:54:20,312 [Lulu]
+Where it's like, okay, if I've said something and you think it sucks, then feel free to dunk on it. I've decided to say it. I'm not gonna say it only to people who agree with me. I think if someone is, like, abusive or threatening, maybe that's a block situation. 
+
+00:54:20,312 --> 00:54:20,672 [Co-host]
+Okay. 
+
+00:54:20,672 --> 00:54:22,602 [Lulu]
+But I'm a big muter, where it's like 
+
+00:54:23,812 --> 00:54:26,492 [Lulu]
+I just don't wanna pollute my feed with your nonsense. 
+
+00:54:26,492 --> 00:54:26,792 [Co-host]
+Yeah. 
+
+00:54:26,792 --> 00:54:44,552 [Lulu]
+Um, and it's different from disagreeing. It's more like if you are just negative and rude and toxic in other ways. So the way that I do it is if someone just disagrees, I actually wanna see that. 
+
+00:54:44,552 --> 00:54:44,792 [Co-host]
+Right. 
+
+00:54:44,792 --> 00:54:45,662 [Lulu]
+I don't wanna insulate. 
+
+00:54:45,662 --> 00:54:46,022 [Co-host]
+Oh, me too. Yeah, yeah. 
+
+00:54:46,022 --> 00:55:31,159 [Lulu]
+Yeah, I don't wanna insulate myself from that. I wanna see it. Maybe I wanna engage with it. Maybe I wanna have some of that back and forth. Um, especially when I was working in video games, you know, gamers are so passionate and have no tolerance for nonsense, and I really respect them for that, even the ones who hated me or hated my company, and I really valued the opportunity to go back and forth. And people, and-Gamers are really funny too. Like, they- their love language is memes. They would make memes of me, sometimes nice, sometimes really, ugh, like [laughs] I cringe to, to think of them. And, and yet, that's part of the discourse and I would make memes back and, and we would interact. But if it's like, uh, just rude and nasty, then I don't need to subject myself to that. I'm gonna leave the proverbial room, so that's a mute. 
+
+00:55:31,160 --> 00:55:50,000 [Co-host]
+What if there's asymmetry in the communication? And think about this as like a newspaper, uh, maybe coming after a small company, or left-leaning media going after right, uh, leaning sort of politicians or something. There's like an asymmetry to this. How do you deal with that if you're on the other side of that asymmetry? 
+
+00:55:50,000 --> 00:55:51,200 [Lulu]
+What's the asymmetry? 
+
+00:55:51,200 --> 00:56:03,790 [Co-host]
+Well, the asymmetry is, like, there's a whole bunch of money, power, reputation behind, um, you know, if the New York Times were to write a story on a small business, uh, it could kill that business, and it might or might not be true. 
+
+00:56:03,790 --> 00:56:03,800 [Lulu]
+Mm-hmm. 
+
+00:56:03,800 --> 00:56:06,900 [Co-host]
+But that business might only have five people working for it. 
+
+00:56:06,900 --> 00:56:07,500 [Lulu]
+Yeah. 
+
+00:56:07,500 --> 00:56:09,540 [Co-host]
+How do they-- How do you think about that? 
+
+00:56:09,540 --> 00:56:26,510 [Lulu]
+I think God smiles on underdogs, and I think that if you are blessed to be in an underdog position, you should try to take advantage of it. It's not gonna feel like a blessing [laughs] in the moment. It'll feel really horrible. But there is something to being so clearly punched down on- 
+
+00:56:26,510 --> 00:56:26,540 [Co-host]
+Mm. 
+
+00:56:26,540 --> 00:57:50,940 [Lulu]
+-that gives you more power and liberty in that moment, where people will naturally sympathize with the underdog. People are naturally very skeptical of big mainstream corporate media right now. People are very skeptical of bullies. And so if you're in the receiving position of that, I think you can actually use that. 'Cause if you, if you realize that you're not trying to win over every single person in the world, but that there's a, a certain set of people you need to win over who are aligned with you, then actually all you need to do is help them understand that you and they are on the same page, and an attack on you is an attack on them, and use that to rally them to you. So I think that a hit piece is not the worst thing that can happen. There's a, there's a kind of horseshoe where a great piece, fine. A hit piece, fine. Kind of fine. You can use it. Doesn't feel good, but you can use it. What you don't want is the uncanny valley where it's not a hit piece, but it has information about you that while it doesn't sound aggressive or hostile, makes you look horrible. Like, that's the worst way of looking bad, is not even being attacked and looking bad. It's not the mainstream media's coming after me, and they have an agenda, and they hate what I stand for. It's just, "Oh, they reported this fact and it makes me look horrible." Th-that's like the uncanny valley where you, you don't want that, or it's, like, mixed, but a straight up hit piece I think is okay. 
+
+00:57:50,940 --> 00:58:00,880 [Co-host]
+And then when you talk about sort of like rallying your, the people like you and making... Is that spreading your surface area out, so it's like you're not just attacking me, you're attacking everybody who's like me? 
+
+00:58:00,880 --> 01:00:03,700 [Lulu]
+Yeah. So I, I sometimes refer to an equation in physics, which is P equals F over A. The pressure equals the force divided by the surface area, and it-it's very intuitive, right? Like, the same amount of force, if you spread it over a wide surface area, doesn't exert a lot of pressure. So think of like a, a big sheet of paper that's pushing down, versus if the surface area contracts, then the same amount of force creates a lot of pressure, so, like, a needle can puncture through. So, like, a big sheet of paper, really hard to puncture through. Needle can puncture through. Or it's the same when you're trying to rip fabric. If you're just tearing fabric, it's really hard, but if there's a tiny nick already, the whole thing just comes open. And so the way to think about this is if you're trying to relieve pressure, you don't get to change how much force is coming at you, but you can change the surface area. You can spread it out over more surface area. You're not just attacking me, you're attacking all of us. You're not just attacking, let's say, Sub Stack or, or a, a Sub Stacker for a specific post. You're attacking all independent writers who are trying to assert their freedom of expression. That's a way to diffuse the pressure on you and rally people to you, uh, in a very powerful way. And then if you're ever on offense, not that you wanna be the antagonist and go after someone and attack someone, but someti-sometimes you need to go on offense just to defend yourself. If you're going on offense, then you actually wanna maximize the pressure and you decrease the surface area. So for example, if, if the media is attacking you in a very unfair way, the worst thing you can do is just complain about the media. If the surface area of what you're complaining about is too big, then you sound like a tinfoil hat, like, "The, the media's after me and the government's after me, and also the CIA's after me, and also the weather is not good." It-it's, it's too much. Whereas if you narrow it to say, "This specific reporter has had a vendetta against my company because their cousin runs a competitor," or whatever, that is actually a lot more effective and more credible and you're maximizing the pressure on that person. 
+
+01:00:03,700 --> 01:00:08,080 [Co-host]
+I like that a lot. Double-click more on the offense, if you're playing offense here. 
+
+01:00:08,080 --> 01:00:08,379 [Lulu]
+Hmm. 
+
+01:00:08,380 --> 01:00:09,559 [Co-host]
+What does that look like? 
+
+01:00:09,560 --> 01:00:11,120 [Lulu]
+How do you tactically do it, or? 
+
+01:00:11,120 --> 01:00:20,380 [Co-host]
+Well, so this is offense as a defensive response, so you know, you're attacking a reporter. What's offense without a response look like? Like, what does instigation look like? 
+
+01:00:20,380 --> 01:00:21,770 [Lulu]
+Yeah. So I- 
+
+01:00:21,770 --> 01:00:26,939 [Co-host]
+If you're trying to pick a fight to get attention, if you're, uh, trying to preempt something, if you're- 
+
+01:00:26,940 --> 01:02:19,519 [Lulu]
+Yeah. Sometimes a good way to succeed as an underdog is to pick a fight. Now, I don't suggest picking a fight just to be mean, and you never wanna be punching down, or you be the bully. That's not good. But if you are starting from basically nothing and you need to gather steam and, and gather people to join a movement, make yourself relevant, then it's good to have something to fight for. You need to have a cause, and often with a f- cause, you need to have a foil. So yes, there's something you wanna see in the world, but there's something that you wanna change. There's something that you are against. And so I think that it's very worth choosing a foil, and maybe the foil is the stranglehold of the existing financial system. Maybe the foil is this one specific regulation. So Boom Supersonic, uh, Blake Scholl runs it. It's the first civilian privately, uh, created supersonic plane.They've been lobbying and fighting and struggling against this one specific bad piece of legislation that's, like, outdated from fifty years ago that's basically a speed limit in the sky because at the time planes made this big boom when, when they, when they went fast, and people didn't like the big boom 'cause it's disruptive, so they said, "You're not allowed to go fast." The real thing should've been you're not allowed to be noisy, but they just made it you're not allowed to go fast. Now that we're able to go fast without being noisy, you're still not allowed to go fast. So he was able to actually help influence getting this legislation overturned, and that was a big win. But he wasn't attacking anybody, he wasn't being mean to anybody. He just said, like, uh, pinpointing this is the thing that's holding back speed in America, not just for me, but for industry and for a lot of things broadly, um, beyond just my company, and was able to help- 
+
+01:02:19,519 --> 01:02:22,019 [Co-host]
+Kind of like this is indicative of a broader problem. 
+
+01:02:22,019 --> 01:02:22,110 [Lulu]
+Mm-hmm. 
+
+01:02:22,110 --> 01:02:24,480 [Co-host]
+It's affecting me in this way, but it's affecting everybody else. 
+
+01:02:24,480 --> 01:02:29,410 [Lulu]
+Yeah. But there's one specific thing to picture. If he had said the problem is red tape, 
+
+01:02:30,510 --> 01:02:41,150 [Lulu]
+that's nothing. You know? If the problem is bad regulations, eh. The problem is being slow and not moving fast enough as a country in general. Like, there's just nothing there. 
+
+01:02:41,150 --> 01:02:45,070 [Co-host]
+You have to be specific so people can sort of like see it or feel it. 
+
+01:02:45,070 --> 01:02:45,120 [Lulu]
+Mm-hmm. 
+
+01:02:45,120 --> 01:02:46,150 [Co-host]
+Is that the- 
+
+01:02:46,150 --> 01:02:46,960 [Lulu]
+Yeah. 
+
+01:02:46,960 --> 01:02:46,970 [Co-host]
+Yeah. 
+
+01:02:46,970 --> 01:02:51,430 [Lulu]
+There has to be something to attach these motions onto, and if it's just sort, sort of this, like, 
+
+01:02:52,990 --> 01:03:00,130 [Lulu]
+diaphanous idea in the ether, it's very hard for people to even congregate around something. 
+
+01:03:00,130 --> 01:03:05,370 [Co-host]
+Going back to physics for a second, how important is velocity when it comes to communication? 
+
+01:03:05,370 --> 01:03:35,900 [Lulu]
+Yeah. So I talk about velocity a lot because velocity is a vector. It has a magnitude and a direction. People talk a lot about magnitude. They don't talk about direction. So they ta- uh, this is what you were saying earlier with, like, people just say a lot of words, but it doesn't mean anything. And so sometimes it feels like the metric is just quantity of yapping, and we're gonna go on all these podcasts, and we're gonna deliver blog posts. Like, I've seen inside a lot of comms teams or agencies where their metrics and their KPIs for the quarter are 
+
+01:03:37,350 --> 01:03:45,370 [Lulu]
+two op-eds, three podcasts, four town halls. And, and it's all about quantity 
+
+01:03:46,890 --> 01:03:50,310 [Lulu]
+without talking about where are we trying to 
+
+01:03:51,350 --> 01:03:57,410 [Lulu]
+move the needle to. So it's kinda like, you know, the [laughs] you know the Claude logo that's- 
+
+01:03:57,410 --> 01:03:57,890 [Co-host]
+Yeah 
+
+01:03:57,890 --> 01:04:00,330 [Lulu]
+... you know, like, the starburst in, in all these different directions? 
+
+01:04:01,710 --> 01:04:55,130 [Lulu]
+You don't want your comms to look like that, where you're just, like, doing things in a bunch of different directions. You actually want your comms to look kinda like a line that builds towards a destination, and if you don't have the direction in mind, then it's just a bunch of frantic activity and wasted motion, some of which cancels each other out. So again, it goes back to don't worry so much about where are you going to say it. Worry about what are you gonna say. In none of these plans and strategies that lay out three town halls and four op-eds and whatever, I almost never see here's the idea that we wanna spread. Here is the idea that we're gonna spread, and everything needs to go in this direction, and what makes this idea interesting and worthwhile. It's just get the CE out there. It's get the CEO out there. Get him interviews. Get him onto the Shane Parrish podcast. What's he gonna say? Nobody knows. Just put him in the chair. 
+
+01:04:55,130 --> 01:04:58,910 [Co-host]
+I think that's interesting because, uh, I often wonder why this stuff happens, right? 
+
+01:04:58,910 --> 01:04:58,920 [Lulu]
+Yeah. 
+
+01:04:58,920 --> 01:05:13,950 [Co-host]
+Like, how do we end up in this situ- Like, why isn't the default behavior the, the correct behavior? And I, I often come back to the conclusion, uh, at some point somebody's coming to you, and it's like, "What did you do last week?" And then, "Oh, I organized a town hall." 
+
+01:05:13,950 --> 01:05:14,260 [Lulu]
+Yeah. 
+
+01:05:14,260 --> 01:05:17,540 [Co-host]
+"I, like, reached out to 72 different podcasts." 
+
+01:05:17,540 --> 01:05:17,590 [Lulu]
+Yeah. 
+
+01:05:17,590 --> 01:05:25,290 [Co-host]
+And, you know, it's not about, like, well, how do they matter? Well, I just... You know. I- it's sort of like this spray and pray approach. 
+
+01:05:25,290 --> 01:05:26,050 [Lulu]
+Mm-hmm. Yeah. 
+
+01:05:26,050 --> 01:05:32,799 [Co-host]
+Uh, but you always have a good story, so you can never get in trouble, right? Like, you're always doing... And then they can tell you to do something different. 
+
+01:05:32,799 --> 01:05:32,810 [Lulu]
+Yeah. 
+
+01:05:32,810 --> 01:05:34,790 [Co-host]
+But at that point you're getting specific. 
+
+01:05:34,790 --> 01:05:35,470 [Lulu]
+Yeah. 
+
+01:05:35,470 --> 01:05:35,610 [Co-host]
+Yeah. 
+
+01:05:35,610 --> 01:05:58,070 [Lulu]
+You're doing stuff. The three things for actually making a difference with your story are, one, what is the message? Don't just start saying stuff. Like, what is the core truth that you're gonna con- convince people of? And that's the overlap in the Venn diagram that we talked about. It's true, it's relevant to you, but it's also something that those people actually care about. 
+
+01:05:58,070 --> 01:05:58,100 [Co-host]
+Yeah. 
+
+01:05:58,100 --> 01:06:06,940 [Lulu]
+You gotta get that out there. So identifying the message. People kinda just skip this part. Like, just get the CEO on podcasts, and he'll open his mouth and stuff will come out. 
+
+01:06:06,940 --> 01:06:07,530 [Co-host]
+Mm-hmm. 
+
+01:06:07,530 --> 01:06:11,190 [Lulu]
+Two, what are the right mediums? So there are people who 
+
+01:06:12,290 --> 01:06:51,250 [Lulu]
+maybe should be on this podcast, maybe should be on Sean Ryan, maybe sh- they should be on Theo Von, maybe they should be on The New York Times. Like, it depends on who they're talking to and what they're trying to get accomplished. But people don't often think that way. They think about just what are the hot podcasts right now? They'll look at the Apple leaderboard and then, okay, the top ones on the Apple leaderboard are this. Let's try to go there. Who has the biggest distribution? Who cares about what's the biggest distribution? It's a vector. It's not about just magnitude. Magnitude means nothing without direction. In what direction is that distribution? Who are they distributing to? So in AI, for example, I work with a lot of AI founders and companies, and I've heard companies and founders try to... 
+
+01:06:52,370 --> 01:07:14,250 [Lulu]
+M- m- they're, like, doing comms activities. And then I ask them, "What's the goal?" "Well, the goal is actually recruiting researchers." Okay. Well, if you're trying to recruit researchers, why are you spending all this time on NPR? Do you think the researchers are listening to NPR? Do you think the researchers are, like, reading this whatever... I don't [laughs] I don't wanna dunk on anyone too bad, but, like, NPR actually is a good example. 
+
+01:07:14,250 --> 01:07:14,890 [Co-host]
+Yeah. 
+
+01:07:14,890 --> 01:07:38,503 [Lulu]
+They're probably reading, like, the Simon Williamson newsletter. They're probably reading this V Sub Stack. They're reading the Less Wrong, you know, comments. Like, this, this is, um, a totally different ecosystem that you actually haven't penetrated whatsoever. And so just putting it in the right medium. And then lastly, having the right messenger. So-A lot of the time we speak through 
+
+01:07:40,074 --> 01:08:06,054 [Lulu]
+press releases or spokespeople or a hired gun PR agencies when actually the founder just needs to go on video and talk as a three-dimensional human being and nobody's gonna-- Like, if you're the Wizard of Oz behind the curtain, it's very hard to trust you because people don't even know who you are. But if you just come out with your face and say it, that's more effective than an army of hired guns trying to say it for you. 
+
+01:08:06,114 --> 01:08:11,754 [Co-host]
+Well, let's use a recent example and compare and contrast the CrowdStrike response- 
+
+01:08:11,754 --> 01:08:12,074 [Lulu]
+Hmm 
+
+01:08:12,074 --> 01:08:13,554 [Co-host]
+... to the Coinbase response- 
+
+01:08:13,554 --> 01:08:13,834 [Lulu]
+Mm-hmm 
+
+01:08:13,834 --> 01:08:16,834 [Co-host]
+... to two big crises that were handled very differently. 
+
+01:08:16,834 --> 01:08:17,174 [Lulu]
+Hmm. 
+
+01:08:17,174 --> 01:08:18,694 [Co-host]
+I think that fits this, does it? 
+
+01:08:18,694 --> 01:08:19,334 [Lulu]
+I think so. 
+
+01:08:19,334 --> 01:08:20,834 [Co-host]
+Yeah. Can you walk us through that? 
+
+01:08:20,834 --> 01:09:54,634 [Lulu]
+Brian is very special in the sense that he has such a deep sense of right and wrong in what he believes in, that he, he has such high conviction that the thing he believes is right and true and good. Um, I happen to agree with him, but not everybody does. And when people don't, it doesn't bother him as much as it would bother an average person because his conviction is so deep that the opinion of a random person actually doesn't matter that much. He's also been forged by fire the same way that Palmer and some others have, where they've gone through this experience and felt the pain, and now they know that the normal slings and arrows of the quotidian haters don't amount to that much. And so I-I give you this preamble because the spinal fortitude of the person matters a lot. I don't know the CrowdStrike CEO, and I don't want to criticize because that was an insane time, and it feels very overwhelming. But it was an insane time for, for Coinbase, and the thing that held true was Brian is willing to put his face to his words and his words to his principles, and he was willing to say it from himself. He could have gone through spokespeople and then not had to take any of the comments and just kind of hid behind it. He could have used his people as a human shield, and he didn't. So that make-- that made a big difference that you s- you can see in the reactions of just what that did with people's confidence in him and of the company. And obviously, it's not a great situation, but he turned it into something that esta- that gave the company a really costly way to prove what its values were. 
+
+01:09:54,634 --> 01:10:02,034 [Co-host]
+I was really surprised by the CrowdStrike response in just terms of, like, it looked like a PR agency sort of handled that. 
+
+01:10:02,034 --> 01:10:03,554 [Lulu]
+I think lawyers wrote it. 
+
+01:10:03,554 --> 01:10:04,214 [Co-host]
+Yeah. 
+
+01:10:04,214 --> 01:10:06,374 [Lulu]
+I think probably a committee. I think the 
+
+01:10:07,514 --> 01:10:12,864 [Lulu]
+collective noun is maybe a bar. A bar of attorneys wrote it for him. [laughs] 
+
+01:10:12,864 --> 01:10:13,554 [Co-host]
+[laughs] 
+
+01:10:13,554 --> 01:10:17,694 [Lulu]
+And it, and it doesn't sound human because it's not human. A committee is not a human being. 
+
+01:10:17,694 --> 01:10:36,134 [Co-host]
+So, so walk me through if you were in that room, hypothetically, and all the lawyers are saying, "You, you can't go out there and just talk yourself. You can't open your surface area. You can't, you know, give more. You can't admit guilt. You can't, uh, do any of these things." How would you-- what would be your advice in that situation? 
+
+01:10:36,134 --> 01:10:42,634 [Lulu]
+Here's a, here's a big difference between the CEO and anybody else. 
+
+01:10:43,854 --> 01:10:54,034 [Lulu]
+Most other people, their job is to optimize for one specific thing. So lawyers, they're doing their job. Their job is to minimize legal risk- 
+
+01:10:55,214 --> 01:10:55,384 [Co-host]
+Mm-hmm 
+
+01:10:55,384 --> 01:10:59,174 [Lulu]
+... and to minimize the surface area of legal liability approaching zero. 
+
+01:11:00,294 --> 01:11:24,794 [Lulu]
+The CEO's job, and this is like a Hegelian political philosophy point of view of weighing and considering different factions and different interests, the CEO's job uniquely is to consider different interests and weigh them against each other to reach the net optimal outcome for the company. 
+
+01:11:26,054 --> 01:11:30,514 [Lulu]
+When this goes wrong, what it looks like is everybody gets scared of the lawyers- 
+
+01:11:30,514 --> 01:11:30,884 [Co-host]
+Yeah 
+
+01:11:30,884 --> 01:11:37,064 [Lulu]
+... and the CEO follows exactly what the lawyers say and dismisses every other interest. 
+
+01:11:37,064 --> 01:11:37,074 [Co-host]
+Yeah. 
+
+01:11:37,074 --> 01:12:22,994 [Lulu]
+They are not doing their job as the CEO, which is to weigh the interest against each other and find the net best outcome. They're folding to the lawyers, and they're making the lawyers supreme over everybody else, and I think that is probably what happened. That it's what happens a lot. The problem in the real world when this happens is by entirely considering legal risk, you're not considering trust, reputational risk, and all these other things. Trust, reputational risk, th- these are things that matter inherently. Just I don't even have to explain why they matter. Like, of course, they matter. But they also come at a cost if they're lost. So if you were to translate everything into dollar terms, legal liability might cost you a hundred million dollars. 
+
+01:12:24,094 --> 01:12:36,214 [Lulu]
+Yeah, it's not cheap. You know, you might have to go to court. It could drag on. But the loss in trust, the loss in future prospects, customers, employees who defect, that hire, that recruit that doesn't accept the job offer, 
+
+01:12:37,254 --> 01:12:38,834 [Lulu]
+it could add up to billions. 
+
+01:12:38,834 --> 01:12:40,734 [Co-host]
+But those costs aren't visible. 
+
+01:12:40,734 --> 01:12:42,914 [Lulu]
+They're not visible, and they're not immediate. 
+
+01:12:42,914 --> 01:12:43,234 [Co-host]
+Yeah. 
+
+01:12:43,234 --> 01:12:55,374 [Lulu]
+And you don't have a person who's advocating for that with all they've got, like the lawyers are advocating for the legal risk. So I've seen a situation where a company gets accused of something, 
+
+01:12:56,434 --> 01:13:03,834 [Lulu]
+and it's like so painful, but this happens, and it probably happens a lot. But this company gets accused of something, and it's false. 
+
+01:13:03,834 --> 01:13:03,914 [Co-host]
+Mm-hmm. 
+
+01:13:03,914 --> 01:13:26,474 [Lulu]
+It's really bad, but it's false. So the lawyers say, "Well, we're definitely gonna beat this in court, so all you have to do is keep quiet and don't say anything that could make the situation worse, and we'll beat it in court." What ended up happening was that keeping quiet and not saying anything let that narrative take hold and fester, and it ended up costing more than 10X 
+
+01:13:27,554 --> 01:13:45,434 [Lulu]
+more in reputational damage and lost opportunities and consumer trust and people boycotting and employees leaving the company and on and on and on. If the CEO does their job-That won't happen. But in the moment, the lawyers have everybody quaking in fear. 
+
+01:13:45,434 --> 01:13:46,274 [Co-host]
+Yeah. 
+
+01:13:46,274 --> 01:14:00,434 [Lulu]
+And they are the subject matter experts because there's potential litigation, and I'm the lawyer. So I don't actually even fault the lawyers. They are doing their job. What happened is the CEO was not doing their job, which was to weigh the balance of interests. 
+
+01:14:00,434 --> 01:14:10,554 [Co-host]
+And there's a bit of like asymmetry to loss aversion here too, right? Like 100 million versus like this vague thing that's not really immediate nor visible or- 
+
+01:14:10,554 --> 01:14:10,904 [Lulu]
+Yeah 
+
+01:14:10,904 --> 01:14:13,714 [Co-host]
+... but I probably know inside that is like- 
+
+01:14:13,714 --> 01:14:14,174 [Lulu]
+Yeah 
+
+01:14:14,174 --> 01:14:19,134 [Co-host]
+... outweighs the 100 million, but I can't sort of like pinpoint it. It's hard to argue. 
+
+01:14:19,134 --> 01:14:32,923 [Lulu]
+Yeah. Also, lawyers will say, you know, um, sometimes when a company screws up, a lot of times lawyers will say, "Don't apologize because if you're apologizing, you're admitting fault, and that makes it harder for us in the courtroom." In practice, 
+
+01:14:34,014 --> 01:14:52,194 [Lulu]
+I'm sorry, I, I know I'm not a lawyer. In practice, I've never seen someone lose a case because the CEO expressed human remorse and empathy, and that was the thing that made them lose in the courtroom. I'm-- I just haven't seen it. 
+
+01:14:52,194 --> 01:14:57,614 [Co-host]
+Well, there is also a temptation to apologize for things you haven't done because you think that's the easy way out. 
+
+01:14:57,614 --> 01:14:58,614 [Lulu]
+Mm-hmm. 
+
+01:14:58,614 --> 01:14:59,304 [Co-host]
+Walk me through that. 
+
+01:14:59,304 --> 01:15:00,054 [Lulu]
+Yeah. I think that's true. 
+
+01:15:01,414 --> 01:15:02,824 [Lulu]
+If everybody just 
+
+01:15:03,994 --> 01:15:08,814 [Lulu]
+apologized when they did something wrong and resisted apologizing when they did nothing wrong, 
+
+01:15:09,834 --> 01:15:30,234 [Lulu]
+so many problems would be solved. So many problems would be solved. It's when people mess up and refuse to take accountability and then get accused of something where they didn't do anything wrong and apologize for that just to make it go away, that everything gets muddled. And by the way, you lose all deterrent effect, and you become a really soft target because whether you apologize becomes arbitrary. 
+
+01:15:31,494 --> 01:15:51,754 [Lulu]
+If your apology and your, um, subsequent contrition and apo- attempt to make amends is not correlated with whether you did anything wrong, then, of course, everybody should come after you all the time because it's a lottery ticket, right? Just come after you, and then maybe they'll get a payout, maybe they'll get something out of you. Everybody should try. 
+
+01:15:51,754 --> 01:15:52,514 [Co-host]
+Yeah. Yeah. 
+
+01:15:52,514 --> 01:16:06,664 [Lulu]
+Right? That's the, that's the incentives that you're setting up. Whereas if you are the type of person to take accountability if you did something wrong and never accept responsibility if you didn't do something wrong and you stay true to your principles, 
+
+01:16:07,734 --> 01:16:18,364 [Lulu]
+y- y- there will be some pain in the beginning, but you do that a few times, and it sets up a very strong deterrent. You, you achieve strong deterrence like that wall facer- 
+
+01:16:18,364 --> 01:16:18,634 [Co-host]
+Yeah 
+
+01:16:18,634 --> 01:16:36,864 [Lulu]
+... in the dark forest in the novel. I'm sorry. Um, so, so it's super important to do that, and CEOs would solve a lot of their PR issues by simply apologizing only when they need to and not shirking accountability if they did something wrong. 
+
+01:16:36,864 --> 01:16:46,444 [Co-host]
+I wanna come back to politics just for one second. I don't wanna get into left or right. I, I wanna ask, do you think that Donald Trump is an effective communicator? 
+
+01:16:46,444 --> 01:16:47,674 [Lulu]
+Mm-hmm. 
+
+01:16:47,674 --> 01:16:50,574 [Co-host]
+What makes him effective at communicating? 
+
+01:16:50,574 --> 01:16:57,154 [Lulu]
+One is he speaks at like a third-grade vocabulary level. [laughs] Like he doesn't use words that nobody can understand. 
+
+01:16:58,994 --> 01:17:34,854 [Lulu]
+Maybe covfefe was a one time. Covfefe aside, he uses words where everybody knows what the words mean. Strong, great, bad, good. Everybody knows what these mean. I could read my seven-year-old a Trump speech, and they could kinda grasp what's going on. Or I could read to my immigrant parents, and they would know what's going on, or me, right? [laughs] Um, so, so one is just he uses normal, common words that have a very clear meaning, and it's so basic, but so many people just don't do it. 
+
+01:17:36,334 --> 01:18:50,014 [Lulu]
+The other is he has very strong deterrence. [laughs] He behaves very predictably. And so, and you know, as people will say, he's erratic. He does re- but he's kinda predictably erratic. Like his behavior patterns are actually quite predictable. And so if someone is a super Trumper or Trump fan, they know what they're a fan of. It's not like it's unclear. He, you know, he's this manufactured thing that sways in the wind, and he's like the John Kerry kite surfing video. He's this way one day, that way another day. We don't know. Like, it's very clear, and everybody who hates him already hates him. Sunk costs, it's baked in. But it doesn't continue to hurt him. Like peo- people who hate him aren't going to be more damaging to him tomorrow than they were yesterday, and the people who love him, like, already are on board with this. You know, there's some stuff on the margin with swing voters, but it's very clear whether to be for or against him. He doesn't have to worry about his base shifting all the time because he's shifting all the time. The third is that he is really funny. [laughs] He is, he is the funniest president. I'm sorry. Trump is the funniest president. Um, Reagan, close second. He is-- 
+
+01:18:52,314 --> 01:18:53,234 [Lulu]
+And then Lyndon Johnson. 
+
+01:18:54,674 --> 01:19:11,294 [Lulu]
+He is legitimately funny, and being funny is an incredible communications hack. It gets people's attention. It makes them keep tuning in and keep listening. You know, just keeping attention is harder than getting attention. 
+
+01:19:11,294 --> 01:19:11,364 [Co-host]
+Mm-hmm. 
+
+01:19:11,364 --> 01:19:31,754 [Lulu]
+And he's able to do both. And also, being funny makes you weirdly likable. There are people who hate everything about him forever, yes. There are also people who really don't like his positions and what he stands for and finds a lot of the things he does and says distasteful, and they can't help but have some weird feeling of liking because he makes them laugh. 
+
+01:19:31,754 --> 01:19:32,014 [Co-host]
+Yeah. 
+
+01:19:32,014 --> 01:19:46,274 [Lulu]
+Like he, he really diffuses, uh, situations by being funny. There's times when he has said something that might be really shocking or offensive or whatever, but he's done it in a hilarious way, and a lot of people sort of laugh along with him. So that, I think, is very underrated. 
+
+01:19:46,274 --> 01:19:54,924 [Co-host]
+Do you think, uh, again, not into politics, but do you think Karoline Leavitt, who's the White House press secretary, I think, do you think she's effective at communicating?
+
+01:19:55,790 --> 01:20:05,510 [Lulu]
+I think she is. Um, with her, a lot of it is body language. Again, uh, try... You know, separate this from... We're, we're separating this from the substance of do you agree with the policy- 
+
+01:20:05,570 --> 01:20:05,580 [Co-host]
+Yeah 
+
+01:20:05,580 --> 01:20:07,010 [Lulu]
+... and do you like this. It's just like- 
+
+01:20:07,010 --> 01:20:07,430 [Co-host]
+This is the person communicating 
+
+01:20:07,430 --> 01:20:10,010 [Lulu]
+... on the pure, like the form factor and the aesthetics, 
+
+01:20:11,610 --> 01:20:17,270 [Lulu]
+nails it. She does a wonderful job. She's really young. You know, she comes off as older than she is. 
+
+01:20:17,270 --> 01:20:17,650 [Co-host]
+Yeah. 
+
+01:20:17,650 --> 01:21:00,770 [Lulu]
+And then part of that is, um, you actually kind of see her grow into the role in the months that she's been behind the podium, which is kind of cool to see. But so much of communication is your body language and your bearing. You and I have talked about this. I'm like super nervous and sort of dying inside right now, but I'm trying to just like stay chill for you. [laughs] Um, for her, just showing confidence and ease and comfort and not showing anxiety or stress or anger or resentment is a big part of her persona. She comes off as a happy warrior. People love a happy warrior. She comes off as being confident in what she's saying, even though sometimes if you actually just parse the words in writing, sometimes you'd be like, "I have some follow-up questions." 
+
+01:21:00,770 --> 01:21:01,150 [Co-host]
+Yeah. 
+
+01:21:01,150 --> 01:21:06,510 [Lulu]
+But the way that she delivers it is so comfortable, and it's the bearing of somebody who has the facts on their side. 
+
+01:21:06,510 --> 01:21:13,850 [Co-host]
+Yeah. It's interesting. Uh, just coming back to the politics, uh, aside part, so many people just shut their brain off- 
+
+01:21:13,850 --> 01:21:14,070 [Lulu]
+Mm-hmm 
+
+01:21:14,070 --> 01:21:19,240 [Co-host]
+... uh, when, you know, when I post like a quote in the newsletter from somebody they might not like. 
+
+01:21:19,240 --> 01:21:19,850 [Lulu]
+Mm-hmm. 
+
+01:21:19,850 --> 01:21:24,520 [Co-host]
+Uh, nobody's more controversial than Elon. I'll post like a little quote from Elon in there. 
+
+01:21:24,520 --> 01:21:24,530 [Lulu]
+Yeah. 
+
+01:21:24,530 --> 01:21:29,250 [Co-host]
+And then people are like, "I can't believe you quoted Elon. I had so much respect for you, but now..." And I'm like- 
+
+01:21:29,250 --> 01:21:29,920 [Lulu]
+Yeah 
+
+01:21:29,920 --> 01:21:38,670 [Co-host]
+... d- are you like the substance of what he was saying and what I'm trying to convey? Or, uh, we just have this reaction to people where we shut down. 
+
+01:21:38,670 --> 01:21:43,720 [Lulu]
+Yes. And it also goes the other way, where if you like somebody, you automatically think- 
+
+01:21:43,720 --> 01:21:43,720 [Co-host]
+Mm 
+
+01:21:43,720 --> 01:22:03,270 [Lulu]
+... something is good and right. There's this thing called the halo effect, and, um, I, I treat it more, more broadly. I'll tell you how I think of the halo effect. There's a more like rigorous disciplined definition, but the way that I think of the halo effect is if you're good at-- if you're considered good in some arena, people think of you as good in some other arena. Like- 
+
+01:22:03,270 --> 01:22:03,990 [Co-host]
+Yeah 
+
+01:22:03,990 --> 01:22:11,450 [Lulu]
+... I was asking myself the other day, why do I care what Dave Portnoy thinks about pizza? [laughs] Right? Like [laughs] I, I- 
+
+01:22:11,450 --> 01:22:12,670 [Co-host]
+How did this happen? 
+
+01:22:12,670 --> 01:22:19,980 [Lulu]
+Why, like, why am I giving any credence to this man's taste in pizza? I've never had dinner with him and been like, "Oh, we, we have the same taste in pizza." 
+
+01:22:19,980 --> 01:22:20,090 [Co-host]
+Yeah. 
+
+01:22:20,090 --> 01:22:26,550 [Lulu]
+Why do I care? And it's like because he's done a really admirable job in the media- 
+
+01:22:26,550 --> 01:22:26,710 [Co-host]
+Yeah 
+
+01:22:26,710 --> 01:23:02,120 [Lulu]
+... with his company. I find it interesting and refreshing how he approaches media and his own company dealing with it. He's taken, I think, a very brave and principled stand on issues on Israel, which also is disconnected from Barstool, but it, it just has created this, uh, ladder of things that I tend to agree with him on, and now he says this pizza is good, and I'm like, "Okay, it's probably [laughs] good." It's what we were talking about earlier is like if you agree on certain things, people will sort of assume just using cognitive heuristics and shortcuts that you'll agree on another thing too. 
+
+01:23:02,120 --> 01:23:02,120 [Co-host]
+Yeah. 
+
+01:23:02,120 --> 01:23:44,790 [Lulu]
+And so there are people who say, "I don't belie- I don't agree with Elon on how he campaigned for this or this," or political or cultural position he has, "and therefore I don't think we'll go to Mars, and therefore I'm mad at Shane for including a quote in his newsletter." And this stuff just spreads because the data points that we have are relatively few, and we use those to actually draw outsized conclusions relative to what the data points merit. Another, another aspect of the halo effect as I think of it is who are you surrounding yourself with? This is super relevant for let's say AI companies and founders. If you're building a technology that is so mind-blowing and advanced and esoteric and confidential, 
+
+01:23:46,250 --> 01:24:01,990 [Lulu]
+you can't tell people, "Well, just go verify that it works." They can't verify that it works. It, it, it's not like you're selling a shoe and they try it on and, and yes, it's comfortable, they'll buy it. Like, they actually can't verify. They can't verify what you're doing with their data. They'll never be able to investigate for themselves- 
+
+01:24:01,990 --> 01:24:02,020 [Co-host]
+Yeah 
+
+01:24:02,020 --> 01:24:21,450 [Lulu]
+... whether you're respecting their privacy. They just have to use as proxies other things whether they trust or not. So they'll look at you, the human, as the mascot of the company and use you as a proxy. Like, this seems like a super libertarian guy who believes in individual freedoms, and therefore he's probably more likely to respect my privacy. 
+
+01:24:21,450 --> 01:24:21,810 [Co-host]
+Yeah. 
+
+01:24:21,810 --> 01:24:59,470 [Lulu]
+This is like Chris Best, who runs Substack, is just very skeptical of overly concentrated power and the way that that can be abused, has talked a lot about how he as a tech executive shouldn't have excessive power over people's speech, and you can conclude from that that Substack will probably be very minimalistic and disciplined in how they use my data. They're probably not gonna be selling my data to stuff, and this is just because of his ethos on these other things, and I probably trust his taste in pizza too. So, so that's another area where you could think of it as a halo effect. And then a last one is by the company you keep. Have you ever heard of the cheerleader effect? [laughs] 
+
+01:24:59,470 --> 01:25:00,030 [Co-host]
+No, I- 
+
+01:25:00,030 --> 01:25:15,970 [Lulu]
+Cheerleader effect is when a group of, um-- we'll all get canceled after this probably. But if, uh, y- um, if there's a woman of a certain attractiveness level and she stands in a group of attractive women, you'll think of all of them as really attractive. 
+
+01:25:15,970 --> 01:25:16,420 [Co-host]
+Mm-hmm. 
+
+01:25:16,420 --> 01:25:17,200 [Lulu]
+You know what I'm talking about? 
+
+01:25:17,200 --> 01:25:17,300 [Co-host]
+Yeah. 
+
+01:25:17,300 --> 01:25:17,930 [Lulu]
+Like, it's like- 
+
+01:25:17,930 --> 01:25:18,370 [Co-host]
+Yeah. Yeah. Yeah 
+
+01:25:18,370 --> 01:25:24,690 [Lulu]
+... Beyoncé looks great, and then Beyoncé with her beautiful backup dancers looks incredible, and they all look incredible. 
+
+01:25:24,690 --> 01:25:25,270 [Co-host]
+Yeah. 
+
+01:25:25,270 --> 01:26:05,094 [Lulu]
+This is true of founders and companies. Like, you see one founder on stage, they might be super impressive, and then if you were to see, like Y Combinator had this event recently where it was just star parade, and if you were to see Gary Tan and Sam Altman and Elon Musk and Satya Nadella on the same stage, it would be kind of more than the sum of its parts in terms of spectacle and awe. This is what companies can do, like with the company that they keep. So when Deal, for example-And it goes both ways, good and bad. So when Deal was being accused of having this ridiculous spy episode 
+
+01:26:06,114 --> 01:26:07,834 [Lulu]
+then the, uh, 
+
+01:26:08,994 --> 01:26:20,953 [Lulu]
+a co-founder of Brex sat down with the Deal guy and then Brex looked bad, and he ended up deleting it and so it, you know, there's like anti-halo effect- 
+
+01:26:20,954 --> 01:26:21,504 [Co-host]
+Right 
+
+01:26:21,504 --> 01:26:54,134 [Lulu]
+... as well. But basically the, the core idea here is people do not have enough information to make all the decisions they need to make. Some of it because they can't actually understand the technology you're building, or you're keeping it hidden from them. Some of it just because it's simply not available, but they still need to make all these decisions in the absence of sufficient data, and so they'll start using all sorts of incomplete deduction and, and mental shortcuts and you, you can direct these mental shortcuts. 
+
+01:26:55,254 --> 01:27:09,414 [Co-host]
+I wanna switch gears a little bit before we get into some of your frameworks. I wanna talk about practical insights that the office worker, uh, who's listening to this can use, whose primary job might be, you know, email, presentations- 
+
+01:27:09,414 --> 01:27:09,474 [Lulu]
+Mm 
+
+01:27:09,474 --> 01:27:10,604 [Co-host]
+... briefing notes. 
+
+01:27:10,604 --> 01:27:10,964 [Lulu]
+Mm. 
+
+01:27:10,964 --> 01:27:13,354 [Co-host]
+What advice would you give them? 
+
+01:27:13,354 --> 01:27:26,094 [Lulu]
+Yeah. There's a, there's a macro and a micro, so I'll start with the macro. The same way that, um, a founder needs to project an image of themselves and an image of their company and what they're doing, 
+
+01:27:27,194 --> 01:27:37,314 [Lulu]
+any person in any realm of their life needs to project an image of themselves. So I'm pro- y- you might project an image of yourself as a 
+
+01:27:38,374 --> 01:27:57,554 [Lulu]
+spouse or as a friend or as a business partner or as an employee, but in every scenario, the 40 billion data points about you as a fully rounded three-dimensional person is way overwhelming. Nobody actually brings their full selves to work. It's literally impossible. 
+
+01:27:59,694 --> 01:28:00,804 [Lulu]
+So you can either 
+
+01:28:02,294 --> 01:28:29,774 [Lulu]
+haphazardly let people see whatever they can make out from the random data points you give them, or you can be intentional and strategic about which ones you present. So let's say that there's 10 million things about you that are true, and in the work context, your boss and your colleagues are gonna remember, like, two. [laughs] And, and it's not because people are stupid, it's just because we don't hold that many things in our mind at the same time. 
+
+01:28:29,774 --> 01:28:30,113 [Co-host]
+Yeah. 
+
+01:28:30,114 --> 01:28:37,054 [Lulu]
+Like if I tell you Steve Jobs, you're like, "Okay, creative visionary, Stanford speech, died early." If I said name 20 things about Steve Jobs, 
+
+01:28:38,394 --> 01:28:46,354 [Lulu]
+you would falter past like five, and this is one of the best-known people, right? If I said name 40 things about Trump, you, you, you'd, you know, struggle. 
+
+01:28:47,514 --> 01:28:56,274 [Lulu]
+So at any given time, there's a very small number of things that people actually retain about us, and we can either be haphazard or we can be intentional. 
+
+01:28:57,894 --> 01:29:07,554 [Lulu]
+So at a macro level, I would say just as an employee in any role, as an employee, as a friend, be intentional about what you want those things to be, and then present proof points 
+
+01:29:08,574 --> 01:29:20,474 [Lulu]
+and foster that. And obviously it should be, uh, tethered to reality. It should be authentic. It can't be just like totally fabricated, but it can be a conscious decision of this is the best side of me in the workplace. 
+
+01:29:20,534 --> 01:29:22,814 [Co-host]
+What's an example of that that comes to mind? 
+
+01:29:22,814 --> 01:29:30,514 [Lulu]
+So if you are... Okay, give me a, give me an example of someone who works somewhere. Give me, give me, um, a hypothetical employee. 
+
+01:29:30,514 --> 01:29:37,074 [Co-host]
+Let's think about a VP working for a CEO of a cybersecurity startup. 
+
+01:29:37,074 --> 01:29:38,574 [Lulu]
+Okay. VP of what? 
+
+01:29:38,574 --> 01:29:39,874 [Co-host]
+Let's do comms. 
+
+01:29:39,874 --> 01:29:43,294 [Lulu]
+Okay, VP of comms. And what is the VP of comms like? You're the VP of comms. 
+
+01:29:43,294 --> 01:29:45,434 [Co-host]
+I'm making this up as we [laughs] 
+
+01:29:45,434 --> 01:29:47,374 [Lulu]
+You're the VP of comms. What's your career goal? 
+
+01:29:47,374 --> 01:29:50,534 [Co-host]
+Uh, to eventually probably become CEO. 
+
+01:29:50,594 --> 01:29:56,414 [Lulu]
+Okay. I actually, as an aside, I think that more comms people should have a path into a CEO role. 
+
+01:29:56,414 --> 01:29:56,574 [Co-host]
+Yeah. 
+
+01:29:56,574 --> 01:30:02,734 [Lulu]
+Um, 'cause that'll be one of the most important things for a company to pull off is being well understood. 
+
+01:30:02,734 --> 01:30:06,794 [Co-host]
+So I wanna be CEO. Uh, I've been hired. I've been in my job for two years. 
+
+01:30:06,794 --> 01:30:07,304 [Lulu]
+Mm-hmm. 
+
+01:30:07,304 --> 01:30:11,954 [Co-host]
+Uh, I know this guy's retiring or a girl's retiring in like 12 months. 
+
+01:30:11,954 --> 01:30:12,673 [Lulu]
+Okay. 
+
+01:30:12,674 --> 01:30:13,354 [Co-host]
+Uh, do that. 
+
+01:30:13,354 --> 01:30:20,554 [Lulu]
+So think about the product yourself that you are portraying. Your goal is you wanna be CEO. 
+
+01:30:21,994 --> 01:30:36,114 [Lulu]
+The people who will decide that are current CEO via the succession plan, the board via executive appointment, um, and personnel decisions, and also your team and colleagues via their feedback. 
+
+01:30:36,114 --> 01:30:36,694 [Co-host]
+Mm-hmm. 
+
+01:30:36,694 --> 01:30:47,634 [Lulu]
+Okay? So that's your audience. Now, what does the audience need to believe about you in order for them to wanna make that decision? Let's say they need to believe that you have executive presence- 
+
+01:30:47,634 --> 01:30:47,974 [Co-host]
+Mm-hmm 
+
+01:30:47,974 --> 01:30:55,674 [Lulu]
+... that you have a vision for the company, and that employees love you, and they would be stoked to work for you. Okay, so now you want them to believe these three things. 
+
+01:30:56,834 --> 01:30:59,954 [Lulu]
+How do you convey that to them? Message- 
+
+01:30:59,954 --> 01:31:00,334 [Co-host]
+Mm-hmm 
+
+01:31:00,334 --> 01:31:07,913 [Lulu]
+... medium, messenger. So the message is you believe that the future of the company should be X, Y, Z. 
+
+01:31:07,914 --> 01:31:08,334 [Co-host]
+Yeah. 
+
+01:31:08,334 --> 01:31:22,594 [Lulu]
+If they agree with that, maybe they should consider about having you CEO. If they don't agree with that, then probably you shouldn't be CEO, right? But, but this is what you truly believe. You believe that the future of the company should be X, Y, Z, and here's the role that employees will play in it. What's the form in which you convey that to them? 
+
+01:31:23,614 --> 01:31:42,694 [Lulu]
+You can write a memo. You can make this... You can start a new initiative on your team. You can roll out a campaign portraying the company that way. You can, um, advocate for a new partnership portraying the company that way. You can start pointing the company in that direction. You can start identifying problems or obstacles for the company being viewed in that way, 
+
+01:31:43,754 --> 01:32:10,386 [Lulu]
+and you can make sure that you're an incredibly great boss to your employees and that you're beloved, and that the messengers should be not just you saying, "Here's my vision," but that there are other... you, uh, convince other people on the executive team to champion your vision, maybe collaborate with them. Maybe you and the VP of product work together on something. Maybe you and the VP of engineering partner on some sort of series.Anyone can and everyone should 
+
+01:32:11,426 --> 01:32:26,726 [Lulu]
+be strategic about the image of themselves that they're presenting to the world and the product that is themselves that they're selling to any given market. So if you're dating you are a product for a certain consumer, 
+
+01:32:28,026 --> 01:32:52,446 [Lulu]
+right? If you are trying to get married, you're a product for a certain consumer. If you are looking for a job, you're a product for a certain consumer, and if you're trying to get a promotion, you're a product for a certain consumer. If you're a founder, very obvious, you're a product for a certain consumer, for people to accept the job offer, for people to invest in you, for people to buy the thing that you made. So let's say that you are a mid-level designer and you're trying to get promoted to the next level up. 
+
+01:32:53,666 --> 01:32:57,046 [Lulu]
+Okay, your goal is to be promoted. You know that there's a goal. There's-- 
+
+01:32:58,126 --> 01:33:11,225 [Lulu]
+comms is a vector, not a scalar. There's magnitude. There's also direction. You know the direction you wanna go. Your goal is to get that promotion. Your audience is your manager and your skip-level 
+
+01:33:13,006 --> 01:33:24,026 [Lulu]
+and maybe your peers, because they're part of giving you a 360 review. You know your goal. You know your audience. What do they nee-they need to believe about you? They need to believe that you can manage people- 
+
+01:33:24,026 --> 01:33:24,566 [Co-host]
+Mm-hmm 
+
+01:33:24,566 --> 01:34:04,246 [Lulu]
+... and that you have vision for what should be done, and they believe that you are going to be at this company for a really long time. Okay, now how do you convey that to them? You can convey it to them through things that you write and create. You can convey it in the goals that you set for yourself. You can convey it in how you speak to your peers. You can convey it in products, uh, or projects that you kick off, in the initiative that you bring to new ideas, and the messengers are not only you, but your peers, your partners. You know, anyone trying to get a promotion kinda has a very similar template here, but with anything you want in life, 
+
+01:34:05,906 --> 01:34:22,506 [Lulu]
+anything you want in life, when you have a goal, there are people whose permission you need for that goal to happen. Whether you're trying to date or get married or get a promotion or start a company or fundraise or sell a product, there are people whose buy-in is required for you to meet that goal, 
+
+01:34:23,826 --> 01:34:26,646 [Lulu]
+unless your goal is, like, climb a mountain or something. Then, yeah, go train for a mountain. But 
+
+01:34:27,706 --> 01:34:57,406 [Lulu]
+in order to get the people to give you that buy-in, you need to convince them of certain things, and you need to be intentional of how you present a story to get them to believe that, and this is something that we probably really underutilize. I mean, people whose literal job is only communications don't even think that way, so I don't take it for granted that somebody who's really busy with other things should think that way, but I think everybody should. In any context in your life, you are a product that you are selling to a certain consumer. 
+
+01:34:57,406 --> 01:35:08,086 [Co-host]
+I love that. So that's the macro. What about the micro in terms of, like, how do I make my presentation better, my email better, my-- Like, what are the, the tips and tricks that you've learned that you wish everybody knew? 
+
+01:35:08,086 --> 01:35:11,186 [Lulu]
+It goes back to, what are you trying to say? 
+
+01:35:12,226 --> 01:35:16,786 [Lulu]
+People worry way too much about the form factor and not enough about what they wanna say, 
+
+01:35:17,866 --> 01:35:24,916 [Lulu]
+and so whether it's an email or a text or a phone call or a presentation, know the thing that you wanna say. 
+
+01:35:25,966 --> 01:35:28,726 [Lulu]
+Say that, then say why they should care, 
+
+01:35:29,746 --> 01:35:53,106 [Lulu]
+and if you can do that, you've won. Like, the, the vast [laughs] the vast majority of presentations or emails that are sent are more like, "I need to check the box and just get this thing done so I can move on with my day to do, I guess, more of these." But there isn't a clear view of this thing that has taken up five seconds of someone's time had a goal, and did you ch-achieve that goal or not? 
+
+01:35:54,606 --> 01:35:58,566 [Co-host]
+I like that a lot. I think most people don't even think about what they're trying to convey. 
+
+01:35:58,566 --> 01:35:58,626 [Lulu]
+Mm-hmm. 
+
+01:35:58,626 --> 01:36:07,646 [Co-host]
+They just sort of, like, do a brain dump, and then they give too much information, and then people don't know what to pull out of it, or they don't have enough time to make the message short. 
+
+01:36:07,646 --> 01:36:08,186 [Lulu]
+Yeah. 
+
+01:36:08,186 --> 01:36:12,326 [Co-host]
+Uh, and so they're giving... It, it's just really hard to communicate that way, and I feel like- 
+
+01:36:12,326 --> 01:36:14,116 [Lulu]
+And just use normal words, too. 
+
+01:36:14,116 --> 01:36:14,146 [Co-host]
+Yeah. 
+
+01:36:14,146 --> 01:36:42,466 [Lulu]
+Like, just use normal words. Please, normal words. Just use n-words where everybody knows what they mean. Sometimes there's, like, a very specific word that... So, uh, um, w- I'm not saying never use jargon, by the way. If you're talking to other people in the industry, jargon is a word that they all know what it means, so you can use that, because they all know what it means. If you're talking to sixth graders, you obviously wouldn't use jargon. So it's not about categorically always use this, never use that. It's about use words that the other person is going to know. 
+
+01:36:43,626 --> 01:36:48,446 [Co-host]
+You did your MA at Yale, uh, in counterterrorism. 
+
+01:36:48,506 --> 01:36:57,126 [Lulu]
+Uh, at the, uh, at the Fletcher School at Tufts. It's a law and diplomacy school. A lot of diplomats go there. I studied counterinsurgency. 
+
+01:36:57,126 --> 01:37:01,966 [Co-host]
+And your thesis was on narration as soft power? 
+
+01:37:01,966 --> 01:37:27,646 [Lulu]
+I didn't have to do one big... Oh, yeah, I d- [laughs] Yes. Okay, I, I, I wrote a bunch of things while I was there, but the, the main takeaway I have from that time is that when you look at insurgent groups, you can actually learn a lot of lessons that apply to startups, right? Here is something that is formed either from nothing or from something very small going up against something very big, going up a st-against a status quo. 
+
+01:37:29,026 --> 01:38:58,450 [Lulu]
+I obviously don't support terrorist tactics or insurgent tactics or violent extremism, but, I mean, the idea of trying to change the status quo, change the power structure, and create a new normal, it's incredibly hard to do, and in no context is it harder to do than in a country when the government... And usually it's not a government like ours. Usually it's, like, an authoritarian regime that is all-powerful, has a monopoly on so many things, including force, that you and a scrappy band of little bandits are gonna say, "We're gonna go replace them." It sounds absolutely insane. And now to get your first 50 followers, you have to go around and tell people, "Here's the thing.We're gonna replace the government with us. [laughs] And we're gonna be the new government, and they have the military and we have these four guys and me, and we're gonna win, and you should join us because we're gonna succeed. And maybe you'll die, but I'm pretty sure you- we can do this. Like, you should definitely come with us. That pitch is insane and it works. And so studying why it works and what it takes to do that I think is very instructive because for a startup you're saying, "Okay, we're gonna take on Google, and we're gonna be the next Google and we're gonna be bigger than them, and our company is gonna be worth trillions of dollars, and our market is in the quadrillions. And if you look at Google now, they're nothing compared to what we're gonna be, and it's... Yeah, it's just me and one other guy." [laughs] 
+
+01:38:58,450 --> 01:38:59,470 [Co-host]
+In my garage. 
+
+01:38:59,470 --> 01:39:10,410 [Lulu]
+[laughs] Yeah. Yeah, our office is my house, and it's just me and him, but it could be you. We have Wi-Fi. We have, like, $50,000, and some of it is from my parents. 
+
+01:39:10,410 --> 01:39:10,690 [Co-host]
+Yeah. 
+
+01:39:10,690 --> 01:39:38,450 [Lulu]
+And you could join. Uh, what's your pay? Like, uh, I... We- we can't pay you right now, but, like, we'll pay you something, and then we'll pay you more when we're able to get to it. How do you get that person to join? And that person's gonna leave, like, OpenAI or something and go do that? It actually sounds insane, but there's something ... It's irrational, but there's something, like, super rational, like something that supersedes rationality that actually 
+
+01:39:40,310 --> 01:40:35,190 [Lulu]
+takes another circuit in their brain. You know? It's like the amygdala hijack of the prefrontal cortex, but on a much bigger long-term scale where the thing that makes sense once you start to see the world through this new prism that I've convinced you to look at it through, the old thing t- actually doesn't make sense anymore. And in the new world that you can see that I've painted for you, my thing makes sense. You have to join my thing. This is when you see people, at a less extreme level, this is when you see people that take a pay cut to go do something they really believed in. I took a big pay cut to go join Substack. I mean, they paid really well, it's just that I was a, you know, a company owner before that, and never regretted it. I'm so happy I did that. There have been projects that I've done for free or for a dollar that I've been so happy to have been involved in. Um, sometimes you do the thing that doesn't make immediate sense because it's something you believe in. And if someone can make you believe, 
+
+01:40:36,290 --> 01:41:00,990 [Lulu]
+if someone can make you believe, they can circumvent the obvious logic in the moment and sign you on to something bigger. And this is how startups take off. Every great startup was two guys in a garage, and then three people, and then they get one person, and then they, they get Wi-Fi at some point [laughs] you know, and it go- and it goes from there. It's every startup sounds insane. 
+
+01:41:00,990 --> 01:41:14,670 [Co-host]
+There's, like, a talent collection aspect to it in a way, which is, like, an unfair advantage if you can collect talent, you can convince them to join you. If in this situation where I'm giving you what by all accounts would be an irrational promise- 
+
+01:41:14,670 --> 01:41:14,679 [Lulu]
+Mm-hmm 
+
+01:41:14,679 --> 01:41:15,390 [Co-host]
+... and message- 
+
+01:41:15,390 --> 01:41:15,650 [Lulu]
+Mm-hmm 
+
+01:41:15,650 --> 01:41:17,830 [Co-host]
+... I can convince you to come join me. 
+
+01:41:17,830 --> 01:41:19,929 [Lulu]
+There's a talent to recruiting the rebels. 
+
+01:41:19,930 --> 01:41:20,950 [Co-host]
+Yeah. 
+
+01:41:20,950 --> 01:41:39,410 [Lulu]
+But you will never recruit them through a spokesperson, and you will never recruit them if you don't look them in the eye and tell them in the first person that you're gonna keep your promises and you're gonna deliver this for them or you're gonna die trying, but it'll hopefully be the former. 
+
+01:41:39,410 --> 01:41:49,510 [Co-host]
+Yeah, definitely. One of the things you said that got my attention in a previous interview was that you have second-strike capability. What does that mean? Unpack that for me. 
+
+01:41:49,510 --> 01:42:11,750 [Lulu]
+It's ... It, it goes ... It relates to a, uh, to deterrence. So you might not want to be the aggressor, you might not wanna be out instigating and starting fights, but you wanna establish that you're not a soft target, and being a hard target can look a bunch of different ways. So at Shopify, one of the things that we're really proud of, I'm on the board and we have this wonderful general counsel, Jess, 
+
+01:42:12,810 --> 01:42:40,180 [Lulu]
+one of the things that we've been really proud of at the company is that Shopify has been in the past a victim of patent trolls that just go over... They just, uh, go out to companies and attack them, and then they settle, and then they get money that way. And Jess and her very strong team have decided that they're going to fight it every single time. And in the short term, super expensive, huge pain. Again, you, you take the pain upfront so that you don't have to live with chronic pain for the rest of your life. You get the surgery now so that you don't have to deal with it. And 
+
+01:42:41,450 --> 01:43:15,590 [Lulu]
+now Shopify gets no patent trolls. Zero. Zero. And so just establishing yourself as a hard target, or we talked before about Palmer, and if you cross him in any meaningful way, he will guaranteed hit back. He will not let it stand as a matter of principle. Doesn't matter legal advice, doesn't matter PR, but, like, he won't let it stand. You need to have something about you that's a little bit spiky. You know, be hard to step on. And if you can establish that upfront, you will make the rest of your life so much easier. 
+
+01:43:15,590 --> 01:43:21,830 [Co-host]
+I like that idea a lot. And I think for you it was, uh, it's not tit for tat, it was tit for two tats? 
+
+01:43:21,830 --> 01:43:45,810 [Lulu]
+It's tit for two tats. So when people study game theory, and I think this is an Axelrod idea where it's actually written up as a, um, from a series of experiments, which is people think of game theory as things like prisoner's dilemma, and when do you cr- you know, when do you cooperate versus defect, and there's a term called tit for tat. But in a repeated game where it's not just you meet each other once and leave- 
+
+01:43:45,810 --> 01:43:46,010 [Co-host]
+Mm-hmm 
+
+01:43:46,010 --> 01:43:50,540 [Lulu]
+... you know, prisoner's dilemma, all these games, uh, that we talk about a lot, it's like a one-time thing- 
+
+01:43:50,540 --> 01:43:50,540 [Co-host]
+Mm-hmm 
+
+01:43:50,540 --> 01:43:51,700 [Lulu]
+... with someone you don't know- 
+
+01:43:51,700 --> 01:43:51,770 [Co-host]
+Mm-hmm 
+
+01:43:51,770 --> 01:43:58,360 [Lulu]
+... and then you leave. If you and I knew each other for a really long time and then we had prisoner's dilemma, that might go differently, right? 
+
+01:43:58,360 --> 01:43:58,370 [Co-host]
+Yeah. 
+
+01:43:58,370 --> 01:44:34,486 [Lulu]
+Like, the pure rationality in the moment gets superseded by other factors. We believe in each other, we believe in some larger cause, right? It's like what we were talking about earlier, it's the hijack of the prefrontal cortex where the thing that makes obvious sense in the moment is not the thing that people choose because you've given them something bigger to believe in.Similar here. So if you have a one-time game, okay, tit for tat. If you have a repeated game of long-term relationships and repeated interactions, the optimal strategy is actually tit for two tats. And, um, what that means is you can cross me once, and maybe I'll let that go, 
+
+01:44:35,606 --> 01:44:43,546 [Lulu]
+but if you cross me the second time, I never will. And that is optimal balance between cooperation and deterrence. 
+
+01:44:43,546 --> 01:44:49,786 [Co-host]
+How does intent figure into that? Like, do you figure, uh, malicious intent into the tats? 
+
+01:44:49,786 --> 01:45:13,556 [Lulu]
+Yeah. Well, intent depends on trust, and if you know the person. So trusting the person and knowing the person and whatever your view and the model of that person is is one of those things that can override the immediate short-term logic of something. So for example, going back to recruiting for a startup in the earl- early days, "Okay, it's just me and one other guy. We're gonna beat Google. Do you wanna join us?" 
+
+01:45:14,646 --> 01:45:29,166 [Lulu]
+Everything about that speaks h- like, hallucinogenic liar. [laughs] And, um, nothing about that sounds real, except if you know me and you know that when I say I'm gonna do something, 
+
+01:45:30,206 --> 01:45:44,506 [Lulu]
+I do it. Even in cases in the past when it seemed crazy, I said I'm gonna do, I'm gonna do it. Now I'm gonna say I'm gonna do this other thing. That's something that supersedes the immediate obvious rationality of the moment to get you to believe in something bigger, and sometimes the something bigger is the person. 
+
+01:45:44,506 --> 01:45:45,326 [Co-host]
+Yeah. 
+
+01:45:45,326 --> 01:45:56,056 [Lulu]
+There are definitely people who you see dr- Like, I see this right now, people leaving really comfortable jobs or offers to join something where they don't actually know what it'll be in a year, 
+
+01:45:57,346 --> 01:46:15,836 [Lulu]
+but they're joining because they believe in the person, and if that person is involved, it'll probably work out. Like, there, there are people now who are thinking about starting a company, and people are basically offering them blank term sheets. "I don't know what I'm investing in. I'm investing in you, whatever you do. Here's, here's some money. I'm sure it'll work out." 
+
+01:46:15,836 --> 01:46:16,076 [Co-host]
+[laughs] 
+
+01:46:17,406 --> 01:46:28,526 [Co-host]
+I think that's a great place to wind up this interview. We always end... I mean, I could go on for another two hours talking to you. Uh, we always end with the same question, which is, what is success for you? 
+
+01:46:28,526 --> 01:46:33,756 [Lulu]
+Success for me is to open source a lot of what we're talking about here, 
+
+01:46:35,126 --> 01:47:31,986 [Lulu]
+specifically the idea that you can control your destiny. You can create alternate realities. You can bend reality. Reality is subjective anyway, right? You can bend it to your favor if you're able to communicate to people who matter in the ways that strike them in the heart and in the mind to get them to see the world the way that you do, so that you can come together and do something that doesn't make sense in the moment, but does make sense longer term. And if-- And open sourcing this means that people understand that they can just go and do this. They don't need to hire me. They don't need to hire consultants. They don't need to hire a team. They can. Like anything in the world is, is better with friends. You can have people help you with it, but you don't need to wait for anybody else. You can just take control of your destiny by deciding, "Here is where I'm going to go. Here's the direction I need to go in order to achieve this specific goal, 
+
+01:47:33,086 --> 01:47:36,266 [Lulu]
+and I'm going to bend reality until I can get there." 
+
+01:47:37,626 --> 01:47:40,366 [Co-host]
+That's awesome. We're gonna have to do part two of this at some point. 
+
+01:47:40,366 --> 01:47:41,526 [Lulu]
+All right. Super fun. 
+
+01:47:41,526 --> 01:47:42,366 [Co-host]
+This was amazing. 
+
+01:47:42,366 --> 01:47:42,876 [Lulu]
+Thank you. 
+
+01:47:42,876 --> 01:47:43,766 [Co-host]
+Thank you for coming on. 
+
+01:47:43,766 --> 01:47:44,426 [Lulu]
+Thank you. 
+
+01:47:44,426 --> 01:48:02,316 [Co-host]
+You've just spent your most valuable asset with me, your time. My commitment to you is that you get the best possible return on that investment moving forward. Subscribing and hitting that thumbs up button ensures my team and I can continue to bring you amazing conversations, like the ones on your screen right now. Until next time.

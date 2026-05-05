@@ -1,0 +1,1100 @@
+00:00:00,220 --> 00:00:18,860 [Interviewer]
+Today, I have the pleasure of sitting down with Lulu Cheng Meseri, the founder of Rostra. She helps some of the best founders in the world basically tell their stories. I want to start this off with the idea of, like, how do you start a cult? 'Cause many of the best founders in the world are incredibly good at building, like, a culture that other people wanna believe in. So how do you start a cult? 
+
+00:00:18,860 --> 00:00:20,200 [Lulu]
+Every cult needs a cult leader. 
+
+00:00:20,200 --> 00:00:21,060 [Interviewer]
+Mm-hmm. 
+
+00:00:21,060 --> 00:00:23,000 [Lulu]
+Y- you know how to destroy a terrorist group? 
+
+00:00:23,000 --> 00:00:23,259 [Interviewer]
+Go on. 
+
+00:00:23,260 --> 00:00:24,000 [Lulu]
+You ever done one? 
+
+00:00:24,000 --> 00:00:24,980 [Interviewer]
+I've never done that. 
+
+00:00:24,980 --> 00:01:20,620 [Lulu]
+The way to destroy a terrorist group is to make it acephalous. Acephalous, s- cephalous is this. Acephalous means you cut off the head. Without the head, the group has a very hard time to survive. Um, th- th- that is why anytime you're going after one of these decentralized groups or movements, you just go straight for the head. Um, so when, um, Alexander the Great was battling Darius, he ignored everybody and just went for Darius, right? And, and won the battle, where he was outnumbered, they were losing. So, um, w- how does this translate to a founder starting a cult, is you just signed up to be a cult leader. You didn't sign up to start a cult, you signed up to also run a cult and be the person that Alexander the Great is going to come charging for. You are the person that takes the slings and arrows. And so what does that mean in turn? Like, let- let's just unravel this whole chain of logic. What does that mean? You are the one that sets the vision. You are the one who has to recruit the first few num- or the first few members. Recruiting the first few members 
+
+00:01:22,240 --> 00:01:41,720 [Lulu]
+is the hardest thing you will ever do because you've got nothing and you look crazy. If you were gonna do something normal, you wouldn't be starting a cult, you'd be getting a fricking job. If you're starting a cult, you're doing something that doesn't exist, and it doesn't exist for a lot of really good reasons, which is that nobody is unhinged enough to try that. 
+
+00:01:41,720 --> 00:01:41,880 [Interviewer]
+Hmm. 
+
+00:01:41,880 --> 00:02:09,509 [Lulu]
+So now you're gonna try, and you're gonna convince the first person that it's possible and that they should leave their comfortable and lucrative lifestyle to come be with you, uh, probably damage their friendships and family relationships for a- an indefinite amount of time, sound worse than unemployed, probably not be able [laughs] to get a date, a- with, like, meager chances of success for equity that feels l- faker than an NFT. 
+
+00:02:09,509 --> 00:02:09,509 [Interviewer]
+[laughs] 
+
+00:02:09,509 --> 00:02:41,940 [Lulu]
+And you're gonna convince them that you're gonna do this, right? And then you have to do it a few more times. Now, if you do it enough, the cult recruits the cult. W- today, Christians recruit Christians, right? But imagine being the first. So i- it's like kids. Like, you have enough kids, the kids look after the kids. I- I've heard that after, like, five they start to really scale. I think with a company, after 10 or so, the people recruit the people. But the first few, the only way to do this, and there is no shortcut, is to sit across from someone, be willing to sound like a madman, 
+
+00:02:43,500 --> 00:03:02,200 [Lulu]
+and to be so committed to the bit that you're gonna look them in the eyes and you are going to essentially swear on your life that the thing you're telling them is possible can be done, must be done, and will be done by you. So it, it's, it's not a normal undertaking. It's very unnatural. 
+
+00:03:02,200 --> 00:03:04,940 [Interviewer]
+What makes a really good cult leader? 
+
+00:03:04,940 --> 00:03:06,900 [Lulu]
+So some people... I'll tell you what it's not. 
+
+00:03:06,900 --> 00:03:07,900 [Interviewer]
+Mm-hmm. 
+
+00:03:07,900 --> 00:03:30,860 [Lulu]
+Some people think it has to be, um, traditional charisma. I would say someone like Palmer has traditional charisma. He walks into the room, like he could walk into a room behind you and you feel it. Um, President Trump has this. I was at an event with President Trump, um, the first time he ran when nobody took his candidacy seriously, and he walked into a room and I realized he was in the room without seeing him. I was seeing the other people and I realized he had entered. 
+
+00:03:32,000 --> 00:04:34,180 [Lulu]
+Th- there's that, but there are different types of charisma. Um, so for example, Reiner Pope, who runs Madex, and if he watches this will be totally mortified, um, has, uh, has a, a really quiet but deep and substantive kind of charisma that if you are listening to him talk about this mission, you walk away completely convinced that it's real, without the flashiness and without any of the salesmanship. Another type of charisma is just being extremely high integrity and trustworthy. Um, Scott Wu in the very early days, you know, young kid, looked even younger than he was, uh, pretty introverted and quiet, and the thing he was setting out to build was so ambitious that even after he had built it, people didn't think it existed. Uh, but yet every tiny thing he said he would do, he always, like, over-delivered. Not just on the product, but on, you know, personal things, matters of business. Kinda like old-school Sam Walton would do. Uh, th- there are these types of 
+
+00:04:35,220 --> 00:04:42,460 [Lulu]
+non-traditional charisma that make people believe that their future and livelihood will be safe in your hands. 
+
+00:04:42,760 --> 00:04:55,860 [Interviewer]
+How do you think when you look at someone like Palmer coming out of Oculus, how did you basically try to lean into what made him great and allow him to basically build that cult of personality that allowed Anduril to succeed? 
+
+00:04:57,220 --> 00:04:58,660 [Lulu]
+You kinda don't have a choice. 
+
+00:05:00,200 --> 00:05:39,240 [Lulu]
+People are themselves because who the hell else could you possibly be? Sometimes you see someone try and it's like, "That's really cute." You know? [laughs] This might be fun for a little bit, but it's not gonna work. It's never worked. I just don't think it's ever worked because it's not sustainable. You can't lie to everybody around the clock forever. It slips, you know? Um, but what you can do is be yourself, but more. You can really unleash yourself. And if you unleash yourself, it might not be popular at that time and in that place, but eventually... It's like if you put a magnet in a bunch of filings, it doesn't immediately just, 
+
+00:05:40,280 --> 00:05:59,960 [Lulu]
+you know, everything attaches. Things, like, gradually orient themselves the right way, and then the things that were going to come start to come and take some- That, that's how it is with your people and your following. Palmer early on was exactly how he was at probably 15 and how he is now. You know, people change over the course of their lives- 
+
+00:05:59,960 --> 00:05:59,969 [Interviewer]
+Yeah 
+
+00:05:59,969 --> 00:06:05,696 [Lulu]
+... but, like, the core of them I think doesn't really change past a certain age. And his-Audience 
+
+00:06:06,776 --> 00:06:23,096 [Lulu]
+w- wasn't really right. It was just a bunch of random people. It included a bunch of random people who were following Facebook or whatever, and, and were really giving him a hard time. Today, you can see Palmer expressing the most explosively incorrect, [laughs] uh, politically incorrect opinions. 
+
+00:06:23,096 --> 00:06:24,376 [Interviewer]
+People should be having children at 14. 
+
+00:06:24,376 --> 00:06:29,975 [Lulu]
+But [laughs] have children at eight. If you wait till it's 10, and, you know, if you wait- 
+
+00:06:29,976 --> 00:06:30,126 [Interviewer]
+You're too late 
+
+00:06:30,126 --> 00:06:31,096 [Lulu]
+... till you're 10, it's, it's over. 
+
+00:06:32,216 --> 00:07:27,316 [Lulu]
+But his audience now has been kind of curated over time where, uh, it, gradually, the people who do agree and do align come to him. This happened with, like, Roy Lee. You know, he exploded onto the internet, and it was just this mix of, like, whoever was there, and people who liked him and hated him, or, like me, were very skeptical, "What is this?" And then over time, he just kept being him. He got abandoned by a lot of his co-founders, which, which I thought was kind of crappy of them to leave as soon as it got difficult. And he just kept at it, which I really respect. And over time, the Roy appreciators kind of came out. And so whether you're, uh, like a head of state or a founder or someone starting out, like, it doesn't matter. The same thing applies, which is you really have no choice but to be you. And the sooner you realize that, the sooner you can start collecting the people and the audience that actually belong to you. 
+
+00:07:27,316 --> 00:07:27,476 [Interviewer]
+Mm-hmm. 
+
+00:07:27,476 --> 00:07:34,856 [Lulu]
+Every day that you pretend to be somebody else is a day that you are delaying the compounding of finding your people. 
+
+00:07:34,856 --> 00:07:53,976 [Interviewer]
+There's this idea that I've come to recently which is basically it is not helpful in most cases if you wanna, like, change the world to be predictable. And if people can predict you, then there's kind of an issue. And Elon is, like, the GOAT at this, where any time someone thinks that they understand one of his businesses, he basically just throws in a huge amount of chaos. 
+
+00:07:53,976 --> 00:07:54,116 [Lulu]
+Mm-hmm. 
+
+00:07:54,116 --> 00:08:15,846 [Interviewer]
+You know, if they're like, "Okay, we can extrapolate Starlink and say this is how much Starlink is gonna be worth," and, like, use a discounted cash flow analysis to value the company, suddenly he's like, "Data centers in space, and in fact, we're gonna go, like, colonize the moon and build like a, you know, 100 terawatts or whatever of power generation," something like this. And he's very good at constantly resetting the bounds so that he's always, like- 
+
+00:08:15,846 --> 00:08:15,846 [Lulu]
+Mm 
+
+00:08:15,846 --> 00:08:21,036 [Interviewer]
+... undervalued in people's eyes, where they can't really predict, like, here's how good he is. 
+
+00:08:21,036 --> 00:08:21,396 [Lulu]
+Mm-hmm. 
+
+00:08:21,396 --> 00:08:30,056 [Interviewer]
+Right? And here's, like, the level of his ambition. How does that kind of play in resetting people's, like, view on you of your level of ambition and craziness? 
+
+00:08:30,056 --> 00:08:53,596 [Lulu]
+So a couple things on being unpredictable and chaotic. Chaotic is what people call you when they don't understand what's going on. It has no bearing on whether you understand what's going on. Um, so if, if we were to decide to do something else with this space, which we wouldn't probably 'cause it's so lovely. But, um, if you decided to just move in here and make this your studio, 
+
+00:08:55,276 --> 00:09:13,626 [Lulu]
+if you wanted to keep it as it was and add some cosmetic fixes, you could maybe put another plant or something. But if you wanted to turn this into a cathedral to podcasting and you wanted to really make it yours, that doesn't happen without a phase where it looks like you have destroyed this place. 
+
+00:09:14,666 --> 00:09:57,776 [Lulu]
+Doesn't happen. There's no path from A to B that doesn't go through something that looks like a pile of rubble where you've taken a really beautiful, lovely, totally functional room and wrecked it, right? And people, in the moment, always forget that. What can help, if you care that, that people know that there's a destination, sometimes you do have to care because you have shareholders or your employees need to not freak out, or, you know, sometimes you do have to care about other people. If you care about reminding people that from here to there, there is an ultimate, ultimate destination past the chaos phase, I strongly recommend giving people the Domino's pizza tracker. 
+
+00:09:58,956 --> 00:10:41,816 [Lulu]
+You have to tell them what is the finished pizza, and you have to remind them constantly. So I, as a pizza tracker super user [laughs] as, uh ... Find great comfort in being like, "Oh, they're just sprinkling the peppers on. They didn't forget about me." But in the moment, people forget about everything else. We're, we're just trained to react to what's going on around us, which already gives us information overload. We don't have time to emotionally connect that back to the thing that we remember it's supposed to go towards. So just constantly remind people, we are here. This is the finished pizza. This is the finished podcast studio. This is the finished rocket. This is the finished plant, whatever it is, and here's where we are, and give them constant updates on where you are. 
+
+00:10:41,816 --> 00:10:56,816 [Interviewer]
+Yeah. There's this, uh, fun thing where acquisitions are basically like organ transplants, and sometimes they take and sometimes they don't. I was listening to the Walter Isaacson biography of Elon on the ride over here, and they were ... Basically, I was listening to the moment where Elon took over X- 
+
+00:10:56,816 --> 00:10:56,826 [Lulu]
+Mm-hmm 
+
+00:10:56,826 --> 00:11:23,086 [Interviewer]
+... you know, formerly Twitter. And at the time, there was these, like, rounds of layoffs and cuts, and they cut super deep. And then at one point, in order to kind of cull the herd into the people that actually wanted to be there, uh, and make sure that they were just all killers, they were thinking about sending out this email. And it was basically like, "Here are our core values, and if you don't wanna be a part of it, click this box, and you'll get three months of severance, and then you're out." And then right at the le- like at the 11th hour, Elon swapped it and was like, "No, you have to opt in." 
+
+00:11:23,086 --> 00:11:23,086 [Lulu]
+Mm-hmm. 
+
+00:11:23,086 --> 00:11:24,875 [Interviewer]
+"You have to opt into the hardcore culture- 
+
+00:11:24,876 --> 00:11:24,956 [Lulu]
+Mm 
+
+00:11:24,956 --> 00:11:27,016 [Interviewer]
+... uh, that we're building." Why was that so important? 
+
+00:11:28,096 --> 00:11:33,096 [Lulu]
+Everything compounds, and everything is ... Everything good is better if it happens earlier. 
+
+00:11:34,656 --> 00:12:01,016 [Lulu]
+Getting rid of people who feel like a deep state inside your company, who are going to be leaking and killing the morale of others and slowing things down and doing everything in that CIA sabotage manual to, like, wreck an organization from the inside, you wanna do that as quickly as possible. And so, um, moving that upfront as opposed to letting people just kind of quiet quit later is a good idea. While we're talking about, um, Elon and being unpredictable though, 
+
+00:12:02,116 --> 00:12:02,416 [Lulu]
+one 
+
+00:12:03,456 --> 00:13:00,036 [Lulu]
+thing that always comes up is people say, "Well, you advocate for going direct, but look at Elon going direct, and he makes so many mistakes, and he puts his foot in his mouth." And the answer is you have to look at the net-The net result of this, you can't look at one tweet in isolation or one incident. There's nothing that gets built, not an audience, not a movement, not a company, there's nothing that doesn't get built with some errors along the way. You just have to bake it in. But having built the largest audience on the most significant social media platform, you're gonna tell me that it's not worth it because over time, along the way, people have gotten upset about things? So now he has got his own platform, not just as the owner, but as the owner of an account, and has a way to contest media narratives written by people who actively loathe him, 
+
+00:13:01,056 --> 00:13:10,166 [Lulu]
+and how is that possibly not worth it? So, so, uh, the reason I bring this up is because when people think about, okay, I'm the founder, I'm the cult leader, I need to put myself out there, 
+
+00:13:11,176 --> 00:13:21,696 [Lulu]
+ugh, that feels bad. I'd rather just sit in my room and code. I'd rather just quietly go about my day and not expose myself to the tomato throwers of the global town hall. Um, 
+
+00:13:22,935 --> 00:13:31,776 [Lulu]
+y- you can't think of it as how will people react to this thing I say or this thing I do? It is, how will people 
+
+00:13:33,096 --> 00:13:42,236 [Lulu]
+care about what we're doing if over the next year, five years, 10 years, I'm not giving them a reason to follow along with the story? 
+
+00:13:42,236 --> 00:13:59,196 [Interviewer]
+You mentioned another podcast and the story of Napoleon basically sending people to die, and the language that he used to send people to die made them voluntarily sign up to do it. Do you wanna talk about the, like, power of using the right language and in the context of that story? 
+
+00:13:59,196 --> 00:16:16,896 [Lulu]
+So what is language? [laughs] What is language is it is symbols that represent ideas, and because no idea can be perfectly 360 degrees encapsulated in something, they're, they're a little bit of shorthand. And so the language becomes an association that evokes a mental image that then evokes feelings or ideas or connection, whatever else. So when you give something the right language, it makes people think about the thing, and it makes people think about the thing in a certain way. So in the case of Napoleon, he had these guys guarding a cannon that was within gunshot range of the Austrians, and the people guarding this cannon had 100% casualty rate. Not that they all died, but they all got shot. And so [laughs] he needed to replenish guys to go guard this cannon. And so imagine you're gonna go to your troops and be like, "Who wants that job?" It's like something out of The Simpsons. It's, like, comically difficult to pitch. And what he did was he gave this group a name, and he called them Les Hommes Sans Peur, which means the men without fear. So instead of saying, "Would you like to go get shot guarding this cannon?" He said, "Who are going to be the next batch of the men without fear?" And he filled it with volunteers and people who raised their hands to be part of that, and this is how we get people for difficult missions, whether that is going to the moon or working for a startup, which when you describe what working for a startup is, it sucks. It sucks. And for someone to want that job, they have to picture it as something else, right? They have to picture this as we're bringing nuclear energy back to America. We're making humans an interplanetary species. We're making robots available in every home. That's the thing I'm doing. It's not that I'm sitting in this office for 18 hours a day eating ramen out of a box. That... It's not that. It's A, not B. So, um, th- that's the example for language. Th- this has happened, by the way, throughout history where the words we use shape how we see something, including literally. So in, in a lot of languages around the world, the word blue didn't exist for a long time 'cause there's not a lot of blue in nature. So if you and I are just walking around in our loincloths or whatever, [laughs] sorry for the image, um, 
+
+00:16:18,036 --> 00:16:32,616 [Lulu]
+w- we, we would have occasion to say, um, green... Well, actually the sky is blue, so now I'm starting to question. But people merged green and blue, um, as one concept. The people who speak those languages 
+
+00:16:34,436 --> 00:17:44,496 [Lulu]
+physically literally can't see the difference between green and blue as well. Just can't see it. So when something doesn't exist as a language concept, it just doesn't exist to us. This happens with, um, the, the word teenager and adolescent. The, um, it became a concept and, and, um, the words became com- more commonly used, I think, around the turn of the 20th century, where before you were either a child or an adult. Imagine being 15 and having to be treated as a child or as an adult, and that led to basically child abuse. It led to child labor. People would err on the side of treating children as adults, so you would, "Yeah, go get a job. You're 15 already. [laughs] You're a grown-up. Go get married like Palmer's telling you to." [laughs] And when the concept of being an adolescent and being a teenager was introduced, suddenly people now gave them a new category. We need to treat them differently. There are services available, like mental health services, social services, advertising, marketing, and it became a discrete thing. We, we now are missing that word for a lot of concepts that I think are just, like, open season for anyone who wants to coin. But for example, the space between being an adult and being an old person has really changed. It used to be you were 65, you would retire. Now you're an old person. 
+
+00:17:45,536 --> 00:18:24,880 [Lulu]
+Now there are people who are, like, 76 who are pretty spry and working, and they're not senile. They're not senescent. They're not a retiree. But they're also not like you. Um, and maybe we should treat them differently. So, so, uh, the takeaway for someone starting a company is you're making a new thing for maybe a new use case. You might wanna considerGiving the thing a name if it didn't exist before, because, um, if people are using shorthand or, or if people are using existing language, it might make it seem like your thing is not actually needed because they're not thinking of this gap as an actual category. 
+
+00:18:24,880 --> 00:18:43,970 [Interviewer]
+On the case of Anduril, I don't think anyone has really gone through the early days of Anduril and how you helped build what the, like, culture is and the vibe, uh, and the brand of Anduril is today. And specifically around even people liking it and choosing who to alienate. 
+
+00:18:43,970 --> 00:18:50,210 [Lulu]
+The first thing I'll say is that the founders choose to do this. You know, no other person, whether 
+
+00:18:51,300 --> 00:19:23,680 [Lulu]
+inside, outside the company, their parents, their... Like, no, no people besides the people starting the company are able to set the tone of the culture and decide what to stand up for. You can't, like Weekend at Bernie's, wheel somebody in and, and get them to be, to be credible. Um, so, so I'm, I'm more speaking as somebody who I think helped facilitate and support, but really this is them. Um, you can't, like, attach a spine from the outside. You know, it has to be there. It's really important to choose whose side you're not on. 
+
+00:19:23,680 --> 00:19:24,380 [Interviewer]
+Mm. 
+
+00:19:24,380 --> 00:20:40,700 [Lulu]
+The people who avoid picking a side, it's not that they are then beloved by everybody, it's that they're beloved by nobody. You're, you're in the demilitarized zone. You're, you're no man's land. Uh, so you might as well pick a side or eventually one will get chosen for you kind of haphazardly. And so, uh, saying that we're not on the side of the people who believe that it's morally wrong to work with the military and we are on the side of the people in uniform, um, at least makes it so that the people who do believe that feel like they find a home with you. And the people who don't, this is like the, the Elon email. You do not want them here. They're, they're a time bomb. There are people that you might employ that will actually destroy your company from the inside. The most catastrophic, destructive crises are always inside of a company. You, you, you see these things happen where CEOs get attacked from the outside all the time, like Brian Armstrong. Um, he was attacked from inside and outside, and so he got rid of the people who were attacking from the inside, and then he was only attacked from the outside, and that was fine. And it was fine. And, like, two months later, everything was better than before. But when you see people get, um, attacked by their own employees and they're not able to manage that and they're not able to make a hard decision like Brian did, that's when the company is just, I think, not gonna make it. 
+
+00:20:40,700 --> 00:21:00,020 [Interviewer]
+Sam Altman recently came out after someone, like, threw a Molotov cocktail at his house and he effectively said, "I worry that I've been too, like, non-confrontational." And I think that was, like, his... one of his biggest weaknesses over the past, you know, 20 years as he's been building his companies. What is the power of being, like, confrontational and being willing to, like, fight? 
+
+00:21:00,020 --> 00:21:03,060 [Lulu]
+You know the phrase, "The enemy of my enemy is my friend"? 
+
+00:21:04,320 --> 00:21:08,960 [Lulu]
+When you fight for someone, you can be so much 
+
+00:21:10,280 --> 00:21:23,840 [Lulu]
+stronger and more powerful than if you're fighting for yourself. So this is, like, a hack, but you, uh, defending yourself comes off as, like, self-interested. You know, people discount it. [laughs] 
+
+00:21:23,840 --> 00:21:24,159 [Interviewer]
+Yep. 
+
+00:21:24,160 --> 00:21:31,260 [Lulu]
+But you picking somebody, and it can be somebody with, like, identical interest to yours, but you advocating for them 
+
+00:21:32,300 --> 00:21:47,000 [Lulu]
+is so much more powerful. So there was a, there was a company that, um, I had and I, I was a leader in the company and we were, um, we had someone who was making the case that tenure shouldn't determine how much you were paid. 
+
+00:21:47,000 --> 00:21:47,100 [Interviewer]
+Mm. 
+
+00:21:47,100 --> 00:23:00,320 [Lulu]
+You know, you shouldn't have to work there longer to get paid more. It should just be straight up on performance, and I also happen to believe that. But if I had said, "Hey, you know, I know I have no comms experience, but I feel like I should get paid based on my output," it's not as strong as me advocating for her and saying, "She doesn't need to be here for, uh, 10 years in order to get paid at the level of someone who's been here for 10 years but isn't performing as well as her. That's not fair." And so you can literally just pick someone else to support and then put yourselves on the same side and you can come out so much more forcefully and not have that be discounted. That's one. Two is people see sincerity when you're, um, willing to do something costly, and getting into a fight is pretty costly. I don't recommend doing it all the time because it's draining. You know, you, you fight to win. You don't just get in a fight and then leave. Like, you... If you're in the fight, put some effort. You're gonna be in the fight and it's gonna be painful and it's gonna... You're gonna take, take some blows. It's gonna be damaging maybe. But when people see that you are willing to do that, they believe that your principles are real. And so I think Sam is correct. Um, maybe, maybe that is the case. Like, I, I don't know his psychology, but it's, sounds like a, a good analysis. 
+
+00:23:00,320 --> 00:23:06,900 [Interviewer]
+You talked about the three-body problem and deterrence and how Palmer is kinda like the prototypical... I think Elon is another one of these things- 
+
+00:23:06,900 --> 00:23:07,090 [Lulu]
+Mm-hmm 
+
+00:23:07,090 --> 00:23:16,520 [Interviewer]
+... where if you come after him, he is just gonna throw everything that he has at you. Um, so that it's very costly for you to come after him, and then over time, less and less people want to do so. 
+
+00:23:16,520 --> 00:23:16,920 [Lulu]
+Mm-hmm. 
+
+00:23:16,920 --> 00:23:21,040 [Interviewer]
+Um, why is deterrence, like, so important, and what is it? 
+
+00:23:21,040 --> 00:23:47,060 [Lulu]
+Everything is about incentives, and as you move through the world, you have to shape people's incentives for how to interact with you. And so when you see, uh, young women being told or telling each other themselves, like, um, treat yourself in a way that demands respect from men you go on dates with, or people, um, demanding to be taken seriously by an employer, or... All of these things are just us trying to shape incentives for how people should interact with us. 
+
+00:23:48,280 --> 00:24:04,780 [Lulu]
+There is a real incentive, like a default incentive for people on the internet to just take potshots because they get engagement out of it and it's like the le- There's a quote about, um, um... Is it politics? It's so vicious because the stakes are so low. 
+
+00:24:04,780 --> 00:24:04,870 [Interviewer]
+Yeah. [laughs] 
+
+00:24:04,870 --> 00:24:27,084 [Lulu]
+It's like the people for whom the stakes are the lowest are the most vicious because they have the more upside.Right? And so y- uh, the, the more you gain exposure, the more people are gonna take shots at you to try to get the upside. And so you have to be actively reshaping incentives, and this is where we go back to the idea of plan for the l- long term. It is not about temporary pain avoidance. 
+
+00:24:27,084 --> 00:24:27,284 [Interviewer]
+Mm. 
+
+00:24:28,824 --> 00:24:33,904 [Lulu]
+Do not pursue temporary pain avoidance. It's not a legitimate goal. 
+
+00:24:35,064 --> 00:24:35,904 [Lulu]
+Set your sight 
+
+00:24:37,204 --> 00:25:10,564 [Lulu]
+on the finished pizza and do what it takes to get there, and sometimes it'll look nonsensical to others, and that's okay. You'll just swallow that. Sometimes it'll be painful for you, and that's okay. You'll just deal with it. But at the end of the thing, you'll have your delicious hot pizza the way that you wanted it, as opposed to somebody who gets, who gets blocked by basically their own psychology. They get blocked by fear. They get blocked by, um, wanting to please or wanting to fit in, or... The- these things are all fake. 
+
+00:25:11,594 --> 00:25:19,364 [Lulu]
+They're in our heads, but these people who are blocked by the things in their own heads will just stay back at stage one while you're enjoying your pizza. 
+
+00:25:19,364 --> 00:25:27,604 [Interviewer]
+What do you think the best examples are of people or situations that you've seen where you could tell that there was this temporary pain avoidance that led to some massive blow-up? 
+
+00:25:28,704 --> 00:25:29,924 [Lulu]
+I think Google had this. 
+
+00:25:29,924 --> 00:25:30,764 [Interviewer]
+Mm. 
+
+00:25:30,824 --> 00:25:33,064 [Lulu]
+Google for a long time 
+
+00:25:34,184 --> 00:25:34,524 [Lulu]
+let 
+
+00:25:35,704 --> 00:25:45,144 [Lulu]
+activists run rampant in the company, and each individual instance was not severe enough to take 
+
+00:25:46,364 --> 00:25:52,504 [Lulu]
+dramatic action. And so in, in diplomacy, there's a concept of sausage slicing or salami slicing. 
+
+00:25:52,504 --> 00:25:53,103 [Interviewer]
+Mm. 
+
+00:25:53,164 --> 00:26:12,234 [Lulu]
+And so let's say I want, uh, this piece of territory that you have, and I ask you for it. You would say no. But if I were to encroach a couple inches and you let me, and then I encroach a couple inches more, or, um, I just start to have, have my people just kind of walk through there, 
+
+00:26:13,584 --> 00:26:36,774 [Lulu]
+w- it's very hard for you to identify one moment in time when it doesn't feel like you're overreacting to something small. And so I can salami slice my way to a bigger piece of salami, right? This is, this is why the US does, like, freedom of navigation patrols in the South China Sea because if you don't, then others in the region or China can sort of salami slice their way to, um- 
+
+00:26:36,774 --> 00:26:37,204 [Interviewer]
+More control 
+
+00:26:37,204 --> 00:28:16,924 [Lulu]
+... regional hegemony. [laughs] Yeah. Um, so it is really important to resist being salami sliced by your own employees above all, but anybody. So in the Google example, there were just these signs. I mean, James Damore was probably one of the larger signs. But daily things of people saying things at work that just have nothing to do with making the best technology, and then eventually it comes to a head where you have to base major business decisions on having, um, an overwhelmingly ideological monolithic workforce. And now you're in a very, very painful, um, position of do you piss off, like, 60% of your employees, uh, or do you handcuff yourself and not participate in government or military programs that where you could actually do a lot of good? Now, now your decisions are much harder because you avoided the temporary pain of just cutting it off when it would've seemed like you're overreacting. I think the, the essential lesson is don't be afraid to be seen as if you're massively overreacting. This is something that Elon is quite good at. Again, it looks like chaos to someone who doesn't know what you're doing. That's their default word for it. So if it's like one person does one small thing, and then you react with, like, overwhelming force, it can look like a massive overreaction, but what you're doing is actually you're reacting to the hundred things that would've happened. You're not reacting to the one thing. You're reacting to the hundred things that would have happened that now won't. And so the guy who went on your podcast, and I think he immediately got fired for it- 
+
+00:28:16,924 --> 00:28:17,744 [Interviewer]
+Oh, yeah 
+
+00:28:17,744 --> 00:28:20,664 [Lulu]
+... there were people who thought that that was maybe an overreaction. [laughs] 
+
+00:28:20,664 --> 00:28:21,584 [Interviewer]
+That, that, that- 
+
+00:28:21,584 --> 00:28:23,384 [Lulu]
+Can't fire me. Let's go. 
+
+00:28:23,384 --> 00:28:25,124 [Interviewer]
+I forgot about that. [laughs] Um. 
+
+00:28:25,124 --> 00:28:30,944 [Lulu]
+Oh, yeah. I was, I was thinking about it. I was waiting to bring it up. That, I think some people saw that as an overreaction. 
+
+00:28:30,944 --> 00:28:32,504 [Interviewer]
+Mm-hmm. 
+
+00:28:32,504 --> 00:28:49,304 [Lulu]
+I did not see it as an overreaction. You know, blessings and best wishes to that guy, but it, he, he kinda took one for the team because what happened to him was deterrence for everybody else. Like, once you have a very leaky culture, 
+
+00:28:51,184 --> 00:29:12,884 [Lulu]
+w- what do you, what do you even do? You fire everybody? Like, at that point, it becomes very, very hard to manage, but if you are willing to do what looks like overreacting along the way, then you can manage that a lot better. And today, xAI has one of the much, much less leaky cultures, um, than most other companies of that size and scale. 
+
+00:29:12,884 --> 00:29:23,663 [Interviewer]
+How do you actually stop that? So if you do, you know, taking it back from that example, um, if you do ever end up, you know, finding yourself in a s- situation where you have a very leaky culture- 
+
+00:29:23,664 --> 00:29:23,674 [Lulu]
+Uh-huh 
+
+00:29:23,674 --> 00:29:30,224 [Interviewer]
+... I remember when, another thing from the Walter Isaacson biography is Elon said, "Things keep on leaking to the press." 
+
+00:29:30,224 --> 00:29:30,234 [Lulu]
+Mm-hmm. 
+
+00:29:30,234 --> 00:29:31,264 [Interviewer]
+"We gotta have that stop." 
+
+00:29:31,264 --> 00:29:31,804 [Lulu]
+Mm-hmm. 
+
+00:29:31,804 --> 00:29:34,564 [Interviewer]
+How do you actually stop that, like, if it's happening at your company? 
+
+00:29:34,564 --> 00:29:36,684 [Lulu]
+Stopping it is hard and brutal. 
+
+00:29:36,684 --> 00:29:37,304 [Interviewer]
+Mm-hmm. 
+
+00:29:37,304 --> 00:29:41,874 [Lulu]
+And you have to be willing to go into tyrant mode a little bit. Like, you can 
+
+00:29:43,004 --> 00:30:05,204 [Lulu]
+w- try to weed people out. You can hire, like, investigators. You can try to monitor people, you know? Um, but at that point, it's like trying to weed out Al-Qaeda from the village population. [laughs] It's just very difficult because they look the same. You know, they look the same. They're sitting at the same desk. Like, who is it? And y- and then you have to do things that, uh, feel, um, 
+
+00:30:07,224 --> 00:30:17,364 [Lulu]
+bad to you and to them in order to get to that point. So, so I, I think that it can be improved-But prevention is, is better. And so- 
+
+00:30:17,364 --> 00:30:20,264 [Interviewer]
+An ounce of prevention is worth a pound of cure sort of situation? 
+
+00:30:20,264 --> 00:30:27,424 [Lulu]
+Yes. Um, prevention is better, and what prevention looks like is actually a lot of it comes down to personal loyalty to the founder. 
+
+00:30:28,584 --> 00:30:41,544 [Lulu]
+It's not about installing the software on the laptop or having policies or signing NDAs. The, the biggest fake LARP-y thing in the world is signing NDAs. I've n- [laughs] never, 
+
+00:30:42,964 --> 00:30:51,424 [Lulu]
+never has that had an impact on anyone or anything. And the most sensitive, uh, situations I've ever been brought into, 
+
+00:30:52,824 --> 00:30:55,504 [Lulu]
+I don't think I've signed NDAs. 
+
+00:30:55,504 --> 00:30:59,004 [Interviewer]
+Yeah, it's almost like, uh, you have to have trust built in your, you know, small cadre. 
+
+00:30:59,004 --> 00:31:00,344 [Lulu]
+You either trust or you don't. 
+
+00:31:00,344 --> 00:31:00,554 [Interviewer]
+Yeah. 
+
+00:31:00,554 --> 00:32:11,844 [Lulu]
+If, if it's at the point where, like, you think the piece of paper is protecting you, something has already [laughs] gone wrong. So, so this is where it goes back to the founder as the cult leader. Personal loyalty is what will make people do the thing. It, it, it's what makes people understand commander's intent and, um, internalize it and follow the spirit, not the letter, and that's what you want. It's not like, "This doesn't technically violate my NDA that I read closely," or, "I won't be, I won't be caught." It's like, "I don't want to because I signed up to this to work for him and do this thing, and I wanna work for him because I like him, and I wanna do this thing 'cause I think it's important, so why would I do something that damages the company?" Why would you have someone working at the company that wants to damage the company? Or who is trying to help the company but doesn't have the judgment to know what helps the company. Both of those are really messed up and something has gone really wrong. So personal loyalty, founder connection to their people, that is the best and only way to prevent having a leaky culture. 
+
+00:32:11,844 --> 00:32:17,644 [Interviewer]
+I have a general philosophy that if ... I will, like, default assume good in people when I meet someone- 
+
+00:32:17,644 --> 00:32:18,104 [Lulu]
+Mm-hmm 
+
+00:32:18,104 --> 00:32:23,844 [Interviewer]
+... until I see something, unless it's, like, a high trusted person that I know that has told me otherwise- 
+
+00:32:23,844 --> 00:32:23,893 [Lulu]
+Mm-hmm 
+
+00:32:23,893 --> 00:32:28,784 [Interviewer]
+... um, for a specific individual. But I think loyalty is, like, vastly undervalued in a way. 
+
+00:32:28,784 --> 00:32:29,644 [Lulu]
+Super undervalued. 
+
+00:32:29,644 --> 00:32:35,044 [Interviewer]
+Yeah. How should you actually approach loyalty and, like, who you surround yourself with and who you don't? 
+
+00:32:35,044 --> 00:32:36,584 [Lulu]
+I think the right approach is to 
+
+00:32:38,124 --> 00:32:42,544 [Lulu]
+offer acts of loyalty and then see what gets reciprocated. 
+
+00:32:43,704 --> 00:32:55,624 [Lulu]
+Um, so I appreciate the way that you move through life, basically, is to just to offer acts of goodwill and then see what comes back, and then what ... It's like the opposite of Nigerian prince phishing. 
+
+00:32:55,624 --> 00:32:56,004 [Interviewer]
+[laughs] 
+
+00:32:56,004 --> 00:33:18,604 [Lulu]
+Nigerian prince phishing is like you blast out these shitty phishing emails that are, like, poorly executed and badly written, and then you see who's dumb enough to click, and then you engage with them further. Um, the loyalty-building version of that is you're putting acts of goodwill out into the world, and they don't have to be expensive or elaborate every, every time, but they can be, um, small things. You know, like my- 
+
+00:33:18,604 --> 00:33:19,764 [Interviewer]
+They have to be meaningful. 
+
+00:33:19,764 --> 00:33:20,124 [Lulu]
+Hmm? 
+
+00:33:20,124 --> 00:33:24,584 [Interviewer]
+They have to be meaningful, even if they're not, like, expensive or elaborate. They have to, like, mean something to the person. 
+
+00:33:24,584 --> 00:33:34,924 [Lulu]
+Yeah. Yeah, I agree with that. And then you see which ones reciprocate, and then you engage with those. And so it's like the, um, Nigerian prince phishing scheme for goodwill, b- but good. 
+
+00:33:36,104 --> 00:33:38,433 [Lulu]
+The, the other thing on, on founders building loyalty, 
+
+00:33:39,684 --> 00:33:42,884 [Lulu]
+um, the ... You know the book, uh, Leaders Eat Last? 
+
+00:33:42,884 --> 00:33:43,564 [Interviewer]
+Mm-hmm. 
+
+00:33:43,564 --> 00:34:09,664 [Lulu]
+And I agree with the concept, um, which is one of, like, putting your people first and ... But in practice, the best leaders are the leaders that eat at the same time in the same place. Literally eating with people is such a symbolic act that forms connections. Like, the best founders that I think of today just have lunch with their teams out in the lunch room. You know, I saw Scott Wu doing that yesterday. Um, 
+
+00:34:10,864 --> 00:34:13,804 [Lulu]
+y- you, you are just one of the people. Napoleon did that. 
+
+00:34:15,044 --> 00:34:20,104 [Lulu]
+Julius Caesar did it. There's no new innovation on how to relate to people. It's 
+
+00:34:21,224 --> 00:35:05,544 [Lulu]
+do the job at a level that they can respect. So, like, the reason that Cognition is able to recruit these, like, incredibly elite coders is because they respect Scott as a leader. Um, two is be among them as a peer and not somebody that ... So, like, at PepsiCo, um, I remember when Indra Nooyi was CEO, she actually put in efforts. You know, one of my old colleagues, um, a mentor of mine helped her do this and put in efforts to just go out onto the floors and for, to just be among the people. Um, so just live how they live, eat what they eat, at the same time so they see you. And then lastly, if you ask them to do something, you do it, right? 
+
+00:35:05,544 --> 00:35:26,514 [Interviewer]
+Yeah, I remember there was a, the, like, prototypical example is basically Elon on the production line in 2018, and there was a hotel across, across the street that he could have stayed at and it would've been a comfortable bed, but instead, he was like, "No, just give me ... You know, I'll just sleep on the floor right outside the ..." Not even in the conference room. The conference room had a couch. But the fact, like, if people were walking by the conference room, they wouldn't know that he was in there. 
+
+00:35:26,514 --> 00:35:26,664 [Lulu]
+Mm. 
+
+00:35:26,664 --> 00:35:33,284 [Interviewer]
+Whereas if he's on the line just sleeping there and there's all these machines and stamping presses going in the background and very high decibels, all this stuff- 
+
+00:35:33,284 --> 00:35:33,544 [Lulu]
+Mm-hmm 
+
+00:35:33,544 --> 00:35:35,154 [Interviewer]
+... they can tell that he's, like, in it. 
+
+00:35:35,154 --> 00:35:35,304 [Lulu]
+Yeah. 
+
+00:35:35,304 --> 00:35:36,124 [Interviewer]
+And so they will work harder. 
+
+00:35:36,124 --> 00:37:01,564 [Lulu]
+Yeah. Ernest Shackleton, when he was with his men and they were taking turns rowing and everybody was, like, frostbitten and miserable and they tried to give him easier shifts, he actually demanded that he not be given different treatment. And that, that is what makes people go above the letter and follow the spirit, is if they feel that from you. So it, it sounds very, like, touchy-feely Oprah, but the way you communicate is through what you say, what you do, and then also visuals. We can talk about that. Like, the, the visuals of something stay with, with people for a long time, and, and that can be an act of leadership or inspiration. So, like, when the German chancellor Willy Brandt went to visit Warsaw and, uh, he, he went to see the, the monument honoring the Jewish people who had, who had risen up, um, heStood there, and then he just silently dropped to his knees, and then he just kneeled there, and it is called the genuflection. Um, and that statement said so much about him representing the German people and, and how they viewed the, the, the Nazis' actions then, and, and I think, um, really helped to reshape relationships, uh, between Germany and Poland. It, it did so much, and it was just the visual of this man on his knees saying nothing. You can combine these things. So you can use words to paint visuals. 
+
+00:37:02,584 --> 00:37:23,004 [Lulu]
+So there's, like, visuals visuals. I gave you the Willy Brandt example, which is, like, a, a, a very, um, extreme and, and lofty example. There's also Steve Jobs and the MacBook Air, and this was when he was on stage, I think it was 2008, and he just had the envelope, and it was like, it was like a secret manila envelope, 
+
+00:37:24,384 --> 00:37:25,724 [Lulu]
+and he takes it out. 
+
+00:37:25,724 --> 00:37:29,104 [Interviewer]
+Same thing that he did with the original iPod, where he's like, "This is- 
+
+00:37:29,104 --> 00:37:29,114 [Lulu]
+In a pocket. [laughs] 
+
+00:37:29,114 --> 00:37:31,764 [Interviewer]
+... you know, this is your pocket for, like, a pen or a phone." 
+
+00:37:31,764 --> 00:37:31,824 [Lulu]
+Yeah. [laughs] 
+
+00:37:31,824 --> 00:37:34,054 [Interviewer]
+And then he's like, "What, what the fuck is this pocket for?" 
+
+00:37:34,054 --> 00:37:34,063 [Lulu]
+[laughs] 
+
+00:37:34,064 --> 00:37:37,764 [Interviewer]
+And it's just, he just pulls out this little device, and he's like, "This is what goes in there." 
+
+00:37:37,764 --> 00:37:38,884 [Lulu]
+The visuals stay with you. 
+
+00:37:38,884 --> 00:37:39,524 [Interviewer]
+Yeah. 
+
+00:37:39,524 --> 00:37:39,644 [Lulu]
+Um, 
+
+00:37:40,984 --> 00:37:54,794 [Lulu]
+sometimes it's, it's not a, a visual of an image, but sometimes it is imagining a thing that feels so vivid. So, like, when Jensen was unveiling the DGX-1, 
+
+00:37:55,944 --> 00:38:43,744 [Lulu]
+uh, th- there were a lot of technical specs, um, that, uh, they did share eventually, but what really stood out for me is that he talked about time to train AlexNet. This is a made-up metric. Like, time to train AlexNet [laughs] is not a standard metric, um, used anywhere. Uh, but it's the thing that I remember, and he said that if you had... if you were using Intel equipment, that training AlexNet would take 150 hours, whereas using his gear, it would take two hours. Now, I think he could have actually drama-ed it up a little bit more. I think he coulda said, like, um, "With Intel, it would take over six days, and with us, it takes two 
+
+00:38:45,144 --> 00:38:45,584 [Lulu]
+hours." 
+
+00:38:46,684 --> 00:39:37,044 [Lulu]
+And then, um, just leave people with just the perception that this is a completely different category. Um, oh, or the same, same, same launch announcing the DGX-1, and he called it a data center in a box. Now, there were all of these technical, um, specs that he could have gone into, and they did, but data in a s- data center in a box just shortcut through all of that. It became the thing that people remembered, the, the thing that I remembered. That is so much more powerful than saying, "We are faster, we're better," all of the subjective things that people just discount, again, because it's you saying it about yourself. Now, somebody else saying that about you might carry more weight, but if you're gonna say it about yourself, people assume that you are hyping yourself up, and you are going to make yourself look good, and so you have to use these images and analogies and be really concrete to give people the thing to imagine. 
+
+00:39:37,044 --> 00:39:44,144 [Interviewer]
+How do you make yourself someone that people want to root for, in the sense of you know that you shouldn't be congratulating yourself. 
+
+00:39:44,144 --> 00:39:44,164 [Lulu]
+Mm-hmm. 
+
+00:39:44,164 --> 00:39:47,504 [Interviewer]
+No one likes that. But having other people that are, like, trusted- 
+
+00:39:47,504 --> 00:39:47,644 [Lulu]
+Mm-hmm 
+
+00:39:47,644 --> 00:39:55,424 [Interviewer]
+... tweet, you know, "I really like Ty" or "I really like Lulu," is very powerful. So how do you actually design yourself to be someone that people wanna celebrate and help? 
+
+00:39:55,424 --> 00:39:57,344 [Lulu]
+People have no reason to root for Ty. 
+
+00:39:57,344 --> 00:39:57,564 [Interviewer]
+Hmm. 
+
+00:39:58,684 --> 00:40:02,084 [Lulu]
+Per Ty. You know, um, you as a person 
+
+00:40:03,304 --> 00:40:13,004 [Lulu]
+represent things that people like, and that is why they root for you. I'll, I'll speak about me 'cause I root for you. Um, and here, here are the reasons. 
+
+00:40:13,004 --> 00:40:13,644 [Interviewer]
+Thank you, Lulu. [laughs] 
+
+00:40:13,644 --> 00:40:24,244 [Lulu]
+Yes. You're welcome. Here are the reasons. Uh, you do things that I would like to see more of in the world, so you are a vector for something that I want. 
+
+00:40:24,244 --> 00:40:25,204 [Interviewer]
+Hmm. 
+
+00:40:25,204 --> 00:40:39,164 [Lulu]
+And that's, that's... it's a, it's a, a normative good, but it also comes back to self-interest in a, in the sense that I like when people are not transactional and form long-term relationships and put positive things out into the world 
+
+00:40:40,324 --> 00:40:58,644 [Lulu]
+and are willing to take, to make the first move of putting something positive into the world and not waiting until someone does it for them first. And you do that, and you become a symbol of this happening, and I like that. Also, um, I root for you because when you 
+
+00:40:59,704 --> 00:41:21,624 [Lulu]
+succeed at turning this podcast into something that people care deeply about, it tells me that they care about something that I also care about, which is I want people to be thinking about the power of stories and being inspired by the stories of others and having that actually alter their own energy and morale and behavior. 
+
+00:41:23,004 --> 00:41:25,273 [Lulu]
+Everything, I think, is 
+
+00:41:27,484 --> 00:41:29,684 [Lulu]
+inherently selfish in that way. 
+
+00:41:29,684 --> 00:41:30,224 [Interviewer]
+Hmm. 
+
+00:41:30,224 --> 00:42:14,664 [Lulu]
+But it's because I relate to you, and I see elements of what I would like to be in you, and because what you do represents something that I wanna see more of. It's not like I see you sitting there as a guy, and I'm like, "I'm just gonna root for this guy." Right? So I, I think at the end of the day, people root for things that they want, things that they like, and things that remind them of them, and if you are that, they'll root for you. You know the, uh, the probably apocryphal story of President Kennedy visiting NASA, and he had announced, "We're going to go to the Moon," and he goes to, to pay a visit, and it's after hours, and there's a janitor just cleaning, and he greets him and says, "What do you do here?" And he says, "Mr. President, I'm helping us get to the Moon." 
+
+00:42:14,664 --> 00:42:16,334 [Interviewer]
+That's great. [laughs] I love that. 
+
+00:42:16,334 --> 00:43:03,748 [Lulu]
+So, [laughs] so, so if people understand, this also goes back to you want people to understand the spirit and not the letter, and you want people to sign up for the spirit and not the letter.And so if you're recruiting someone for a job at a startup, that job is objectively worse than being a janitor in every [laughs] way. Like, being an early employee at a startup is incredibly grueling, and hopefully it pays off, but you have no guarantee that it will. And the only way to make someone be genuinely super excited about that and not be doing tiny things to cut corners in ways that you'll never see and performing tiny acts of disloyalty that you'll never find out about is for them to be fully bought in that they are helping to get to the moon and that their work is needed in that. 
+
+00:43:03,748 --> 00:43:19,548 [Interviewer]
+It's the same situation, I think, at Boeing versus SpaceX, where Boeing, you know, so you ask some random engineer. You're like, "What are you working on?" And it's like, "I'm working on some space capsule." And you ask someone random at SpaceX, and it's like, "What are you working on? What are you about?" And they're like, "We are making life multiplanetary." 
+
+00:43:19,548 --> 00:43:31,848 [Lulu]
+Mm-hmm. There are three levels to, to a story for a company. The first level, uh, and these are, like, in ascending order of difficulty as well. But the first level is just literally what are you even doing? 
+
+00:43:32,948 --> 00:43:38,528 [Lulu]
+Half of startups and half of startup founders probably can't even articulate just that. What is this thing? 
+
+00:43:39,588 --> 00:44:11,538 [Lulu]
+Level two is, what does that represent? What is the upshot of you doing this successfully? And then level three is, what is the shape of the dent in the universe and in society if this works, like, if this actually works? And so for SpaceX, level one might be we're building a rocket. Pretty cool, not maximum cool. Level two is we're building a rocket to restore American space flight from the private sector, uh, to revive an industry that's been stagnant for decades. 
+
+00:44:12,748 --> 00:44:26,168 [Lulu]
+More inspiring, not final form. Level three would be we're restoring space flight from America, humanity's last best hope, because we need to make mankind an interplanetary species. 
+
+00:44:27,568 --> 00:44:32,278 [Lulu]
+And so the levels of this, they're, they're all true. They're all as realistic. 
+
+00:44:32,278 --> 00:44:32,308 [Interviewer]
+Yeah. 
+
+00:44:32,308 --> 00:44:44,188 [Lulu]
+You know, if one happens, then two will probably happen, then three might happen [laughs] you know? Like, um, these three levels correspond to the quality of talent you can get and how hard they'll work for you. So, like, 
+
+00:44:45,448 --> 00:45:20,878 [Lulu]
+A-minus talent will work A-minus hard for the first thing, but A-plus-plus talent will dedicate their lives and sacrifice sleep and food and hobbies for the third thing. So a lot of founders, and when you talk about starting a cult, what do you need? You need the vision for the cult. That first level is not cult level. The second level, on the edge, but the third level, that's the cult level. So you need to have going... We're, like, assembling the ingredients for a cult as we go along. One is you need the cult leader. You need to be willing, 
+
+00:45:21,928 --> 00:45:36,188 [Lulu]
+ready, and able, and you need to be able to build the relationships and the personal trust, um, and loyalty to do it. Two is you need that big mission, and the mission is that level three of story of what people are trying to achieve. 
+
+00:45:37,268 --> 00:45:39,168 [Lulu]
+Something that I've been thinking about is 
+
+00:45:40,588 --> 00:45:42,048 [Lulu]
+right now, today, 
+
+00:45:43,108 --> 00:45:45,668 [Lulu]
+everybody is so worried about distribution. 
+
+00:45:45,668 --> 00:45:46,248 [Interviewer]
+Hmm. 
+
+00:45:46,248 --> 00:45:48,408 [Lulu]
+Everyone is obsessed with distribution. 
+
+00:45:49,628 --> 00:46:05,288 [Lulu]
+And in a way I'm happy because part of that is what going direct was meant to do is, is build your own distribution. But distribution raises the question of what are you distributing? [laughs] What are you distributing? Is it, is it something people want? 
+
+00:46:05,288 --> 00:46:05,748 [Interviewer]
+In the, like, max case- 
+
+00:46:05,748 --> 00:46:05,898 [Lulu]
+Is it good? 
+
+00:46:05,898 --> 00:46:11,648 [Interviewer]
+... it's like clavicular where, I mean, you, you know, he may get like two billion views last month, but then you ask, like, what, what is the thing- 
+
+00:46:11,648 --> 00:46:11,838 [Lulu]
+What comes of it? 
+
+00:46:11,838 --> 00:46:13,588 [Interviewer]
+... the impact that you want in the world- 
+
+00:46:13,588 --> 00:46:13,598 [Lulu]
+Yeah 
+
+00:46:13,598 --> 00:46:14,548 [Interviewer]
+... and I can't tell you. 
+
+00:46:14,548 --> 00:46:15,398 [Lulu]
+What comes of it? 
+
+00:46:15,398 --> 00:46:15,408 [Interviewer]
+Yeah. 
+
+00:46:15,408 --> 00:46:44,408 [Lulu]
+And now, now for him, if his goal is exposure and to get people to think about Look Ma- and Looks Max thing, maybe he actually did achieve his goal. Um, whether that's our goal or not is indifferent. He achieved, let's say, his goal. But, um, think of it like a complete story like a dish, and first you've got the ingredients. You have to pick what you're cooking, and you have to get the ingredients. Then you have the preparation, and then you have the plating. 
+
+00:46:45,548 --> 00:47:12,628 [Lulu]
+Distribution is the plating. And so if it's plated crappy, people are not gonna want it. That can undermine a really good dish. But if the dish is good enough, it can overcome good plating, and good plating can't save a bad dish. So, like, the first part on ingredients is what actually is the story, and do you have the facts to back it up? Do the facts match the story that you're trying to tell? So today, couple hours before I came here, 
+
+00:47:13,728 --> 00:47:15,928 [Lulu]
+I attempted to design my own sushi roll. 
+
+00:47:15,928 --> 00:47:16,328 [Interviewer]
+[laughs] 
+
+00:47:16,328 --> 00:47:16,728 [Lulu]
+I went... 
+
+00:47:17,808 --> 00:47:27,328 [Lulu]
+[laughs] I don't recommend it. [laughs] I went to a restaurant, and it was super well-reviewed, and I saw the sushi chef, and he seemed like he was really good, and I was like, "I'm just gonna..." 
+
+00:47:28,368 --> 00:47:29,527 [Interviewer]
+How hard can it be? 
+
+00:47:29,528 --> 00:47:30,948 [Lulu]
+I'm, I'm gonna just do things. 
+
+00:47:30,948 --> 00:47:31,188 [Interviewer]
+[laughs] 
+
+00:47:31,188 --> 00:47:40,008 [Lulu]
+I'm gonna be high agency and design my own sushi roll. And the waitress is like, "Okay." I'm like, "Here I go." And I listed, like, stuff I like. 
+
+00:47:40,008 --> 00:47:40,948 [Interviewer]
+[laughs] 
+
+00:47:40,948 --> 00:47:45,277 [Lulu]
+And I just made a list of things that I like. [laughs] And she was like, "Okay." [laughs] 
+
+00:47:45,277 --> 00:47:47,098 [Interviewer]
+We will put this together. [laughs] 
+
+00:47:47,098 --> 00:47:56,328 [Lulu]
+[laughs] Highly inadvisable. It was like that pizza that has, like, the M&Ms and the, like, the rotisserie chicken. That was my sushi roll. I ate like half of it. 
+
+00:47:56,328 --> 00:47:57,298 [Interviewer]
+[laughs] 
+
+00:47:57,298 --> 00:47:57,638 [Lulu]
+[laughs] 
+
+00:47:58,868 --> 00:48:01,048 [Lulu]
+The plating was- 
+
+00:48:01,048 --> 00:48:01,448 [Interviewer]
+Gorgeous 
+
+00:48:01,448 --> 00:48:24,508 [Lulu]
+... beautiful. The preparation was very skillful, but no amount of skill... Like, no pair of skilled hands could have saved the list that I gave to that waitress and, and could have overcome, like, my judgment. [laughs] And, and so, um, you know, the, um, you know the, the cartoon of Waldo from Where's Waldo- 
+
+00:48:24,508 --> 00:48:24,527 [Interviewer]
+Mm-hmm 
+
+00:48:24,527 --> 00:48:25,467 [Lulu]
+... sitting at a bar, and he's like- 
+
+00:48:25,468 --> 00:48:25,478 [Interviewer]
+Mm-hmm 
+
+00:48:25,478 --> 00:49:00,719 [Lulu]
+... "Nobody ever asks, 'How's Waldo?'"People are always asking, "What podcast can we go on? How do we get our message out? Um, how do we make our tweet go viral?" And very rarely do people ask, "What are we trying to say?" And if your message sucks, if the ingredients are bad and the dish is inherently not good, right? Um, if your message sucks, you could have a two-minute Super Bowl commercial, you could go on Joe Rogan, you can have a billboard in Times Square, and nobody is going to care because it's not about the distribution if your message is not good. 
+
+00:49:00,720 --> 00:49:07,400 [Interviewer]
+Yeah. There's also this amazing, um... Did you ever watch the Si- Simon Sinek talk where he was talking about the why, how, and then what? 
+
+00:49:07,400 --> 00:49:08,170 [Lulu]
+Mm. Yeah. 
+
+00:49:08,170 --> 00:49:08,170 [Interviewer]
+Okay. 
+
+00:49:08,170 --> 00:49:08,920 [Lulu]
+The start with why. 
+
+00:49:08,920 --> 00:49:10,200 [Interviewer]
+So there's, it's just this amazing- 
+
+00:49:10,200 --> 00:49:10,210 [Lulu]
+Yeah 
+
+00:49:10,210 --> 00:49:54,310 [Interviewer]
+... so basically like these, there's these concentric circles, and at the center it's the why. And like why do you do what you do? And then it's how, how do you do it, and then what are you actually doing? And he said the best storytellers, like Steve Jobs, he's like, he starts with the why and he's saying, you know, "This is what," you know, like, "This is why we do what we do at Apple. This is why we wake up in the morning." We are, you know, for Elon it's like, "We are making life multi-planetary. That is our mission. That is why we wake up in the morning." And then it's like, how do we make life multi-planetary? Um, and that might be we build rockets that are reusable and all this stuff. And then it's like, what do we do? And it's like, I'm, you know, soldering something. And I think most, you know, when I have most interactions with people at like a party, I will say like, you know, "Who are you?" And they will basically start with the what. 
+
+00:49:54,310 --> 00:49:54,340 [Lulu]
+Mm-hmm. 
+
+00:49:54,340 --> 00:51:01,080 [Interviewer]
+They will be like, "I am building AI spreadsheets." And I'm like, "Ugh, I don't really care." If you start with... And, and, and then the best storytellers, like they don't do that. They start with, here's why. Like, I am not doing a podcast. I am trying to help m- you know, my... If I look at like my mission, it's like I wanna help... The highest leverage people in society are founders, and so how do you get more founders to start companies and the right companies? And it's like, okay, uh, we need, you know, for me, it's I want more people to even realize that they can start companies is the first thing, and then two, I want the people that do start companies to work on more important missions. And so then it's like, okay, well, if that's our why, then we're gonna probably do a bunch of interviews that are not, like directionally they won't get a million views, but they do kind of show like, okay, go work on nuclear reactors or go do cloud seeding or all these other things because that is like directionally correct. And over time you'll just build this brand of, you know, there's all these other podcasters and then there's like Relentless and they're like celebrating, you know, great founders and great companies. And like if I'm directionally, you know, associated with that and I believe in the idea that we want great companies and, and more great founders, then I like, I'm aligned with Relentless. 
+
+00:51:01,080 --> 00:51:01,380 [Lulu]
+Mm-hmm. 
+
+00:51:02,440 --> 00:51:09,060 [Lulu]
+A lot of people have within them a really special secret truth that only they know. 
+
+00:51:09,060 --> 00:51:09,560 [Interviewer]
+Mm-hmm. 
+
+00:51:09,560 --> 00:51:16,980 [Lulu]
+Right? It's like something that should be done, something that is actually possible and people haven't realized it yet, and it's a secret truth within. 
+
+00:51:18,800 --> 00:51:23,700 [Lulu]
+I think what sadly happens is that the vast majority of people assassinate that within themselves. 
+
+00:51:23,700 --> 00:51:24,120 [Interviewer]
+Mm. 
+
+00:51:24,120 --> 00:51:31,540 [Lulu]
+Because they look around and it doesn't seem like others have it, and they gaslight themselves into believing that it must be fake. 
+
+00:51:34,480 --> 00:51:39,520 [Lulu]
+Sometimes people will trust themselves over the world, which is very hard to do, 
+
+00:51:40,880 --> 00:51:48,160 [Lulu]
+to trust yourself over millions of others and people who are smarter and taller and richer and more important, you know? And to say like, "I'm right," over them, it's, it's, it's- 
+
+00:51:48,160 --> 00:51:49,170 [Interviewer]
+I mean, if you, if you're in the, uh- 
+
+00:51:49,170 --> 00:51:49,650 [Lulu]
+... kind of messed up 
+
+00:51:49,650 --> 00:51:55,880 [Interviewer]
+... if you're in the village with 200 other people and you go on your, you know, go off on your own, um, and you don't listen to the rest and you're like- 
+
+00:51:55,880 --> 00:51:55,920 [Lulu]
+Yeah 
+
+00:51:55,920 --> 00:51:58,260 [Interviewer]
+... "I'm gonna go pave my own way," you die very quickly. 
+
+00:51:58,260 --> 00:51:58,630 [Lulu]
+Yeah. [laughs] Yeah. 
+
+00:51:58,630 --> 00:52:00,020 [Interviewer]
+So this is kind of designed- 
+
+00:52:00,020 --> 00:52:15,069 [Lulu]
+This is true. This is true. This is true. And, and we have to sometimes be able to overcome that. People are on autopilot most of the time. Here's a thing that I did. I, I, uh, I was working for JP Morgan in New York, 
+
+00:52:16,320 --> 00:52:26,840 [Lulu]
+and one day, for no real reason, I made these signs and I got them laminated, and the signs, I, I put them in, in the bathrooms. 
+
+00:52:28,040 --> 00:52:29,140 [Lulu]
+[laughs] 
+
+00:52:29,140 --> 00:52:31,880 [Interviewer]
+Go on. [laughs] 
+
+00:52:31,880 --> 00:52:57,480 [Lulu]
+I made these signs, I laminated them, and I put them in the bathrooms, and the signs said, "Times are tight. Everyone has to do their part. We ask that you participate in the cost of maintaining this bathroom. Every square of toilet paper" [laughs] so stupid. "Every square of toilet paper, uh, costs 10 cents. [laughs] Every pump of soap costs 15 cents. [laughs] Every paper towel- 
+
+00:52:57,480 --> 00:52:58,610 [Interviewer]
+This almost feels woke. Go on 
+
+00:52:58,610 --> 00:53:01,060 [Lulu]
+... costs a quarter." What's that? 
+
+00:53:01,060 --> 00:53:03,010 [Interviewer]
+This almost feels woke. [laughs] 
+
+00:53:03,010 --> 00:53:07,250 [Lulu]
+[laughs] Well, and then I put these like collection boxes. 
+
+00:53:07,250 --> 00:53:07,280 [Interviewer]
+Uh-huh. 
+
+00:53:07,280 --> 00:53:11,660 [Lulu]
+I didn't want... You know, I wasn't trying to get 45 cents or whatever. I just wanted to see what would happen. 
+
+00:53:13,120 --> 00:53:20,480 [Lulu]
+And I went back the next day. I, you know, I waited 'til after hours and I put these up everywhere. I went back the next day and there was like 
+
+00:53:21,860 --> 00:53:23,260 [Lulu]
+real money inside. 
+
+00:53:23,260 --> 00:53:26,440 [Interviewer]
+Like a few hundred bucks or something? Or like a few tens of dollars? 
+
+00:53:26,440 --> 00:53:27,100 [Lulu]
+Few tens. 
+
+00:53:27,100 --> 00:53:27,920 [Interviewer]
+Mm-hmm. 
+
+00:53:27,920 --> 00:54:11,150 [Lulu]
+And it, it's like this completely nonsensical request and we're... Are we Americans or what? Like, what do you mean you're gonna look at this sign that requests you to pay for your toilet paper? [laughs] This like absurd on its face, undignified, and completely unnecessary request from JP Morgan, the corporation. [laughs] Like nothing about it made sense, and yet people put money into the box, which makes me feel like people have an overwhelming bias to just do the thing they feel like they're supposed to do, and that is actually a pro-social instinct. [laughs] Like we shouldn't be trying to decide our own BART fares or something. Um, but then when the moment calls for it 
+
+00:54:13,020 --> 00:54:26,000 [Lulu]
+and you as a founder or as a cult leader see that there is just a quarter turn to be made that leads us to a more glorious future, but everybody has to get on board, it is your job 
+
+00:54:27,020 --> 00:54:29,220 [Lulu]
+to look inside your mental dictionary 
+
+00:54:30,380 --> 00:54:31,320 [Lulu]
+of language 
+
+00:54:32,340 --> 00:54:42,200 [Lulu]
+and identify500 to 1,000, it's not that many, words in the right order that is gonna jailbreak people 
+
+00:54:43,680 --> 00:55:14,600 [Lulu]
+and reprogram them to come and join you off the path. And it's very doable, and it has been done again and again in big ways and in small ways. It's been done to convince an entire nation to continue fighting a war. It's been done to con- to convince racists to consider the possibility of allowing [laughs] civil rights. It's been done to inspire a nation to go to the moon. I mean, these things, we've seen them. We just don't really recognize them for what they are, which is packaging 1,000 words 
+
+00:55:15,880 --> 00:55:25,980 [Lulu]
+in the right order and combination with the right curation, and delivering them such that they jailbreak people at scale. It's so doable. 
+
+00:55:25,980 --> 00:55:32,660 [Interviewer]
+So like the Napoleon situation, where if you give the facts, you are going to go guard this place. 
+
+00:55:32,660 --> 00:55:33,140 [Lulu]
+Mm-hmm. 
+
+00:55:33,140 --> 00:55:44,940 [Interviewer]
+And these cannons are going to shoot at you, and every single person that has previously gone here has gotten shot. And if you give those facts, probably not very many people are like, "Yes, I, I wanna be suicidal." 
+
+00:55:44,940 --> 00:55:45,340 [Lulu]
+Mm-hmm. 
+
+00:55:45,340 --> 00:55:48,300 [Interviewer]
+Um, but then suddenly you give it in slightly different order- 
+
+00:55:48,300 --> 00:55:48,420 [Lulu]
+Mm-hmm 
+
+00:55:48,420 --> 00:55:51,200 [Interviewer]
+... and people are lining up, you know, voluntarily joining. 
+
+00:55:51,200 --> 00:55:51,720 [Lulu]
+Yeah. 
+
+00:55:51,720 --> 00:55:59,030 [Interviewer]
+What other examples are there in, uh, uh, situations that you've seen where people rephrase a set of facts and, like, not even facts- 
+
+00:55:59,030 --> 00:55:59,030 [Lulu]
+Mm-hmm 
+
+00:55:59,030 --> 00:56:01,519 [Interviewer]
+... but almost feelings and reasons for doing things- 
+
+00:56:01,520 --> 00:56:02,060 [Lulu]
+Mm-hmm 
+
+00:56:02,060 --> 00:56:05,500 [Interviewer]
+... in order [laughs] for people to take irrational action? [laughs] 
+
+00:56:05,500 --> 00:56:06,300 [Lulu]
+Cicero. 
+
+00:56:06,300 --> 00:56:07,180 [Interviewer]
+Mm-hmm. 
+
+00:56:07,180 --> 00:56:09,160 [Lulu]
+Um, Cicero's political career 
+
+00:56:10,500 --> 00:57:03,740 [Lulu]
+should have ended before it began. He was a new man, didn't have a lot of money. Um, he was, uh, he was not liked by the patricians and by the most powerful men of his time. He had the gift of oratory. He was considered the second-best orator after this other senator called Hortensius, who was, like, the man, and Cicero was, like, second banana. And Cicero took on this case that seemed absolutely impossible. Not impossible because of the facts, um, but papos- but impossible because of whom he needed to convince. Cicero's job was to get a jury to find guilty the governor of Sicily, who had abused his power blatantly and engaged in corruption, theft, violence, so just a total thug. The reason that this would be very difficult is that the jury who would decide would be made up of people who hated Cicero, 
+
+00:57:04,820 --> 00:57:11,970 [Lulu]
+loved the guy or were, were friends with him, the, uh, Governor Verres, and, uh, had also been bribed. [laughs] 
+
+00:57:11,970 --> 00:57:12,000 [Interviewer]
+Mm-hmm. 
+
+00:57:12,000 --> 00:57:26,880 [Lulu]
+So he had to get these people to find him guilty. Now, everything's about incentives, right? So all the incentives have gone in the other direction. What can Cicero do or say to break those incentives? 
+
+00:57:28,200 --> 00:57:34,200 [Lulu]
+What he did was he used his speeches to turn it into a trial of the jury. 
+
+00:57:34,200 --> 00:57:35,160 [Interviewer]
+Mm-hmm. 
+
+00:57:35,160 --> 00:57:40,260 [Lulu]
+He said, "This is not about trying this man. Everyone knows he's guilty. 
+
+00:57:41,580 --> 00:57:42,820 [Lulu]
+Who's on trial is you, 
+
+00:57:44,200 --> 00:57:46,160 [Lulu]
+and it's whether you can be bought, 
+
+00:57:47,440 --> 00:58:05,589 [Lulu]
+and it's whether you will let innocence suffer so that you can protect your friends. That's what's on trial." And he completely flipped the incentives for them. Now they're voting for themselves, right? Um, so I think that's a really good example, maybe from a long time ago, but things don't change that much. Humans haven't changed that much. 
+
+00:58:05,589 --> 00:58:05,730 [Interviewer]
+Mm-hmm. 
+
+00:58:05,730 --> 00:58:12,059 [Lulu]
+We have answers to a lot of our questions if we're willing to look back more than, like, 10 minutes ago. 
+
+00:58:12,060 --> 00:58:20,180 [Interviewer]
+So you brought up this idea of if you are on the attack, you always want to focus the point of attack as small as you possibly can. 
+
+00:58:20,180 --> 00:58:20,210 [Lulu]
+Mm-hmm. 
+
+00:58:20,210 --> 00:58:55,460 [Interviewer]
+And instead of saying, you know, "I'm attacking, like, Anduril," you wanna say, like, "I am attacking Palmer Luckey." And it's this one character that people can kind of get behind and a narrative that they can believe in. If you are on the defense, then you want to... You know, if you're a journalist and you're getting attacked, you don't wanna say, "Oh man, I'm getting attacked." You wanna be like, "You are attacking journalism itself." And so suddenly you have this, like, army of people that are like, "I agree that journalism, you know, should be free and open, and people should be able to share what- whatever they wanna do, share and do research." And so suddenly it's, like, a greater cause than yourself. How's... Tell me about the, the difference between those two things and how they marry together. 
+
+00:58:55,460 --> 00:59:21,900 [Lulu]
+Yeah, it's like, um, it's like the concept of pressure in physics, which is when you want to apply pressure, so when you're on offense, you... So, so pressure is force over surface area, right? P equals F over A. So if you want to apply maximum pressure, let's say that the amount of force that you have to bring to bear is constant. Um, you are going to decrease the surface area. So if I wanted to attack you, uh, 
+
+00:59:23,020 --> 01:00:16,370 [Lulu]
+I'll, I'll recap a little bit what, what you already described here, but I'm not gonna attack, like, podcasters. I wouldn't even attack you, the person, 'cause you've got friends. You have a good reputation. I would attack one really specific thing that you have done that, if that's true, unravels so much else about you. So for example, let's say, right, Ty pretends to be a nice guy who cares about others, but I have discovered that last month he received a Bitcoin payment from the Saudis. [laughs] And now, like, I don't have to say, "He's corrupt. He's a liar. He's not actually nice." I don't have to get people to believe all of those things, but if they believe that you got a Bitcoin payment from the Saudis, then they will ask themselves, 
+
+01:00:17,500 --> 01:00:40,140 [Lulu]
+"Why is that? Is it a bribe? Can I trust what he's saying? Which of those interviews is actually fake? Is he lying when he says he wasn't a spy? Is he a liar? Um, does he have a political agenda? Uh, are his interviews fake?" All these things they're now asking themselves, whereas if I had said that, if I said, "Hey, everybody, all his interviews are fake and he's a liar," wouldn't land. Okay? 
+
+01:00:41,280 --> 01:02:11,776 [Lulu]
+If you're on defense-You want to diffuse the pressure so that there's less on you. The, the amount of force that they're applying, you don't get to change, but what you can do is you can spread the surface area, and that does a couple things. One is, uh, you diffuse it so that n- not as much of it is about you, and it's sort of like distracting. But two is, remember we said earlier what makes someone root for you is that you represent something they like, something they want, or something they see in themselves? So in that moment, if you morph yourself into the thing people like or the thing people are rooting for, like if you break into y- your constituent parts, the reasons that people would root for you, and remind people about that, um, uh, uh, if I'm attacking you, you would say, uh, "She is attacking young entrepreneurs who are trying to make a run at creating something new in the media because she's on the side of the gatekeepers, and she doesn't want us to succeed." If you can convince people of that, now you have other podcasters and y- other young entrepreneurs being on d- on your side, not necessarily because they care about you and your Saudi Bitcoin, Bitcoin payment, but because you've reminded them about the thing you represent that is now under threat, that if you get hurt, all of them get hurt. It's a little bit human shield. It's a little bit, "Hey, if, if they get me, they're gonna get all of you, too, so you better fight for me," 
+
+01:02:13,076 --> 01:02:14,796 [Lulu]
+but subtly. 
+
+01:02:14,796 --> 01:02:14,956 [Interviewer]
+Yeah. 
+
+01:02:14,956 --> 01:02:17,856 [Lulu]
+Um, and so, and so that can be wildly effective. 
+
+01:02:17,856 --> 01:02:29,976 [Interviewer]
+It almost seems like, uh, the best example that I can think of where there's a specific thing that someone has done, and thus you can believe all the terrible things that you've heard about them, is like you went to Jeffrey Epstein's island. 
+
+01:02:29,976 --> 01:02:30,056 [Lulu]
+Hmm. 
+
+01:02:30,056 --> 01:02:37,816 [Interviewer]
+Thus, all the terrible things that I've ever heard about you align with that. Like, if you would do this one thing, then you must have, be willing to do all those other horrible things. 
+
+01:02:37,816 --> 01:02:39,616 [Lulu]
+Like you're a creep and you're- 
+
+01:02:39,616 --> 01:02:39,626 [Interviewer]
+Yeah 
+
+01:02:39,626 --> 01:02:41,866 [Lulu]
+... although that list is now so long- 
+
+01:02:41,866 --> 01:02:41,936 [Interviewer]
+It's so long 
+
+01:02:41,936 --> 01:02:44,116 [Lulu]
+... [laughs] that it's sort of lost its potency. 
+
+01:02:44,116 --> 01:02:44,366 [Interviewer]
+[laughs] 
+
+01:02:44,366 --> 01:02:48,996 [Lulu]
+And like the optimal amount of being connected to Epstein is not zero. [laughs] 
+
+01:02:48,996 --> 01:02:50,396 [Interviewer]
+You wanna be two connections away. 
+
+01:02:50,396 --> 01:02:52,176 [Lulu]
+Yeah, yeah, yeah. Um- 
+
+01:02:52,176 --> 01:02:53,836 [Interviewer]
+You were in the know, but not directly linked. 
+
+01:02:53,836 --> 01:03:01,956 [Lulu]
+[laughs] Yeah, yeah. You wanna be, uh, like, who is it? Was it Jim Simons? You wanna be like he tried to get you and you said no. That's like free- 
+
+01:03:01,956 --> 01:03:03,466 [Interviewer]
+You have extreme moral character and- 
+
+01:03:03,466 --> 01:03:24,356 [Lulu]
+... free aura lying on the ground. Uh, I think, um, I, I think there's a quote from the Soviet Union maybe during political upheaval that was like, "We saw power just lying on the ground and we picked it up," aura lying on the ground just for free, you know, if you get invited and you don't go. So I, I don't know if that is the best example, but picture, um... I don't wanna give people a roadmap to ruining somebody's reputation. 
+
+01:03:24,356 --> 01:03:24,376 [Interviewer]
+Mm-hmm. 
+
+01:03:24,376 --> 01:03:36,065 [Lulu]
+But if you have to fight, picture a piece of cloth, and it is very difficult to tear a piece of cloth with your bare hands. But if there's a nick in it, then the whole thing can tear open, right? Like when you see pro wrestlers- 
+
+01:03:36,065 --> 01:03:37,036 [Interviewer]
+You target that nick and you just- 
+
+01:03:37,036 --> 01:03:37,476 [Lulu]
+... like tiny little nick 
+
+01:03:37,476 --> 01:03:38,276 [Interviewer]
+... tear it apart, yep. 
+
+01:03:38,276 --> 01:03:44,956 [Lulu]
+Yeah. So, uh, you know, tip for anyone who ever needs to rip their shirt off on camera, that's make sure you have the nick. 
+
+01:03:44,956 --> 01:03:46,716 [Interviewer]
+When you think about building an aura- 
+
+01:03:46,716 --> 01:03:46,966 [Lulu]
+Mm-hmm 
+
+01:03:46,966 --> 01:04:08,536 [Interviewer]
+... I think building an aura is similar to you've done all these kind of steps that you talked about in this interview successfully over the course of many months or maybe even multiple years, and suddenly people will just default, you know, have this vision of who you are in their mind, and they will like auto support you or auto not want to support you. How do you actually build an aura for yourself? 
+
+01:04:09,916 --> 01:04:13,036 [Lulu]
+I think that, uh, we do talk a little bit too much about aura. 
+
+01:04:13,036 --> 01:04:13,516 [Interviewer]
+Mm-hmm. 
+
+01:04:13,516 --> 01:04:27,186 [Lulu]
+And there's a concept that I would like to bring back, uh, that I would like to advocate for, which is the Roman concept of auctoritas. It is a combination of authority and aura and influence and presence. 
+
+01:04:28,196 --> 01:04:41,706 [Lulu]
+It's more durable than just aura. Aura, to me, is connected to something evanescent and current that is happening right now. You know, aura today doesn't translate to aura tomorrow. It's an- it's sometimes tied to an event, but it's pretty fleeting. 
+
+01:04:43,376 --> 01:05:22,696 [Lulu]
+Whereas auctoritas is you becoming the authority on something, you know, a domain or knowledge or something moral, where people look to you for something that is like enduring. You also have a personal magnetism and presence, but that's not the real core of it. The core of it is what you stand for, and the delivery of it and your presence and your charisma, all of that is the plating or the preparation. But it, there has to be an iron core of what you stand for that is enduring and important. So, so I think, um, we should reframe the quest for aura to a quest for auctoritas.

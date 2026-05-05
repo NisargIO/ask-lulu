@@ -5,7 +5,7 @@ This repo is a knowledge base of Lulu Cheng Meservey's communications writings a
 ## Agent instructions
 
 Read `agents.md` at the root of this repo before answering any question. It contains:
-- A full index of all source material (25 substack posts, 6 interviews)
+- A full index of all source material (25 substack posts, 7 interviews)
 - Lulu's core philosophy and recurring principles
 - Her mental models and metaphors
 - Use-case-specific reading lists (launches, crises, audience building, press, talent, messaging, strategy)
@@ -15,5 +15,5 @@ Always read the relevant source files before responding — don't rely on summar
 ## Repo structure
 
 - `substack/` — 25 posts from Lulu's newsletter Flack (all prefixed `lulu-cheng-meservey-`)
-- `interviews/` — 6 interview transcripts (speaker-labeled: `[Lulu]`, `[Interviewer]`, `[Palmer Luckey]`, etc.)
+- `interviews/` — 7 interview transcripts (speaker-labeled: `[Lulu]`, `[Interviewer]`, `[Palmer Luckey]`, etc.)
 - `agents.md` — Full agent knowledge base and content index

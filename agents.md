@@ -91,6 +91,7 @@ When brainstorming or advising on launches, crises, messaging, or strategy, alwa
 | `Leaking to the Press.txt` | Lulu, Co-host | How leaks work, on-background protocol, preventing leaks, fundraise leak management | Leaks are one-shot deals — overuse kills credibility; NDAs don't prevent leaks; investors are the leakiest; lie to the press once and they never pick up again |
 | `Navigating comms and PR _ Lulu Cheng Meservey (Substack, Activision Blizzard).txt` | Lulu, Lenny Rachitsky | Making ideas spread, cultural erogenous zones, risk-taking, concentric circles framework | "Put the pill in cheese"; concentric circles for message distribution (employees → power users → influencers → public); can't skip a circle; mistakes of commission > omission |
 | `Zuck's PR Makeover and JD Vance's Couchgate.txt` | Lulu, Co-host | Hit piece response strategy, Streisand effect, when front-running works | Streisand effect can work in your favor if you have an entrenched tribe; new founders should be more careful than established ones; decades of track record = more margin for error |
+| `How to Start a Cult _ Lulu Cheng Meservey.txt` | Lulu, Interviewer | Founder as cult leader, language & framing, deterrence, loyalty, offense vs. defense | Acephalous principle (cut off the head); different types of charisma; magnet-in-filings metaphor for audience building; Domino's pizza tracker for transparency; Napoleon's "Les Hommes Sans Peur" (language creates categories); three levels of company story; salami slicing; P=F/A for offense vs. defense; ingredients > plating (distribution); auctoritas > aura; Nigerian prince phishing for goodwill (loyalty building); Cicero's trial-of-the-jury reframe |
 
 All filenames in `substack/` are prefixed with `lulu-cheng-meservey-`. Interview transcripts have speaker labels (`[Lulu]`, `[Interviewer]`, etc.) for easy identification.
 
@@ -152,6 +153,16 @@ Quick-reference for Lulu's recurring frameworks:
 - **Cultural Erogenous Zones**: Find what your audience already cares about and bridge your message to that; don't try to change their worldview
 - **Deterrence Theory**: "Armed society is polite society" applied to reputation; people who know you'll fight back stop attacking
 - **Put the Pill in Cheese**: Wrap your strategic message in something the audience already wants to consume
+- **Acephalous Principle**: Cults/movements depend on their leader; the founder is the irreplaceable head
+- **Magnet in Filings**: Be yourself and your audience gradually orients and attaches; pretending delays compounding
+- **Domino's Pizza Tracker**: During chaos/transformation, constantly show people the destination and progress
+- **Les Hommes Sans Peur**: Language creates categories; naming a thing makes it real and recruitable
+- **Three Levels of Story**: What you do → What it represents → Shape of the dent in the universe; level three gets cult-level talent
+- **Salami Slicing**: Small unchecked encroachments compound; overwhelming early reaction prevents the hundred things that would follow
+- **Pressure = Force / Area**: Offense: narrow the surface area to one devastating fact; Defense: expand to represent something bigger than yourself
+- **Ingredients > Plating**: Distribution is just plating; if the message (dish) is bad, no distribution channel saves it
+- **Auctoritas > Aura**: Pursue enduring authority (what you stand for) over fleeting presence
+- **Nigerian Prince Phishing for Goodwill**: Put acts of loyalty into the world, see who reciprocates, engage further with those who do
 
 ---
 
@@ -168,7 +179,7 @@ Read: `flack-s-crisis-communications-playbook.md`, `the-art-of-the-apology-the-r
 Start with: Are people safe? What are the facts? Who needs to hear from us first (internal before external)?
 
 ### "We need to build an audience"
-Read: `build-your-fanbase-using-the-k-pop-method.md`, `how-to-go-viral-barbie-s-billion-dollar-meme-machine.md`, `how-to-grow-your-newsletter-audience.md`, `standing-out.md`, the Palmer Luckey interview (building a cult following from scratch)
+Read: `build-your-fanbase-using-the-k-pop-method.md`, `how-to-go-viral-barbie-s-billion-dollar-meme-machine.md`, `how-to-grow-your-newsletter-audience.md`, `standing-out.md`, the Palmer Luckey interview (building a cult following from scratch), the How to Start a Cult interview (founder as cult leader, magnet-in-filings metaphor, three levels of company story)
 
 Start with: Who are your 1,000 true fans? What identity do they get from being your follower?
 
@@ -178,22 +189,22 @@ Read: `talking-to-reporters-on-the-record-vs-off-the-record-vs-on-background.md`
 Start with: What's the one thing you want the audience to remember? Everything else follows from that.
 
 ### "How do we deal with a hit piece or attack?"
-Read: `press-so-bad-it-s-good.md`, `kevin-spacey-vs-the-telegraph.md`, the Palmer Luckey interview (reputation defense, deterrence), the Zuck's PR Makeover interview (front-running, Streisand effect), the Cult Leaders interview (deterrence theory)
+Read: `press-so-bad-it-s-good.md`, `kevin-spacey-vs-the-telegraph.md`, the Palmer Luckey interview (reputation defense, deterrence), the Zuck's PR Makeover interview (front-running, Streisand effect), the Cult Leaders interview (deterrence theory), the How to Start a Cult interview (P=F/A offense vs. defense, salami slicing, deterrence via overwhelming reaction)
 
 Start with: How bad is it actually? Don't Streisand something that would have died on its own. If it's real: fight on your turf, activate your tribe, and establish deterrence. Not engaging with lies lets weeds grow for years.
 
 ### "How do we attract talent?"
-Read: `how-to-win-the-ai-talent-war.md`, `go-direct-the-manifesto.md`
+Read: `how-to-win-the-ai-talent-war.md`, `go-direct-the-manifesto.md`, the How to Start a Cult interview (three levels of company story, personal loyalty, founder as cult leader, Napoleon's language framing)
 
 Start with: What's your mission? Best talent is time-poor, not money-poor — they want glory, purpose, and great peers.
 
 ### "How do we write this message / announcement / statement?"
-Read: `comms-foundation-2-tactics.md`, `the-art-of-the-apology-the-right-way-to-say-sorry.md`, `the-5-ingredients-of-a-great-fundraising-announcement.md`, the Cult Leaders interview (hooks, Venn diagram), the Meet Silicon Valley interview (statement writing process), the Navigating comms interview (making ideas spread, "put the pill in cheese")
+Read: `comms-foundation-2-tactics.md`, `the-art-of-the-apology-the-right-way-to-say-sorry.md`, `the-5-ingredients-of-a-great-fundraising-announcement.md`, the Cult Leaders interview (hooks, Venn diagram), the Meet Silicon Valley interview (statement writing process), the Navigating comms interview (making ideas spread, "put the pill in cheese"), the How to Start a Cult interview (language creates categories, ingredients > plating, jailbreaking people with the right 500-1000 words, Cicero's reframe)
 
 Start with: What's the hook? If you can't state it in one sentence, you don't have one yet. Make it something a second grader could understand. Read it out loud — if you cringe, rewrite.
 
 ### "We need to brainstorm our comms strategy"
-Read: `comms-foundation-1-strategy.md`, `comms-foundation-2-tactics.md`, `go-direct-the-manifesto.md`, `the-danger-of-playing-it-safe-why-you-need-to-take-pr-risks.md`, the Navigating comms interview (concentric circles, cultural erogenous zones)
+Read: `comms-foundation-1-strategy.md`, `comms-foundation-2-tactics.md`, `go-direct-the-manifesto.md`, `the-danger-of-playing-it-safe-why-you-need-to-take-pr-risks.md`, the Navigating comms interview (concentric circles, cultural erogenous zones), the How to Start a Cult interview (founder as cult leader, auctoritas > aura, choosing sides, distribution is just plating)
 
 Start with the COMMS PLAN formula. Then pressure-test: Are you being too safe? Are you going direct or depending on gatekeepers? Is the founder front and center? Map your concentric circles and identify your audience's cultural erogenous zones.
 
